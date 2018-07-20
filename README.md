@@ -23,3 +23,21 @@
 ### 備註說明：
 
 * unicode 與 uni_char 為一組，norm_unicode 與 norm_uni_char 為一組，這二組不會同時有資料。
+
+---
+
+# cbeta_sanskrit
+
+## CBETA 梵字資料庫
+
+### 底下為梵字資料庫各欄位說明
+
+* ID : 梵字代碼。悉曇字格式為 SD-XXXX，蘭扎字格式為 RJ-XXXX。(XXXX 為16進位)。
+
+* char : 直接呈現的字型 (此 char 即 XXXX 在 big5 字集的內碼所呈現的文字)。
+
+* pua : 預計使用 Unicode 私人用區的位置。悉曇字為 0xFA00 + XXXX。蘭扎為 0x100000 + XXXX。
+
+* romanized : 此梵字的羅馬拼音，此欄位不一定存在。
+
+* symbol : 此梵字可以直接使用此 symbol 符號來表示，此欄位不一定存在。

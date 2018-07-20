@@ -1,0 +1,10957 @@
+{
+  "RJ-C943": {
+    "char": "匚",
+    "pua": "U+10C943",
+    "romanized": "a"
+  },
+  "RJ-C944": {
+    "char": "厂",
+    "pua": "U+10C944",
+    "romanized": "ā"
+  },
+  "RJ-C946": {
+    "char": "丌",
+    "pua": "U+10C946",
+    "romanized": "aḥ"
+  },
+  "RJ-C947": {
+    "char": "乇",
+    "pua": "U+10C947",
+    "romanized": "āḥ"
+  },
+  "RJ-C949": {
+    "char": "囗",
+    "pua": "U+10C949",
+    "romanized": "aṃ"
+  },
+  "RJ-C94B": {
+    "char": "屮",
+    "pua": "U+10C94B",
+    "romanized": "ba"
+  },
+  "RJ-C954": {
+    "char": "仈",
+    "pua": "U+10C954",
+    "romanized": "bhā"
+  },
+  "RJ-C959": {
+    "char": "圠",
+    "pua": "U+10C959",
+    "romanized": "bhe"
+  },
+  "RJ-C963": {
+    "char": "丱",
+    "pua": "U+10C963",
+    "romanized": "bhrūṃ"
+  },
+  "RJ-C96F": {
+    "char": "圣",
+    "pua": "U+10C96F",
+    "romanized": "bo"
+  },
+  "RJ-C973": {
+    "char": "宄",
+    "pua": "U+10C973",
+    "romanized": "bu"
+  },
+  "RJ-C977": {
+    "char": "屳",
+    "pua": "U+10C977",
+    "romanized": "ca"
+  },
+  "RJ-C97B": {
+    "char": "忉",
+    "pua": "U+10C97B",
+    "romanized": "caṃ"
+  },
+  "RJ-C9BD": {
+    "char": "刓",
+    "pua": "U+10C9BD",
+    "romanized": "cu"
+  },
+  "RJ-C9BF": {
+    "char": "刐",
+    "pua": "U+10C9BF",
+    "romanized": "cuṃ"
+  },
+  "RJ-C9D2": {
+    "char": "奿",
+    "pua": "U+10C9D2",
+    "romanized": "ddha"
+  },
+  "RJ-C9D3": {
+    "char": "孖",
+    "pua": "U+10C9D3",
+    "romanized": "ddhā"
+  },
+  "RJ-C9D5": {
+    "char": "尥",
+    "pua": "U+10C9D5",
+    "romanized": "de"
+  },
+  "RJ-C9D9": {
+    "char": "屾",
+    "pua": "U+10C9D9",
+    "romanized": "dha"
+  },
+  "RJ-C9E7": {
+    "char": "扦",
+    "pua": "U+10C9E7",
+    "romanized": "dhi"
+  },
+  "RJ-C9E8": {
+    "char": "扢",
+    "pua": "U+10C9E8",
+    "romanized": "dhī"
+  },
+  "RJ-C9FA": {
+    "char": "汜",
+    "pua": "U+10C9FA",
+    "romanized": "dhu"
+  },
+  "RJ-CA4C": {
+    "char": "芀",
+    "pua": "U+10CA4C",
+    "romanized": "dme"
+  },
+  "RJ-CA57": {
+    "char": "阤",
+    "pua": "U+10CA57",
+    "romanized": "drā"
+  },
+  "RJ-CA5F": {
+    "char": "佤",
+    "pua": "U+10CA5F",
+    "romanized": "dya"
+  },
+  "RJ-CA62": {
+    "char": "佒",
+    "pua": "U+10CA62",
+    "romanized": "ga"
+  },
+  "RJ-CA6C": {
+    "char": "刜",
+    "pua": "U+10CA6C",
+    "romanized": "gha"
+  },
+  "RJ-CA70": {
+    "char": "劮",
+    "pua": "U+10CA70",
+    "romanized": "ghaṃ"
+  },
+  "RJ-CAAB": {
+    "char": "坅",
+    "pua": "U+10CAAB",
+    "romanized": "gu"
+  },
+  "RJ-CAAF": {
+    "char": "坒",
+    "pua": "U+10CAAF",
+    "romanized": "ha"
+  },
+  "RJ-CAB0": {
+    "char": "夆",
+    "pua": "U+10CAB0",
+    "romanized": "hā"
+  },
+  "RJ-CAB3": {
+    "char": "妘",
+    "pua": "U+10CAB3",
+    "romanized": "haṃ"
+  },
+  "RJ-CAC5": {
+    "char": "岒",
+    "pua": "U+10CAC5",
+    "romanized": "hri"
+  },
+  "RJ-CAC7": {
+    "char": "岆",
+    "pua": "U+10CAC7",
+    "romanized": "hrīḥ"
+  },
+  "RJ-CACB": {
+    "char": "帊",
+    "pua": "U+10CACB",
+    "romanized": "hūṃ"
+  },
+  "RJ-CAD2": {
+    "char": "弅",
+    "pua": "U+10CAD2",
+    "romanized": "jaḥ"
+  },
+  "RJ-CAF3": {
+    "char": "扷",
+    "pua": "U+10CAF3",
+    "romanized": "jña"
+  },
+  "RJ-CB4B": {
+    "char": "汸",
+    "pua": "U+10CB4B",
+    "romanized": "jra"
+  },
+  "RJ-CB4E": {
+    "char": "沄",
+    "pua": "U+10CB4E",
+    "romanized": "jriṃ"
+  },
+  "RJ-CB51": {
+    "char": "汱",
+    "pua": "U+10CB51",
+    "romanized": "jva"
+  },
+  "RJ-CB54": {
+    "char": "沚",
+    "pua": "U+10CB54",
+    "romanized": "ka"
+  },
+  "RJ-CB58": {
+    "char": "沜",
+    "pua": "U+10CB58",
+    "romanized": "kaṃ"
+  },
+  "RJ-CB5C": {
+    "char": "汻",
+    "pua": "U+10CB5C",
+    "romanized": "kha"
+  },
+  "RJ-CB60": {
+    "char": "牣",
+    "pua": "U+10CB60",
+    "romanized": "khaṃ"
+  },
+  "RJ-CB70": {
+    "char": "疕",
+    "pua": "U+10CB70",
+    "romanized": "ki"
+  },
+  "RJ-CB77": {
+    "char": "肒",
+    "pua": "U+10CB77",
+    "romanized": "ko"
+  },
+  "RJ-CBA2": {
+    "char": "芃",
+    "pua": "U+10CBA2",
+    "romanized": "ksaṃ"
+  },
+  "RJ-CBA8": {
+    "char": "邡",
+    "pua": "U+10CBA8",
+    "romanized": "kṣiṃ"
+  },
+  "RJ-CBBC": {
+    "char": "佷",
+    "pua": "U+10CBBC",
+    "romanized": "la"
+  },
+  "RJ-CBC2": {
+    "char": "侁",
+    "pua": "U+10CBC2",
+    "romanized": "le"
+  },
+  "RJ-CBC9": {
+    "char": "侂",
+    "pua": "U+10CBC9",
+    "romanized": "lo"
+  },
+  "RJ-CBD3": {
+    "char": "剆",
+    "pua": "U+10CBD3",
+    "romanized": "ma"
+  },
+  "RJ-CBD7": {
+    "char": "匋",
+    "pua": "U+10CBD7",
+    "romanized": "maṃ"
+  },
+  "RJ-CBE2": {
+    "char": "呺",
+    "pua": "U+10CBE2",
+    "romanized": "mo"
+  },
+  "RJ-CBE8": {
+    "char": "咍",
+    "pua": "U+10CBE8",
+    "romanized": "mu"
+  },
+  "RJ-CBEB": {
+    "char": "呠",
+    "pua": "U+10CBEB",
+    "romanized": "mya"
+  },
+  "RJ-CBED": {
+    "char": "呣",
+    "pua": "U+10CBED",
+    "romanized": "na"
+  },
+  "RJ-CBEE": {
+    "char": "呧",
+    "pua": "U+10CBEE",
+    "romanized": "nā"
+  },
+  "RJ-CBFE": {
+    "char": "坢",
+    "pua": "U+10CBFE",
+    "romanized": "nāṃ"
+  },
+  "RJ-CC4E": {
+    "char": "姖",
+    "pua": "U+10CC4E",
+    "romanized": "ne"
+  },
+  "RJ-CC54": {
+    "char": "姇",
+    "pua": "U+10CC54",
+    "romanized": "ni"
+  },
+  "RJ-CC5A": {
+    "char": "屇",
+    "pua": "U+10CC5A",
+    "romanized": "ṇi"
+  },
+  "RJ-CCBA": {
+    "char": "抮",
+    "pua": "U+10CCBA",
+    "romanized": "oṃ"
+  },
+  "RJ-CCBB": {
+    "char": "抳",
+    "pua": "U+10CCBB",
+    "romanized": "pa"
+  },
+  "RJ-CCBF": {
+    "char": "抰",
+    "pua": "U+10CCBF",
+    "romanized": "paṃ"
+  },
+  "RJ-CCC2": {
+    "char": "斨",
+    "pua": "U+10CCC2",
+    "romanized": "pha"
+  },
+  "RJ-CCDE": {
+    "char": "枌",
+    "pua": "U+10CCDE",
+    "romanized": "pra"
+  },
+  "RJ-CCDF": {
+    "char": "杺",
+    "pua": "U+10CCDF",
+    "romanized": "pta"
+  },
+  "RJ-CCE1": {
+    "char": "枑",
+    "pua": "U+10CCE1",
+    "romanized": "pu"
+  },
+  "RJ-CCE7": {
+    "char": "杹",
+    "pua": "U+10CCE7",
+    "romanized": "ra"
+  },
+  "RJ-CCE8": {
+    "char": "枔",
+    "pua": "U+10CCE8",
+    "romanized": "rā"
+  },
+  "RJ-CCEB": {
+    "char": "歾",
+    "pua": "U+10CCEB",
+    "romanized": "raṃ"
+  },
+  "RJ-CCF7": {
+    "char": "沷",
+    "pua": "U+10CCF7",
+    "romanized": "re"
+  },
+  "RJ-CCFB": {
+    "char": "泃",
+    "pua": "U+10CCFB",
+    "romanized": "ri"
+  },
+  "RJ-CD4E": {
+    "char": "泩",
+    "pua": "U+10CD4E",
+    "romanized": "ro"
+  },
+  "RJ-CD5E": {
+    "char": "狘",
+    "pua": "U+10CD5E",
+    "romanized": "ru"
+  },
+  "RJ-CD63": {
+    "char": "狚",
+    "pua": "U+10CD63",
+    "romanized": "rya"
+  },
+  "RJ-CD64": {
+    "char": "狌",
+    "pua": "U+10CD64",
+    "romanized": "sa"
+  },
+  "RJ-CD65": {
+    "char": "狑",
+    "pua": "U+10CD65",
+    "romanized": "sā"
+  },
+  "RJ-CD66": {
+    "char": "玤",
+    "pua": "U+10CD66",
+    "romanized": "śa"
+  },
+  "RJ-CD68": {
+    "char": "玭",
+    "pua": "U+10CD68",
+    "romanized": "ṣa"
+  },
+  "RJ-CD70": {
+    "char": "甿",
+    "pua": "U+10CD70",
+    "romanized": "saṃ"
+  },
+  "RJ-CD7C": {
+    "char": "矹",
+    "pua": "U+10CD7C",
+    "romanized": "ś?"
+  },
+  "RJ-CDB9": {
+    "char": "芧",
+    "pua": "U+10CDB9",
+    "romanized": "sra"
+  },
+  "RJ-CDC0": {
+    "char": "芡",
+    "pua": "U+10CDC0",
+    "romanized": "ṣṭa"
+  },
+  "RJ-CDC2": {
+    "char": "苂",
+    "pua": "U+10CDC2",
+    "romanized": "ṣṭha"
+  },
+  "RJ-CDC3": {
+    "char": "芤",
+    "pua": "U+10CDC3",
+    "romanized": "ṣṭhi"
+  },
+  "RJ-CDC5": {
+    "char": "芶",
+    "pua": "U+10CDC5",
+    "romanized": "su"
+  },
+  "RJ-CDCC": {
+    "char": "迒",
+    "pua": "U+10CDCC",
+    "romanized": "svā"
+  },
+  "RJ-CDCD": {
+    "char": "迋",
+    "pua": "U+10CDCD",
+    "romanized": "śva"
+  },
+  "RJ-CDD3": {
+    "char": "邲",
+    "pua": "U+10CDD3",
+    "romanized": "ṭ"
+  },
+  "RJ-CDD4": {
+    "char": "邴",
+    "pua": "U+10CDD4",
+    "romanized": "ta"
+  },
+  "RJ-CDD5": {
+    "char": "邯",
+    "pua": "U+10CDD5",
+    "romanized": "tā"
+  },
+  "RJ-CDD6": {
+    "char": "邳",
+    "pua": "U+10CDD6",
+    "romanized": "ṭa"
+  },
+  "RJ-CDE0": {
+    "char": "侲",
+    "pua": "U+10CDE0",
+    "romanized": "te"
+  },
+  "RJ-CDE2": {
+    "char": "俋",
+    "pua": "U+10CDE2",
+    "romanized": "tha"
+  },
+  "RJ-CDE3": {
+    "char": "俁",
+    "pua": "U+10CDE3",
+    "romanized": "thā"
+  },
+  "RJ-CDE6": {
+    "char": "俙",
+    "pua": "U+10CDE6",
+    "romanized": "ṭhā"
+  },
+  "RJ-CDF3": {
+    "char": "勂",
+    "pua": "U+10CDF3",
+    "romanized": "thī"
+  },
+  "RJ-CDFD": {
+    "char": "咥",
+    "pua": "U+10CDFD",
+    "romanized": "tho"
+  },
+  "RJ-CE52": {
+    "char": "垟",
+    "pua": "U+10CE52",
+    "romanized": "ṭī"
+  },
+  "RJ-CE58": {
+    "char": "垔",
+    "pua": "U+10CE58",
+    "romanized": "tna"
+  },
+  "RJ-CE5A": {
+    "char": "垏",
+    "pua": "U+10CE5A",
+    "romanized": "to"
+  },
+  "RJ-CE61": {
+    "char": "奓",
+    "pua": "U+10CE61",
+    "romanized": "tra"
+  },
+  "RJ-CE62": {
+    "char": "姡",
+    "pua": "U+10CE62",
+    "romanized": "trā"
+  },
+  "RJ-CE66": {
+    "char": "姱",
+    "pua": "U+10CE66",
+    "romanized": "traṃ"
+  },
+  "RJ-CE7E": {
+    "char": "峛",
+    "pua": "U+10CE7E",
+    "romanized": "tvā"
+  },
+  "RJ-CEA6": {
+    "char": "峖",
+    "pua": "U+10CEA6",
+    "romanized": "va"
+  },
+  "RJ-CEAA": {
+    "char": "峈",
+    "pua": "U+10CEAA",
+    "romanized": "vaṃ"
+  },
+  "RJ-CEAE": {
+    "char": "峸",
+    "pua": "U+10CEAE",
+    "romanized": "vi"
+  },
+  "RJ-CEBC": {
+    "char": "弮",
+    "pua": "U+10CEBC",
+    "romanized": "ya"
+  },
+  "RJ-CEBD": {
+    "char": "彖",
+    "pua": "U+10CEBD",
+    "romanized": "yā"
+  },
+  "RJ-CED0": {
+    "char": "恦",
+    "pua": "U+10CED0",
+    "romanized": "cchrīṃ"
+  },
+  "RJ-CED1": {
+    "char": "恮",
+    "pua": "U+10CED1",
+    "romanized": "mbhī"
+  },
+  "RJ-CED4": {
+    "char": "拏",
+    "pua": "U+10CED4",
+    "romanized": "tnaṃ"
+  },
+  "RJ-CED5": {
+    "char": "挍",
+    "pua": "U+10CED5",
+    "romanized": "trāṃ"
+  },
+  "RJ-CED6": {
+    "char": "挋",
+    "pua": "U+10CED6",
+    "romanized": "ṃ"
+  },
+  "RJ-CEDA": {
+    "char": "拫",
+    "pua": "U+10CEDA",
+    "romanized": "pāṃ"
+  },
+  "RJ-CEDB": {
+    "char": "拹",
+    "pua": "U+10CEDB",
+    "romanized": "hṭha"
+  },
+  "RJ-E040": {
+    "char": "觡",
+    "pua": "U+10E040"
+  },
+  "RJ-E041": {
+    "char": "觠",
+    "pua": "U+10E041"
+  },
+  "RJ-E042": {
+    "char": "觢",
+    "pua": "U+10E042"
+  },
+  "RJ-E043": {
+    "char": "觜",
+    "pua": "U+10E043"
+  },
+  "RJ-E044": {
+    "char": "触",
+    "pua": "U+10E044"
+  },
+  "RJ-E045": {
+    "char": "詶",
+    "pua": "U+10E045"
+  },
+  "RJ-E046": {
+    "char": "誆",
+    "pua": "U+10E046"
+  },
+  "RJ-E047": {
+    "char": "詿",
+    "pua": "U+10E047"
+  },
+  "RJ-E048": {
+    "char": "詡",
+    "pua": "U+10E048"
+  },
+  "RJ-E049": {
+    "char": "訿",
+    "pua": "U+10E049"
+  },
+  "RJ-E04A": {
+    "char": "詷",
+    "pua": "U+10E04A"
+  },
+  "RJ-E04B": {
+    "char": "誂",
+    "pua": "U+10E04B"
+  },
+  "RJ-E04C": {
+    "char": "誄",
+    "pua": "U+10E04C"
+  },
+  "RJ-E04D": {
+    "char": "詵",
+    "pua": "U+10E04D"
+  },
+  "RJ-E04E": {
+    "char": "誃",
+    "pua": "U+10E04E"
+  },
+  "RJ-E04F": {
+    "char": "誁",
+    "pua": "U+10E04F"
+  },
+  "RJ-E050": {
+    "char": "詴",
+    "pua": "U+10E050"
+  },
+  "RJ-E051": {
+    "char": "詺",
+    "pua": "U+10E051"
+  },
+  "RJ-E052": {
+    "char": "谼",
+    "pua": "U+10E052"
+  },
+  "RJ-E053": {
+    "char": "豋",
+    "pua": "U+10E053"
+  },
+  "RJ-E054": {
+    "char": "豊",
+    "pua": "U+10E054"
+  },
+  "RJ-E055": {
+    "char": "豥",
+    "pua": "U+10E055"
+  },
+  "RJ-E056": {
+    "char": "豤",
+    "pua": "U+10E056"
+  },
+  "RJ-E057": {
+    "char": "豦",
+    "pua": "U+10E057"
+  },
+  "RJ-E058": {
+    "char": "貆",
+    "pua": "U+10E058"
+  },
+  "RJ-E059": {
+    "char": "貄",
+    "pua": "U+10E059"
+  },
+  "RJ-E05B": {
+    "char": "賌",
+    "pua": "U+10E05B"
+  },
+  "RJ-E05C": {
+    "char": "赨",
+    "pua": "U+10E05C"
+  },
+  "RJ-E05D": {
+    "char": "赩",
+    "pua": "U+10E05D"
+  },
+  "RJ-E05E": {
+    "char": "趑",
+    "pua": "U+10E05E"
+  },
+  "RJ-E05F": {
+    "char": "趌",
+    "pua": "U+10E05F"
+  },
+  "RJ-E060": {
+    "char": "趎",
+    "pua": "U+10E060"
+  },
+  "RJ-E061": {
+    "char": "趏",
+    "pua": "U+10E061"
+  },
+  "RJ-E062": {
+    "char": "趍",
+    "pua": "U+10E062"
+  },
+  "RJ-E063": {
+    "char": "趓",
+    "pua": "U+10E063"
+  },
+  "RJ-E064": {
+    "char": "趔",
+    "pua": "U+10E064"
+  },
+  "RJ-E065": {
+    "char": "趐",
+    "pua": "U+10E065"
+  },
+  "RJ-E066": {
+    "char": "趒",
+    "pua": "U+10E066"
+  },
+  "RJ-E067": {
+    "char": "跰",
+    "pua": "U+10E067"
+  },
+  "RJ-E068": {
+    "char": "跠",
+    "pua": "U+10E068"
+  },
+  "RJ-E069": {
+    "char": "跬",
+    "pua": "U+10E069"
+  },
+  "RJ-E06A": {
+    "char": "跱",
+    "pua": "U+10E06A"
+  },
+  "RJ-E06B": {
+    "char": "跮",
+    "pua": "U+10E06B"
+  },
+  "RJ-E06C": {
+    "char": "跐",
+    "pua": "U+10E06C"
+  },
+  "RJ-E06D": {
+    "char": "跩",
+    "pua": "U+10E06D"
+  },
+  "RJ-E06E": {
+    "char": "跣",
+    "pua": "U+10E06E"
+  },
+  "RJ-E06F": {
+    "char": "跢",
+    "pua": "U+10E06F"
+  },
+  "SD-A440": {
+    "char": "一",
+    "pua": "U+104440",
+    "romanized": "ka"
+  },
+  "SD-A441": {
+    "char": "乙",
+    "pua": "U+104441",
+    "romanized": "kā"
+  },
+  "SD-A442": {
+    "char": "丁",
+    "pua": "U+104442",
+    "romanized": "ki"
+  },
+  "SD-A443": {
+    "char": "七",
+    "pua": "U+104443",
+    "romanized": "kī"
+  },
+  "SD-A444": {
+    "char": "乃",
+    "pua": "U+104444",
+    "romanized": "ku"
+  },
+  "SD-A445": {
+    "char": "九",
+    "pua": "U+104445",
+    "romanized": "kū"
+  },
+  "SD-A446": {
+    "char": "了",
+    "pua": "U+104446",
+    "romanized": "ke"
+  },
+  "SD-A447": {
+    "char": "二",
+    "pua": "U+104447",
+    "romanized": "kai"
+  },
+  "SD-A448": {
+    "char": "人",
+    "pua": "U+104448",
+    "romanized": "ko"
+  },
+  "SD-A449": {
+    "char": "儿",
+    "pua": "U+104449",
+    "romanized": "kau"
+  },
+  "SD-A44A": {
+    "char": "入",
+    "pua": "U+10444A",
+    "romanized": "kaṃ"
+  },
+  "SD-A44B": {
+    "char": "八",
+    "pua": "U+10444B",
+    "romanized": "kaḥ"
+  },
+  "SD-A44C": {
+    "char": "几",
+    "pua": "U+10444C",
+    "romanized": "kha"
+  },
+  "SD-A44D": {
+    "char": "刀",
+    "pua": "U+10444D",
+    "romanized": "khā"
+  },
+  "SD-A44E": {
+    "char": "刁",
+    "pua": "U+10444E",
+    "romanized": "khi"
+  },
+  "SD-A44F": {
+    "char": "力",
+    "pua": "U+10444F",
+    "romanized": "khī"
+  },
+  "SD-A452": {
+    "char": "卜",
+    "pua": "U+104452",
+    "romanized": "khe"
+  },
+  "SD-A454": {
+    "char": "三",
+    "pua": "U+104454",
+    "romanized": "kho"
+  },
+  "SD-A456": {
+    "char": "丈",
+    "pua": "U+104456",
+    "romanized": "khaṃ"
+  },
+  "SD-A457": {
+    "char": "上",
+    "pua": "U+104457",
+    "romanized": "khaḥ"
+  },
+  "SD-A458": {
+    "char": "丫",
+    "pua": "U+104458",
+    "romanized": "ga"
+  },
+  "SD-A459": {
+    "char": "丸",
+    "pua": "U+104459",
+    "romanized": "gā"
+  },
+  "SD-A45A": {
+    "char": "凡",
+    "pua": "U+10445A",
+    "romanized": "gi"
+  },
+  "SD-A45C": {
+    "char": "么",
+    "pua": "U+10445C",
+    "romanized": "gu"
+  },
+  "SD-A45D": {
+    "char": "也",
+    "pua": "U+10445D",
+    "romanized": "gū"
+  },
+  "SD-A45E": {
+    "char": "乞",
+    "pua": "U+10445E",
+    "romanized": "ge"
+  },
+  "SD-A45F": {
+    "char": "于",
+    "pua": "U+10445F",
+    "romanized": "gai"
+  },
+  "SD-A460": {
+    "char": "亡",
+    "pua": "U+104460",
+    "romanized": "go"
+  },
+  "SD-A461": {
+    "char": "兀",
+    "pua": "U+104461",
+    "romanized": "gau"
+  },
+  "SD-A462": {
+    "char": "刃",
+    "pua": "U+104462",
+    "romanized": "gaṃ"
+  },
+  "SD-A463": {
+    "char": "勺",
+    "pua": "U+104463",
+    "romanized": "gaḥ"
+  },
+  "SD-A464": {
+    "char": "千",
+    "pua": "U+104464",
+    "romanized": "gha"
+  },
+  "SD-A465": {
+    "char": "叉",
+    "pua": "U+104465",
+    "romanized": "ghā"
+  },
+  "SD-A466": {
+    "char": "口",
+    "pua": "U+104466",
+    "romanized": "ghi"
+  },
+  "SD-A467": {
+    "char": "土",
+    "pua": "U+104467",
+    "romanized": "ghī"
+  },
+  "SD-A46A": {
+    "char": "大",
+    "pua": "U+10446A",
+    "romanized": "ghe"
+  },
+  "SD-A46C": {
+    "char": "子",
+    "pua": "U+10446C",
+    "romanized": "gho"
+  },
+  "SD-A46E": {
+    "char": "孓",
+    "pua": "U+10446E",
+    "romanized": "ghaṃ"
+  },
+  "SD-A46F": {
+    "char": "寸",
+    "pua": "U+10446F",
+    "romanized": "ghaḥ"
+  },
+  "SD-A470": {
+    "char": "小",
+    "pua": "U+104470",
+    "romanized": "ṅa"
+  },
+  "SD-A471": {
+    "char": "尢",
+    "pua": "U+104471",
+    "romanized": "ṅā"
+  },
+  "SD-A473": {
+    "char": "山",
+    "pua": "U+104473",
+    "romanized": "ṅī"
+  },
+  "SD-A47A": {
+    "char": "干",
+    "pua": "U+10447A",
+    "romanized": "ṅaṃ"
+  },
+  "SD-A47B": {
+    "char": "廾",
+    "pua": "U+10447B",
+    "romanized": "ṅaḥ"
+  },
+  "SD-A47C": {
+    "char": "弋",
+    "pua": "U+10447C",
+    "romanized": "ca"
+  },
+  "SD-A47D": {
+    "char": "弓",
+    "pua": "U+10447D",
+    "romanized": "cā"
+  },
+  "SD-A47E": {
+    "char": "才",
+    "pua": "U+10447E",
+    "romanized": "ci"
+  },
+  "SD-A4A1": {
+    "char": "丑",
+    "pua": "U+1044A1",
+    "romanized": "cī"
+  },
+  "SD-A4A2": {
+    "char": "丐",
+    "pua": "U+1044A2",
+    "romanized": "cu"
+  },
+  "SD-A4A4": {
+    "char": "中",
+    "pua": "U+1044A4",
+    "romanized": "ce"
+  },
+  "SD-A4A5": {
+    "char": "丰",
+    "pua": "U+1044A5",
+    "romanized": "cai"
+  },
+  "SD-A4A6": {
+    "char": "丹",
+    "pua": "U+1044A6",
+    "romanized": "co"
+  },
+  "SD-A4A7": {
+    "char": "之",
+    "pua": "U+1044A7",
+    "romanized": "cau"
+  },
+  "SD-A4A8": {
+    "char": "尹",
+    "pua": "U+1044A8",
+    "romanized": "caṃ"
+  },
+  "SD-A4A9": {
+    "char": "予",
+    "pua": "U+1044A9",
+    "romanized": "caḥ"
+  },
+  "SD-A4AA": {
+    "char": "云",
+    "pua": "U+1044AA",
+    "romanized": "cha"
+  },
+  "SD-A4B6": {
+    "char": "介",
+    "pua": "U+1044B6",
+    "romanized": "ja"
+  },
+  "SD-A4B7": {
+    "char": "仄",
+    "pua": "U+1044B7",
+    "romanized": "jā"
+  },
+  "SD-A4B8": {
+    "char": "元",
+    "pua": "U+1044B8",
+    "romanized": "ji"
+  },
+  "SD-A4B9": {
+    "char": "允",
+    "pua": "U+1044B9",
+    "romanized": "jī"
+  },
+  "SD-A4BA": {
+    "char": "內",
+    "pua": "U+1044BA",
+    "romanized": "ju"
+  },
+  "SD-A4BC": {
+    "char": "兮",
+    "pua": "U+1044BC",
+    "romanized": "je"
+  },
+  "SD-A4BE": {
+    "char": "冗",
+    "pua": "U+1044BE",
+    "romanized": "jo"
+  },
+  "SD-A4C0": {
+    "char": "分",
+    "pua": "U+1044C0",
+    "romanized": "jaṃ"
+  },
+  "SD-A4C1": {
+    "char": "切",
+    "pua": "U+1044C1",
+    "romanized": "jaḥ"
+  },
+  "SD-A4C2": {
+    "char": "刈",
+    "pua": "U+1044C2",
+    "romanized": "jha"
+  },
+  "SD-A4C3": {
+    "char": "勻",
+    "pua": "U+1044C3",
+    "romanized": "jhā"
+  },
+  "SD-A4C4": {
+    "char": "勾",
+    "pua": "U+1044C4",
+    "romanized": "jhi"
+  },
+  "SD-A4C8": {
+    "char": "午",
+    "pua": "U+1044C8",
+    "romanized": "jhe"
+  },
+  "SD-A4CC": {
+    "char": "厄",
+    "pua": "U+1044CC",
+    "romanized": "jhaṃ"
+  },
+  "SD-A4CD": {
+    "char": "友",
+    "pua": "U+1044CD",
+    "romanized": "jhaḥ"
+  },
+  "SD-A4CE": {
+    "char": "及",
+    "pua": "U+1044CE",
+    "romanized": "ña"
+  },
+  "SD-A4CF": {
+    "char": "反",
+    "pua": "U+1044CF",
+    "romanized": "ñā"
+  },
+  "SD-A4D8": {
+    "char": "尺",
+    "pua": "U+1044D8",
+    "romanized": "ñaṃ"
+  },
+  "SD-A4D9": {
+    "char": "屯",
+    "pua": "U+1044D9",
+    "romanized": "ñaḥ"
+  },
+  "SD-A4DA": {
+    "char": "巴",
+    "pua": "U+1044DA",
+    "romanized": "ṭa"
+  },
+  "SD-A4DB": {
+    "char": "幻",
+    "pua": "U+1044DB",
+    "romanized": "ṭā"
+  },
+  "SD-A4DC": {
+    "char": "廿",
+    "pua": "U+1044DC",
+    "romanized": "ṭi"
+  },
+  "SD-A4DD": {
+    "char": "弔",
+    "pua": "U+1044DD",
+    "romanized": "ṭī"
+  },
+  "SD-A4DE": {
+    "char": "引",
+    "pua": "U+1044DE",
+    "romanized": "ṭu"
+  },
+  "SD-A4DF": {
+    "char": "心",
+    "pua": "U+1044DF",
+    "romanized": "ṭū"
+  },
+  "SD-A4E0": {
+    "char": "戈",
+    "pua": "U+1044E0",
+    "romanized": "ṭe"
+  },
+  "SD-A4E1": {
+    "char": "戶",
+    "pua": "U+1044E1",
+    "romanized": "ṭai"
+  },
+  "SD-A4E2": {
+    "char": "手",
+    "pua": "U+1044E2",
+    "romanized": "ṭo"
+  },
+  "SD-A4E3": {
+    "char": "扎",
+    "pua": "U+1044E3",
+    "romanized": "ṭau"
+  },
+  "SD-A4E4": {
+    "char": "支",
+    "pua": "U+1044E4",
+    "romanized": "ṭaṃ"
+  },
+  "SD-A4E5": {
+    "char": "文",
+    "pua": "U+1044E5",
+    "romanized": "ṭaḥ"
+  },
+  "SD-A4E6": {
+    "char": "斗",
+    "pua": "U+1044E6",
+    "romanized": "ṭha"
+  },
+  "SD-A4E7": {
+    "char": "斤",
+    "pua": "U+1044E7",
+    "romanized": "ṭhā"
+  },
+  "SD-A4E8": {
+    "char": "方",
+    "pua": "U+1044E8",
+    "romanized": "ṭhi"
+  },
+  "SD-A4EA": {
+    "char": "曰",
+    "pua": "U+1044EA",
+    "romanized": "ṭhu"
+  },
+  "SD-A4EC": {
+    "char": "木",
+    "pua": "U+1044EC",
+    "romanized": "ṭhe"
+  },
+  "SD-A4F0": {
+    "char": "毋",
+    "pua": "U+1044F0",
+    "romanized": "ṭhaṃ"
+  },
+  "SD-A4F1": {
+    "char": "比",
+    "pua": "U+1044F1",
+    "romanized": "ṭhaḥ"
+  },
+  "SD-A4F2": {
+    "char": "毛",
+    "pua": "U+1044F2",
+    "romanized": "ḍa"
+  },
+  "SD-A4F3": {
+    "char": "氏",
+    "pua": "U+1044F3",
+    "romanized": "ḍā"
+  },
+  "SD-A4F4": {
+    "char": "水",
+    "pua": "U+1044F4",
+    "romanized": "ḍi"
+  },
+  "SD-A4F6": {
+    "char": "爪",
+    "pua": "U+1044F6",
+    "romanized": "ḍu"
+  },
+  "SD-A4F7": {
+    "char": "父",
+    "pua": "U+1044F7",
+    "romanized": "ḍū"
+  },
+  "SD-A4F8": {
+    "char": "爻",
+    "pua": "U+1044F8",
+    "romanized": "ḍe"
+  },
+  "SD-A4F9": {
+    "char": "片",
+    "pua": "U+1044F9",
+    "romanized": "ḍai"
+  },
+  "SD-A4FA": {
+    "char": "牙",
+    "pua": "U+1044FA",
+    "romanized": "ḍo"
+  },
+  "SD-A4FC": {
+    "char": "犬",
+    "pua": "U+1044FC",
+    "romanized": "ḍaṃ"
+  },
+  "SD-A4FD": {
+    "char": "王",
+    "pua": "U+1044FD",
+    "romanized": "ḍaḥ"
+  },
+  "SD-A4FE": {
+    "char": "丙",
+    "pua": "U+1044FE",
+    "romanized": "ḍha"
+  },
+  "SD-A540": {
+    "char": "世",
+    "pua": "U+104540",
+    "romanized": "ḍhā"
+  },
+  "SD-A541": {
+    "char": "丕",
+    "pua": "U+104541",
+    "romanized": "ḍhi"
+  },
+  "SD-A545": {
+    "char": "乍",
+    "pua": "U+104545",
+    "romanized": "ḍhe"
+  },
+  "SD-A547": {
+    "char": "乎",
+    "pua": "U+104547",
+    "romanized": "ḍho"
+  },
+  "SD-A549": {
+    "char": "付",
+    "pua": "U+104549",
+    "romanized": "ḍhaṃ"
+  },
+  "SD-A54A": {
+    "char": "仔",
+    "pua": "U+10454A",
+    "romanized": "ḍhaḥ"
+  },
+  "SD-A54B": {
+    "char": "仕",
+    "pua": "U+10454B",
+    "romanized": "ṇa"
+  },
+  "SD-A54C": {
+    "char": "他",
+    "pua": "U+10454C",
+    "romanized": "ṇā"
+  },
+  "SD-A54D": {
+    "char": "仗",
+    "pua": "U+10454D",
+    "romanized": "ṇi"
+  },
+  "SD-A54E": {
+    "char": "代",
+    "pua": "U+10454E",
+    "romanized": "ṇī"
+  },
+  "SD-A54F": {
+    "char": "令",
+    "pua": "U+10454F",
+    "romanized": "ṇu"
+  },
+  "SD-A550": {
+    "char": "仙",
+    "pua": "U+104550",
+    "romanized": "ṇū"
+  },
+  "SD-A551": {
+    "char": "仞",
+    "pua": "U+104551",
+    "romanized": "ṇe"
+  },
+  "SD-A552": {
+    "char": "充",
+    "pua": "U+104552",
+    "romanized": "ṇai"
+  },
+  "SD-A553": {
+    "char": "兄",
+    "pua": "U+104553",
+    "romanized": "ṇo"
+  },
+  "SD-A555": {
+    "char": "冊",
+    "pua": "U+104555",
+    "romanized": "ṇaṃ"
+  },
+  "SD-A556": {
+    "char": "冬",
+    "pua": "U+104556",
+    "romanized": "ṇaḥ"
+  },
+  "SD-A557": {
+    "char": "凹",
+    "pua": "U+104557",
+    "romanized": "ta"
+  },
+  "SD-A558": {
+    "char": "出",
+    "pua": "U+104558",
+    "romanized": "tā"
+  },
+  "SD-A559": {
+    "char": "凸",
+    "pua": "U+104559",
+    "romanized": "ti"
+  },
+  "SD-A55A": {
+    "char": "刊",
+    "pua": "U+10455A",
+    "romanized": "tī"
+  },
+  "SD-A55B": {
+    "char": "加",
+    "pua": "U+10455B",
+    "romanized": "tu"
+  },
+  "SD-A55C": {
+    "char": "功",
+    "pua": "U+10455C",
+    "romanized": "tū"
+  },
+  "SD-A55D": {
+    "char": "包",
+    "pua": "U+10455D",
+    "romanized": "te"
+  },
+  "SD-A55E": {
+    "char": "匆",
+    "pua": "U+10455E",
+    "romanized": "tai"
+  },
+  "SD-A55F": {
+    "char": "北",
+    "pua": "U+10455F",
+    "romanized": "to"
+  },
+  "SD-A561": {
+    "char": "仟",
+    "pua": "U+104561",
+    "romanized": "taṃ"
+  },
+  "SD-A562": {
+    "char": "半",
+    "pua": "U+104562",
+    "romanized": "taḥ"
+  },
+  "SD-A563": {
+    "char": "卉",
+    "pua": "U+104563",
+    "romanized": "tha"
+  },
+  "SD-A564": {
+    "char": "卡",
+    "pua": "U+104564",
+    "romanized": "thā"
+  },
+  "SD-A565": {
+    "char": "占",
+    "pua": "U+104565",
+    "romanized": "thi"
+  },
+  "SD-A566": {
+    "char": "卯",
+    "pua": "U+104566",
+    "romanized": "thī"
+  },
+  "SD-A569": {
+    "char": "可",
+    "pua": "U+104569",
+    "romanized": "the"
+  },
+  "SD-A56B": {
+    "char": "右",
+    "pua": "U+10456B",
+    "romanized": "tho"
+  },
+  "SD-A56D": {
+    "char": "叮",
+    "pua": "U+10456D",
+    "romanized": "thaṃ"
+  },
+  "SD-A56E": {
+    "char": "叩",
+    "pua": "U+10456E",
+    "romanized": "thaḥ"
+  },
+  "SD-A56F": {
+    "char": "叨",
+    "pua": "U+10456F",
+    "romanized": "da"
+  },
+  "SD-A570": {
+    "char": "叼",
+    "pua": "U+104570",
+    "romanized": "dā"
+  },
+  "SD-A571": {
+    "char": "司",
+    "pua": "U+104571",
+    "romanized": "di"
+  },
+  "SD-A572": {
+    "char": "叵",
+    "pua": "U+104572",
+    "romanized": "dī"
+  },
+  "SD-A573": {
+    "char": "叫",
+    "pua": "U+104573",
+    "romanized": "du"
+  },
+  "SD-A574": {
+    "char": "另",
+    "pua": "U+104574",
+    "romanized": "dū"
+  },
+  "SD-A575": {
+    "char": "只",
+    "pua": "U+104575",
+    "romanized": "de"
+  },
+  "SD-A576": {
+    "char": "史",
+    "pua": "U+104576",
+    "romanized": "dai"
+  },
+  "SD-A577": {
+    "char": "叱",
+    "pua": "U+104577",
+    "romanized": "do"
+  },
+  "SD-A578": {
+    "char": "台",
+    "pua": "U+104578",
+    "romanized": "dau"
+  },
+  "SD-A579": {
+    "char": "句",
+    "pua": "U+104579",
+    "romanized": "daṃ"
+  },
+  "SD-A57A": {
+    "char": "叭",
+    "pua": "U+10457A",
+    "romanized": "daḥ"
+  },
+  "SD-A57B": {
+    "char": "叻",
+    "pua": "U+10457B",
+    "romanized": "dha"
+  },
+  "SD-A57C": {
+    "char": "四",
+    "pua": "U+10457C",
+    "romanized": "dhā"
+  },
+  "SD-A57D": {
+    "char": "囚",
+    "pua": "U+10457D",
+    "romanized": "dhi"
+  },
+  "SD-A57E": {
+    "char": "外",
+    "pua": "U+10457E",
+    "romanized": "dhī"
+  },
+  "SD-A5A3": {
+    "char": "奴",
+    "pua": "U+1045A3",
+    "romanized": "dhe"
+  },
+  "SD-A5A4": {
+    "char": "奶",
+    "pua": "U+1045A4",
+    "romanized": "dhai"
+  },
+  "SD-A5A5": {
+    "char": "孕",
+    "pua": "U+1045A5",
+    "romanized": "dho"
+  },
+  "SD-A5A6": {
+    "char": "它",
+    "pua": "U+1045A6",
+    "romanized": "dhau"
+  },
+  "SD-A5A7": {
+    "char": "尼",
+    "pua": "U+1045A7",
+    "romanized": "dhaṃ"
+  },
+  "SD-A5A8": {
+    "char": "巨",
+    "pua": "U+1045A8",
+    "romanized": "dhaḥ"
+  },
+  "SD-A5A9": {
+    "char": "巧",
+    "pua": "U+1045A9",
+    "romanized": "na"
+  },
+  "SD-A5AA": {
+    "char": "左",
+    "pua": "U+1045AA",
+    "romanized": "nā"
+  },
+  "SD-A5AB": {
+    "char": "市",
+    "pua": "U+1045AB",
+    "romanized": "ni"
+  },
+  "SD-A5AC": {
+    "char": "布",
+    "pua": "U+1045AC",
+    "romanized": "nī"
+  },
+  "SD-A5AD": {
+    "char": "平",
+    "pua": "U+1045AD",
+    "romanized": "nu"
+  },
+  "SD-A5AF": {
+    "char": "弁",
+    "pua": "U+1045AF",
+    "romanized": "ne"
+  },
+  "SD-A5B0": {
+    "char": "弘",
+    "pua": "U+1045B0",
+    "romanized": "nai"
+  },
+  "SD-A5B1": {
+    "char": "弗",
+    "pua": "U+1045B1",
+    "romanized": "no"
+  },
+  "SD-A5B2": {
+    "char": "必",
+    "pua": "U+1045B2",
+    "romanized": "nau"
+  },
+  "SD-A5B3": {
+    "char": "戊",
+    "pua": "U+1045B3",
+    "romanized": "naṃ"
+  },
+  "SD-A5B4": {
+    "char": "打",
+    "pua": "U+1045B4",
+    "romanized": "naḥ"
+  },
+  "SD-A5B5": {
+    "char": "扔",
+    "pua": "U+1045B5",
+    "romanized": "pa"
+  },
+  "SD-A5B6": {
+    "char": "扒",
+    "pua": "U+1045B6",
+    "romanized": "pā"
+  },
+  "SD-A5B7": {
+    "char": "扑",
+    "pua": "U+1045B7",
+    "romanized": "pi"
+  },
+  "SD-A5B8": {
+    "char": "斥",
+    "pua": "U+1045B8",
+    "romanized": "pī"
+  },
+  "SD-A5B9": {
+    "char": "旦",
+    "pua": "U+1045B9",
+    "romanized": "pu"
+  },
+  "SD-A5BB": {
+    "char": "本",
+    "pua": "U+1045BB",
+    "romanized": "pe"
+  },
+  "SD-A5BC": {
+    "char": "未",
+    "pua": "U+1045BC",
+    "romanized": "pai"
+  },
+  "SD-A5BD": {
+    "char": "末",
+    "pua": "U+1045BD",
+    "romanized": "po"
+  },
+  "SD-A5BE": {
+    "char": "札",
+    "pua": "U+1045BE",
+    "romanized": "pau"
+  },
+  "SD-A5BF": {
+    "char": "正",
+    "pua": "U+1045BF",
+    "romanized": "paṃ"
+  },
+  "SD-A5C0": {
+    "char": "母",
+    "pua": "U+1045C0",
+    "romanized": "paḥ"
+  },
+  "SD-A5C1": {
+    "char": "民",
+    "pua": "U+1045C1",
+    "romanized": "pha"
+  },
+  "SD-A5C2": {
+    "char": "氐",
+    "pua": "U+1045C2",
+    "romanized": "phā"
+  },
+  "SD-A5C3": {
+    "char": "永",
+    "pua": "U+1045C3",
+    "romanized": "phi"
+  },
+  "SD-A5C7": {
+    "char": "犯",
+    "pua": "U+1045C7",
+    "romanized": "phe"
+  },
+  "SD-A5C9": {
+    "char": "玉",
+    "pua": "U+1045C9",
+    "romanized": "pho"
+  },
+  "SD-A5CB": {
+    "char": "瓦",
+    "pua": "U+1045CB",
+    "romanized": "phaṃ"
+  },
+  "SD-A5CC": {
+    "char": "甘",
+    "pua": "U+1045CC",
+    "romanized": "phaḥ"
+  },
+  "SD-A5CD": {
+    "char": "生",
+    "pua": "U+1045CD",
+    "romanized": "ba"
+  },
+  "SD-A5CE": {
+    "char": "用",
+    "pua": "U+1045CE",
+    "romanized": "bā"
+  },
+  "SD-A5CF": {
+    "char": "甩",
+    "pua": "U+1045CF",
+    "romanized": "bi"
+  },
+  "SD-A5D0": {
+    "char": "田",
+    "pua": "U+1045D0",
+    "romanized": "bī"
+  },
+  "SD-A5D1": {
+    "char": "由",
+    "pua": "U+1045D1",
+    "romanized": "bu"
+  },
+  "SD-A5D3": {
+    "char": "申",
+    "pua": "U+1045D3",
+    "romanized": "be"
+  },
+  "SD-A5D4": {
+    "char": "疋",
+    "pua": "U+1045D4",
+    "romanized": "bai"
+  },
+  "SD-A5D5": {
+    "char": "白",
+    "pua": "U+1045D5",
+    "romanized": "bo"
+  },
+  "SD-A5D7": {
+    "char": "皿",
+    "pua": "U+1045D7",
+    "romanized": "baṃ"
+  },
+  "SD-A5D8": {
+    "char": "目",
+    "pua": "U+1045D8",
+    "romanized": "baḥ"
+  },
+  "SD-A5D9": {
+    "char": "矛",
+    "pua": "U+1045D9",
+    "romanized": "bha"
+  },
+  "SD-A5DA": {
+    "char": "矢",
+    "pua": "U+1045DA",
+    "romanized": "bhā"
+  },
+  "SD-A5DB": {
+    "char": "石",
+    "pua": "U+1045DB",
+    "romanized": "bhi"
+  },
+  "SD-A5DC": {
+    "char": "示",
+    "pua": "U+1045DC",
+    "romanized": "bhī"
+  },
+  "SD-A5DD": {
+    "char": "禾",
+    "pua": "U+1045DD",
+    "romanized": "bhu"
+  },
+  "SD-A5DE": {
+    "char": "穴",
+    "pua": "U+1045DE",
+    "romanized": "bhū"
+  },
+  "SD-A5DF": {
+    "char": "立",
+    "pua": "U+1045DF",
+    "romanized": "bhe"
+  },
+  "SD-A5E0": {
+    "char": "丞",
+    "pua": "U+1045E0",
+    "romanized": "bhai"
+  },
+  "SD-A5E1": {
+    "char": "丟",
+    "pua": "U+1045E1",
+    "romanized": "bho"
+  },
+  "SD-A5E2": {
+    "char": "乒",
+    "pua": "U+1045E2",
+    "romanized": "bhau"
+  },
+  "SD-A5E3": {
+    "char": "乓",
+    "pua": "U+1045E3",
+    "romanized": "bhaṃ"
+  },
+  "SD-A5E4": {
+    "char": "乩",
+    "pua": "U+1045E4",
+    "romanized": "bhaḥ"
+  },
+  "SD-A5E5": {
+    "char": "亙",
+    "pua": "U+1045E5",
+    "romanized": "ma"
+  },
+  "SD-A5E6": {
+    "char": "交",
+    "pua": "U+1045E6",
+    "romanized": "mā"
+  },
+  "SD-A5E7": {
+    "char": "亦",
+    "pua": "U+1045E7",
+    "romanized": "mi"
+  },
+  "SD-A5E8": {
+    "char": "亥",
+    "pua": "U+1045E8",
+    "romanized": "mī"
+  },
+  "SD-A5EB": {
+    "char": "伙",
+    "pua": "U+1045EB",
+    "romanized": "me"
+  },
+  "SD-A5EC": {
+    "char": "伊",
+    "pua": "U+1045EC",
+    "romanized": "mai"
+  },
+  "SD-A5ED": {
+    "char": "伕",
+    "pua": "U+1045ED",
+    "romanized": "mo"
+  },
+  "SD-A5EE": {
+    "char": "伍",
+    "pua": "U+1045EE",
+    "romanized": "mau"
+  },
+  "SD-A5EF": {
+    "char": "伐",
+    "pua": "U+1045EF",
+    "romanized": "maṃ"
+  },
+  "SD-A5F0": {
+    "char": "休",
+    "pua": "U+1045F0",
+    "romanized": "maḥ"
+  },
+  "SD-A5F1": {
+    "char": "伏",
+    "pua": "U+1045F1",
+    "romanized": "ya"
+  },
+  "SD-A5F2": {
+    "char": "仲",
+    "pua": "U+1045F2",
+    "romanized": "yā"
+  },
+  "SD-A5F3": {
+    "char": "件",
+    "pua": "U+1045F3",
+    "romanized": "yi"
+  },
+  "SD-A5F4": {
+    "char": "任",
+    "pua": "U+1045F4",
+    "romanized": "yī"
+  },
+  "SD-A5F5": {
+    "char": "仰",
+    "pua": "U+1045F5",
+    "romanized": "yu"
+  },
+  "SD-A5F7": {
+    "char": "份",
+    "pua": "U+1045F7",
+    "romanized": "ye"
+  },
+  "SD-A5F8": {
+    "char": "企",
+    "pua": "U+1045F8",
+    "romanized": "yai"
+  },
+  "SD-A5F9": {
+    "char": "伋",
+    "pua": "U+1045F9",
+    "romanized": "yo"
+  },
+  "SD-A5FB": {
+    "char": "兇",
+    "pua": "U+1045FB",
+    "romanized": "yaṃ"
+  },
+  "SD-A5FC": {
+    "char": "兆",
+    "pua": "U+1045FC",
+    "romanized": "yaḥ"
+  },
+  "SD-A5FD": {
+    "char": "先",
+    "pua": "U+1045FD",
+    "romanized": "ra"
+  },
+  "SD-A5FE": {
+    "char": "全",
+    "pua": "U+1045FE",
+    "romanized": "rā"
+  },
+  "SD-A640": {
+    "char": "共",
+    "pua": "U+104640",
+    "romanized": "ri"
+  },
+  "SD-A641": {
+    "char": "再",
+    "pua": "U+104641",
+    "romanized": "rī"
+  },
+  "SD-A642": {
+    "char": "冰",
+    "pua": "U+104642",
+    "romanized": "ru"
+  },
+  "SD-A643": {
+    "char": "列",
+    "pua": "U+104643",
+    "romanized": "rū"
+  },
+  "SD-A644": {
+    "char": "刑",
+    "pua": "U+104644",
+    "romanized": "re"
+  },
+  "SD-A645": {
+    "char": "划",
+    "pua": "U+104645",
+    "romanized": "rai"
+  },
+  "SD-A646": {
+    "char": "刎",
+    "pua": "U+104646",
+    "romanized": "ro"
+  },
+  "SD-A647": {
+    "char": "刖",
+    "pua": "U+104647",
+    "romanized": "rau"
+  },
+  "SD-A648": {
+    "char": "劣",
+    "pua": "U+104648",
+    "romanized": "raṃ"
+  },
+  "SD-A649": {
+    "char": "匈",
+    "pua": "U+104649",
+    "romanized": "raḥ"
+  },
+  "SD-A64A": {
+    "char": "匡",
+    "pua": "U+10464A",
+    "romanized": "la"
+  },
+  "SD-A64B": {
+    "char": "匠",
+    "pua": "U+10464B",
+    "romanized": "lā"
+  },
+  "SD-A64C": {
+    "char": "印",
+    "pua": "U+10464C",
+    "romanized": "li"
+  },
+  "SD-A64D": {
+    "char": "危",
+    "pua": "U+10464D",
+    "romanized": "lī"
+  },
+  "SD-A64E": {
+    "char": "吉",
+    "pua": "U+10464E",
+    "romanized": "lu"
+  },
+  "SD-A650": {
+    "char": "同",
+    "pua": "U+104650",
+    "romanized": "le"
+  },
+  "SD-A651": {
+    "char": "吊",
+    "pua": "U+104651",
+    "romanized": "lai"
+  },
+  "SD-A652": {
+    "char": "吐",
+    "pua": "U+104652",
+    "romanized": "lo"
+  },
+  "SD-A654": {
+    "char": "吋",
+    "pua": "U+104654",
+    "romanized": "laṃ"
+  },
+  "SD-A655": {
+    "char": "各",
+    "pua": "U+104655",
+    "romanized": "laḥ"
+  },
+  "SD-A656": {
+    "char": "向",
+    "pua": "U+104656",
+    "romanized": "va"
+  },
+  "SD-A657": {
+    "char": "名",
+    "pua": "U+104657",
+    "romanized": "vā"
+  },
+  "SD-A658": {
+    "char": "合",
+    "pua": "U+104658",
+    "romanized": "vi"
+  },
+  "SD-A659": {
+    "char": "吃",
+    "pua": "U+104659",
+    "romanized": "vī"
+  },
+  "SD-A65A": {
+    "char": "后",
+    "pua": "U+10465A",
+    "romanized": "vu"
+  },
+  "SD-A65C": {
+    "char": "吒",
+    "pua": "U+10465C",
+    "romanized": "ve"
+  },
+  "SD-A65D": {
+    "char": "因",
+    "pua": "U+10465D",
+    "romanized": "vai"
+  },
+  "SD-A65E": {
+    "char": "回",
+    "pua": "U+10465E",
+    "romanized": "vo"
+  },
+  "SD-A660": {
+    "char": "圳",
+    "pua": "U+104660",
+    "romanized": "vaṃ"
+  },
+  "SD-A661": {
+    "char": "地",
+    "pua": "U+104661",
+    "romanized": "vaḥ"
+  },
+  "SD-A662": {
+    "char": "在",
+    "pua": "U+104662",
+    "romanized": "śa"
+  },
+  "SD-A663": {
+    "char": "圭",
+    "pua": "U+104663",
+    "romanized": "śā"
+  },
+  "SD-A664": {
+    "char": "圬",
+    "pua": "U+104664",
+    "romanized": "śi"
+  },
+  "SD-A665": {
+    "char": "圯",
+    "pua": "U+104665",
+    "romanized": "śī"
+  },
+  "SD-A666": {
+    "char": "圩",
+    "pua": "U+104666",
+    "romanized": "śu"
+  },
+  "SD-A667": {
+    "char": "夙",
+    "pua": "U+104667",
+    "romanized": "śū"
+  },
+  "SD-A668": {
+    "char": "多",
+    "pua": "U+104668",
+    "romanized": "śe"
+  },
+  "SD-A669": {
+    "char": "夷",
+    "pua": "U+104669",
+    "romanized": "śai"
+  },
+  "SD-A66A": {
+    "char": "夸",
+    "pua": "U+10466A",
+    "romanized": "śo"
+  },
+  "SD-A66B": {
+    "char": "妄",
+    "pua": "U+10466B",
+    "romanized": "śau"
+  },
+  "SD-A66C": {
+    "char": "奸",
+    "pua": "U+10466C",
+    "romanized": "śaṃ"
+  },
+  "SD-A66D": {
+    "char": "妃",
+    "pua": "U+10466D",
+    "romanized": "śaḥ"
+  },
+  "SD-A66E": {
+    "char": "好",
+    "pua": "U+10466E",
+    "romanized": "ṣa"
+  },
+  "SD-A66F": {
+    "char": "她",
+    "pua": "U+10466F",
+    "romanized": "ṣā"
+  },
+  "SD-A670": {
+    "char": "如",
+    "pua": "U+104670",
+    "romanized": "ṣi"
+  },
+  "SD-A671": {
+    "char": "妁",
+    "pua": "U+104671",
+    "romanized": "ṣī"
+  },
+  "SD-A674": {
+    "char": "宇",
+    "pua": "U+104674",
+    "romanized": "ṣe"
+  },
+  "SD-A675": {
+    "char": "守",
+    "pua": "U+104675",
+    "romanized": "ṣai"
+  },
+  "SD-A676": {
+    "char": "宅",
+    "pua": "U+104676",
+    "romanized": "ṣo"
+  },
+  "SD-A678": {
+    "char": "寺",
+    "pua": "U+104678",
+    "romanized": "ṣaṃ"
+  },
+  "SD-A679": {
+    "char": "尖",
+    "pua": "U+104679",
+    "romanized": "ṣaḥ"
+  },
+  "SD-A67A": {
+    "char": "屹",
+    "pua": "U+10467A",
+    "romanized": "sa"
+  },
+  "SD-A67B": {
+    "char": "州",
+    "pua": "U+10467B",
+    "romanized": "sā"
+  },
+  "SD-A67C": {
+    "char": "帆",
+    "pua": "U+10467C",
+    "romanized": "si"
+  },
+  "SD-A67D": {
+    "char": "并",
+    "pua": "U+10467D",
+    "romanized": "sī"
+  },
+  "SD-A67E": {
+    "char": "年",
+    "pua": "U+10467E",
+    "romanized": "su"
+  },
+  "SD-A6A2": {
+    "char": "弛",
+    "pua": "U+1046A2",
+    "romanized": "se"
+  },
+  "SD-A6A3": {
+    "char": "忙",
+    "pua": "U+1046A3",
+    "romanized": "sai"
+  },
+  "SD-A6A4": {
+    "char": "忖",
+    "pua": "U+1046A4",
+    "romanized": "so"
+  },
+  "SD-A6A5": {
+    "char": "戎",
+    "pua": "U+1046A5",
+    "romanized": "sau"
+  },
+  "SD-A6A6": {
+    "char": "戌",
+    "pua": "U+1046A6",
+    "romanized": "saṃ"
+  },
+  "SD-A6A7": {
+    "char": "戍",
+    "pua": "U+1046A7",
+    "romanized": "saḥ"
+  },
+  "SD-A6A8": {
+    "char": "成",
+    "pua": "U+1046A8",
+    "romanized": "ha"
+  },
+  "SD-A6A9": {
+    "char": "扣",
+    "pua": "U+1046A9",
+    "romanized": "hā"
+  },
+  "SD-A6AA": {
+    "char": "扛",
+    "pua": "U+1046AA",
+    "romanized": "hi"
+  },
+  "SD-A6AB": {
+    "char": "托",
+    "pua": "U+1046AB",
+    "romanized": "hī"
+  },
+  "SD-A6AE": {
+    "char": "旨",
+    "pua": "U+1046AE",
+    "romanized": "he"
+  },
+  "SD-A6AF": {
+    "char": "旬",
+    "pua": "U+1046AF",
+    "romanized": "hai"
+  },
+  "SD-A6B0": {
+    "char": "旭",
+    "pua": "U+1046B0",
+    "romanized": "ho"
+  },
+  "SD-A6B1": {
+    "char": "曲",
+    "pua": "U+1046B1",
+    "romanized": "hau"
+  },
+  "SD-A6B2": {
+    "char": "曳",
+    "pua": "U+1046B2",
+    "romanized": "haṃ"
+  },
+  "SD-A6B3": {
+    "char": "有",
+    "pua": "U+1046B3",
+    "romanized": "haḥ"
+  },
+  "SD-A6B4": {
+    "char": "朽",
+    "pua": "U+1046B4",
+    "romanized": "kṣa"
+  },
+  "SD-A6B5": {
+    "char": "朴",
+    "pua": "U+1046B5",
+    "romanized": "kṣā"
+  },
+  "SD-A6B6": {
+    "char": "朱",
+    "pua": "U+1046B6",
+    "romanized": "kṣi"
+  },
+  "SD-A6B7": {
+    "char": "朵",
+    "pua": "U+1046B7",
+    "romanized": "kṣī"
+  },
+  "SD-A6B8": {
+    "char": "次",
+    "pua": "U+1046B8",
+    "romanized": "kṣu"
+  },
+  "SD-A6BA": {
+    "char": "死",
+    "pua": "U+1046BA",
+    "romanized": "kṣe"
+  },
+  "SD-A6BC": {
+    "char": "汝",
+    "pua": "U+1046BC",
+    "romanized": "kṣo"
+  },
+  "SD-A6BE": {
+    "char": "汙",
+    "pua": "U+1046BE",
+    "romanized": "kṣaṃ"
+  },
+  "SD-A6BF": {
+    "char": "江",
+    "pua": "U+1046BF",
+    "romanized": "kṣaḥ"
+  },
+  "SD-A6C0": {
+    "char": "池",
+    "pua": "U+1046C0",
+    "romanized": "kya"
+  },
+  "SD-A6C1": {
+    "char": "汐",
+    "pua": "U+1046C1",
+    "romanized": "kyā"
+  },
+  "SD-A6C2": {
+    "char": "汕",
+    "pua": "U+1046C2",
+    "romanized": "kyi"
+  },
+  "SD-A6C3": {
+    "char": "污",
+    "pua": "U+1046C3",
+    "romanized": "kyī"
+  },
+  "SD-A6C4": {
+    "char": "汛",
+    "pua": "U+1046C4",
+    "romanized": "kyu"
+  },
+  "SD-A6C6": {
+    "char": "汎",
+    "pua": "U+1046C6",
+    "romanized": "kye"
+  },
+  "SD-A6C7": {
+    "char": "灰",
+    "pua": "U+1046C7",
+    "romanized": "kyai"
+  },
+  "SD-A6C8": {
+    "char": "牟",
+    "pua": "U+1046C8",
+    "romanized": "kyo"
+  },
+  "SD-A6C9": {
+    "char": "牝",
+    "pua": "U+1046C9",
+    "romanized": "kyau"
+  },
+  "SD-A6CA": {
+    "char": "百",
+    "pua": "U+1046CA",
+    "romanized": "kyaṃ"
+  },
+  "SD-A6CB": {
+    "char": "竹",
+    "pua": "U+1046CB",
+    "romanized": "kyaḥ"
+  },
+  "SD-A6CC": {
+    "char": "米",
+    "pua": "U+1046CC",
+    "romanized": "khya"
+  },
+  "SD-A6CD": {
+    "char": "糸",
+    "pua": "U+1046CD",
+    "romanized": "khyā"
+  },
+  "SD-A6CE": {
+    "char": "缶",
+    "pua": "U+1046CE",
+    "romanized": "khyi"
+  },
+  "SD-A6D2": {
+    "char": "考",
+    "pua": "U+1046D2",
+    "romanized": "khye"
+  },
+  "SD-A6D3": {
+    "char": "而",
+    "pua": "U+1046D3",
+    "romanized": "khyai"
+  },
+  "SD-A6DA": {
+    "char": "臣",
+    "pua": "U+1046DA",
+    "romanized": "gyi"
+  },
+  "SD-A6DE": {
+    "char": "舌",
+    "pua": "U+1046DE",
+    "romanized": "gye"
+  },
+  "SD-A6E2": {
+    "char": "色",
+    "pua": "U+1046E2",
+    "romanized": "gyaṃ"
+  },
+  "SD-A6E4": {
+    "char": "虫",
+    "pua": "U+1046E4",
+    "romanized": "ghya"
+  },
+  "SD-A6FC": {
+    "char": "似",
+    "pua": "U+1046FC",
+    "romanized": "cya"
+  },
+  "SD-A6FD": {
+    "char": "但",
+    "pua": "U+1046FD",
+    "romanized": "cyā"
+  },
+  "SD-A741": {
+    "char": "你",
+    "pua": "U+104741",
+    "romanized": "cyu"
+  },
+  "SD-A755": {
+    "char": "助",
+    "pua": "U+104755",
+    "romanized": "jya"
+  },
+  "SD-A759": {
+    "char": "即",
+    "pua": "U+104759",
+    "romanized": "jyu"
+  },
+  "SD-A75B": {
+    "char": "吝",
+    "pua": "U+10475B",
+    "romanized": "jye"
+  },
+  "SD-A75D": {
+    "char": "吞",
+    "pua": "U+10475D",
+    "romanized": "jyo"
+  },
+  "SD-A75F": {
+    "char": "否",
+    "pua": "U+10475F",
+    "romanized": "jyaṃ"
+  },
+  "SD-A760": {
+    "char": "呎",
+    "pua": "U+104760",
+    "romanized": "jyaḥ"
+  },
+  "SD-A779": {
+    "char": "囤",
+    "pua": "U+104779",
+    "romanized": "ṭya"
+  },
+  "SD-A7A1": {
+    "char": "均",
+    "pua": "U+1047A1",
+    "romanized": "ṭye"
+  },
+  "SD-A7AD": {
+    "char": "妣",
+    "pua": "U+1047AD",
+    "romanized": "ṭhye"
+  },
+  "SD-A7C9": {
+    "char": "床",
+    "pua": "U+1047C9",
+    "romanized": "ḍhyaṃ"
+  },
+  "SD-A7CB": {
+    "char": "弄",
+    "pua": "U+1047CB",
+    "romanized": "ṇya"
+  },
+  "SD-A7D1": {
+    "char": "忘",
+    "pua": "U+1047D1",
+    "romanized": "ṇye"
+  },
+  "SD-A7D5": {
+    "char": "忱",
+    "pua": "U+1047D5",
+    "romanized": "ṇyaṃ"
+  },
+  "SD-A7D7": {
+    "char": "忸",
+    "pua": "U+1047D7",
+    "romanized": "tya"
+  },
+  "SD-A7D8": {
+    "char": "忪",
+    "pua": "U+1047D8",
+    "romanized": "tyā"
+  },
+  "SD-A7D9": {
+    "char": "戒",
+    "pua": "U+1047D9",
+    "romanized": "tyi"
+  },
+  "SD-A7DB": {
+    "char": "抄",
+    "pua": "U+1047DB",
+    "romanized": "tyu"
+  },
+  "SD-A7DD": {
+    "char": "抖",
+    "pua": "U+1047DD",
+    "romanized": "tye"
+  },
+  "SD-A7DE": {
+    "char": "技",
+    "pua": "U+1047DE",
+    "romanized": "tyai"
+  },
+  "SD-A7DF": {
+    "char": "扶",
+    "pua": "U+1047DF",
+    "romanized": "tyo"
+  },
+  "SD-A7E1": {
+    "char": "扭",
+    "pua": "U+1047E1",
+    "romanized": "tyaṃ"
+  },
+  "SD-A7E3": {
+    "char": "扼",
+    "pua": "U+1047E3",
+    "romanized": "thya"
+  },
+  "SD-A7E4": {
+    "char": "找",
+    "pua": "U+1047E4",
+    "romanized": "thyā"
+  },
+  "SD-A7EF": {
+    "char": "改",
+    "pua": "U+1047EF",
+    "romanized": "dya"
+  },
+  "SD-A7F0": {
+    "char": "攻",
+    "pua": "U+1047F0",
+    "romanized": "dyā"
+  },
+  "SD-A7F3": {
+    "char": "更",
+    "pua": "U+1047F3",
+    "romanized": "dyu"
+  },
+  "SD-A7F5": {
+    "char": "李",
+    "pua": "U+1047F5",
+    "romanized": "dye"
+  },
+  "SD-A7F7": {
+    "char": "材",
+    "pua": "U+1047F7",
+    "romanized": "dyo"
+  },
+  "SD-A7F9": {
+    "char": "杜",
+    "pua": "U+1047F9",
+    "romanized": "dyaṃ"
+  },
+  "SD-A7FB": {
+    "char": "杞",
+    "pua": "U+1047FB",
+    "romanized": "dhya"
+  },
+  "SD-A7FC": {
+    "char": "杉",
+    "pua": "U+1047FC",
+    "romanized": "dhyā"
+  },
+  "SD-A7FD": {
+    "char": "杆",
+    "pua": "U+1047FD",
+    "romanized": "dhyi"
+  },
+  "SD-A840": {
+    "char": "杓",
+    "pua": "U+104840",
+    "romanized": "dhyu"
+  },
+  "SD-A842": {
+    "char": "步",
+    "pua": "U+104842",
+    "romanized": "dhye"
+  },
+  "SD-A844": {
+    "char": "求",
+    "pua": "U+104844",
+    "romanized": "dhyo"
+  },
+  "SD-A846": {
+    "char": "沙",
+    "pua": "U+104846",
+    "romanized": "dhyaṃ"
+  },
+  "SD-A848": {
+    "char": "沈",
+    "pua": "U+104848",
+    "romanized": "nya"
+  },
+  "SD-A849": {
+    "char": "沉",
+    "pua": "U+104849",
+    "romanized": "nyā"
+  },
+  "SD-A84C": {
+    "char": "汪",
+    "pua": "U+10484C",
+    "romanized": "nyu"
+  },
+  "SD-A84E": {
+    "char": "沐",
+    "pua": "U+10484E",
+    "romanized": "nye"
+  },
+  "SD-A852": {
+    "char": "沖",
+    "pua": "U+104852",
+    "romanized": "nyaṃ"
+  },
+  "SD-A854": {
+    "char": "汽",
+    "pua": "U+104854",
+    "romanized": "pya"
+  },
+  "SD-A855": {
+    "char": "沃",
+    "pua": "U+104855",
+    "romanized": "pyā"
+  },
+  "SD-A85C": {
+    "char": "沔",
+    "pua": "U+10485C",
+    "romanized": "pyo"
+  },
+  "SD-A861": {
+    "char": "災",
+    "pua": "U+104861",
+    "romanized": "phyā"
+  },
+  "SD-A86C": {
+    "char": "甸",
+    "pua": "U+10486C",
+    "romanized": "bya"
+  },
+  "SD-A878": {
+    "char": "肝",
+    "pua": "U+104878",
+    "romanized": "bhya"
+  },
+  "SD-A879": {
+    "char": "肘",
+    "pua": "U+104879",
+    "romanized": "bhyā"
+  },
+  "SD-A87A": {
+    "char": "肛",
+    "pua": "U+10487A",
+    "romanized": "bhyi"
+  },
+  "SD-A87C": {
+    "char": "育",
+    "pua": "U+10487C",
+    "romanized": "bhyu"
+  },
+  "SD-A87E": {
+    "char": "芒",
+    "pua": "U+10487E",
+    "romanized": "bhye"
+  },
+  "SD-A8A2": {
+    "char": "芍",
+    "pua": "U+1048A2",
+    "romanized": "bhyo"
+  },
+  "SD-A8A4": {
+    "char": "角",
+    "pua": "U+1048A4",
+    "romanized": "bhyaṃ"
+  },
+  "SD-A8A5": {
+    "char": "言",
+    "pua": "U+1048A5",
+    "romanized": "bhyaḥ"
+  },
+  "SD-A8A6": {
+    "char": "谷",
+    "pua": "U+1048A6",
+    "romanized": "mya"
+  },
+  "SD-A8A7": {
+    "char": "豆",
+    "pua": "U+1048A7",
+    "romanized": "myā"
+  },
+  "SD-A8AA": {
+    "char": "赤",
+    "pua": "U+1048AA",
+    "romanized": "myu"
+  },
+  "SD-A8AC": {
+    "char": "足",
+    "pua": "U+1048AC",
+    "romanized": "mye"
+  },
+  "SD-A8B0": {
+    "char": "辰",
+    "pua": "U+1048B0",
+    "romanized": "myaṃ"
+  },
+  "SD-A8B1": {
+    "char": "迂",
+    "pua": "U+1048B1",
+    "romanized": "myaḥ"
+  },
+  "SD-A8B2": {
+    "char": "迆",
+    "pua": "U+1048B2",
+    "romanized": "lya"
+  },
+  "SD-A8B3": {
+    "char": "迅",
+    "pua": "U+1048B3",
+    "romanized": "lyā"
+  },
+  "SD-A8B8": {
+    "char": "邪",
+    "pua": "U+1048B8",
+    "romanized": "lye"
+  },
+  "SD-A8BC": {
+    "char": "釆",
+    "pua": "U+1048BC",
+    "romanized": "lyaṃ"
+  },
+  "SD-A8BE": {
+    "char": "防",
+    "pua": "U+1048BE",
+    "romanized": "vya"
+  },
+  "SD-A8BF": {
+    "char": "阮",
+    "pua": "U+1048BF",
+    "romanized": "vyā"
+  },
+  "SD-A8C2": {
+    "char": "阬",
+    "pua": "U+1048C2",
+    "romanized": "vyu"
+  },
+  "SD-A8C4": {
+    "char": "乖",
+    "pua": "U+1048C4",
+    "romanized": "vye"
+  },
+  "SD-A8C5": {
+    "char": "乳",
+    "pua": "U+1048C5",
+    "romanized": "vyai"
+  },
+  "SD-A8C6": {
+    "char": "事",
+    "pua": "U+1048C6",
+    "romanized": "vyo"
+  },
+  "SD-A8C8": {
+    "char": "亞",
+    "pua": "U+1048C8",
+    "romanized": "vyaṃ"
+  },
+  "SD-A8C9": {
+    "char": "享",
+    "pua": "U+1048C9",
+    "romanized": "vyaḥ"
+  },
+  "SD-A8CA": {
+    "char": "京",
+    "pua": "U+1048CA",
+    "romanized": "śya"
+  },
+  "SD-A8CC": {
+    "char": "依",
+    "pua": "U+1048CC",
+    "romanized": "śyi"
+  },
+  "SD-A8D4": {
+    "char": "侃",
+    "pua": "U+1048D4",
+    "romanized": "śyaṃ"
+  },
+  "SD-A8D6": {
+    "char": "併",
+    "pua": "U+1048D6",
+    "romanized": "ṣya"
+  },
+  "SD-A8D7": {
+    "char": "侈",
+    "pua": "U+1048D7",
+    "romanized": "ṣyā"
+  },
+  "SD-A8DC": {
+    "char": "侏",
+    "pua": "U+1048DC",
+    "romanized": "ṣye"
+  },
+  "SD-A8DE": {
+    "char": "佺",
+    "pua": "U+1048DE",
+    "romanized": "ṣyo"
+  },
+  "SD-A8E2": {
+    "char": "兩",
+    "pua": "U+1048E2",
+    "romanized": "sya"
+  },
+  "SD-A8E3": {
+    "char": "具",
+    "pua": "U+1048E3",
+    "romanized": "syā"
+  },
+  "SD-A8E4": {
+    "char": "其",
+    "pua": "U+1048E4",
+    "romanized": "syi"
+  },
+  "SD-A8E6": {
+    "char": "冽",
+    "pua": "U+1048E6",
+    "romanized": "syu"
+  },
+  "SD-A8E8": {
+    "char": "刻",
+    "pua": "U+1048E8",
+    "romanized": "sye"
+  },
+  "SD-A8EA": {
+    "char": "刷",
+    "pua": "U+1048EA",
+    "romanized": "syo"
+  },
+  "SD-A8EC": {
+    "char": "到",
+    "pua": "U+1048EC",
+    "romanized": "syaṃ"
+  },
+  "SD-A8EE": {
+    "char": "制",
+    "pua": "U+1048EE",
+    "romanized": "hya"
+  },
+  "SD-A8EF": {
+    "char": "剁",
+    "pua": "U+1048EF",
+    "romanized": "hyā"
+  },
+  "SD-A8F4": {
+    "char": "卓",
+    "pua": "U+1048F4",
+    "romanized": "hye"
+  },
+  "SD-A8FA": {
+    "char": "取",
+    "pua": "U+1048FA",
+    "romanized": "kṣya"
+  },
+  "SD-A947": {
+    "char": "咒",
+    "pua": "U+104947",
+    "romanized": "kra"
+  },
+  "SD-A948": {
+    "char": "咆",
+    "pua": "U+104948",
+    "romanized": "krā"
+  },
+  "SD-A949": {
+    "char": "呼",
+    "pua": "U+104949",
+    "romanized": "kri"
+  },
+  "SD-A94A": {
+    "char": "咐",
+    "pua": "U+10494A",
+    "romanized": "krī"
+  },
+  "SD-A94B": {
+    "char": "呱",
+    "pua": "U+10494B",
+    "romanized": "kru"
+  },
+  "SD-A94C": {
+    "char": "呶",
+    "pua": "U+10494C",
+    "romanized": "krū"
+  },
+  "SD-A94D": {
+    "char": "和",
+    "pua": "U+10494D",
+    "romanized": "kre"
+  },
+  "SD-A94F": {
+    "char": "呢",
+    "pua": "U+10494F",
+    "romanized": "kro"
+  },
+  "SD-A950": {
+    "char": "周",
+    "pua": "U+104950",
+    "romanized": "krau"
+  },
+  "SD-A951": {
+    "char": "咋",
+    "pua": "U+104951",
+    "romanized": "kraṃ"
+  },
+  "SD-A95F": {
+    "char": "奇",
+    "pua": "U+10495F",
+    "romanized": "gra"
+  },
+  "SD-A960": {
+    "char": "奈",
+    "pua": "U+104960",
+    "romanized": "grā"
+  },
+  "SD-A961": {
+    "char": "奄",
+    "pua": "U+104961",
+    "romanized": "gri"
+  },
+  "SD-A962": {
+    "char": "奔",
+    "pua": "U+104962",
+    "romanized": "grī"
+  },
+  "SD-A965": {
+    "char": "委",
+    "pua": "U+104965",
+    "romanized": "gre"
+  },
+  "SD-A967": {
+    "char": "妮",
+    "pua": "U+104967",
+    "romanized": "gro"
+  },
+  "SD-A969": {
+    "char": "姆",
+    "pua": "U+104969",
+    "romanized": "graṃ"
+  },
+  "SD-A96B": {
+    "char": "姍",
+    "pua": "U+10496B",
+    "romanized": "ghra"
+  },
+  "SD-A96E": {
+    "char": "姊",
+    "pua": "U+10496E",
+    "romanized": "ghrī"
+  },
+  "SD-A970": {
+    "char": "妳",
+    "pua": "U+104970",
+    "romanized": "ghrū"
+  },
+  "SD-A975": {
+    "char": "季",
+    "pua": "U+104975",
+    "romanized": "ghraṃ"
+  },
+  "SD-A976": {
+    "char": "宗",
+    "pua": "U+104976",
+    "romanized": "ghraḥ"
+  },
+  "SD-A977": {
+    "char": "定",
+    "pua": "U+104977",
+    "romanized": "ṅra"
+  },
+  "SD-A978": {
+    "char": "官",
+    "pua": "U+104978",
+    "romanized": "ṅrā"
+  },
+  "SD-A9BD": {
+    "char": "忝",
+    "pua": "U+1049BD",
+    "romanized": "jra"
+  },
+  "SD-A9BE": {
+    "char": "忠",
+    "pua": "U+1049BE",
+    "romanized": "jrā"
+  },
+  "SD-A9BF": {
+    "char": "忽",
+    "pua": "U+1049BF",
+    "romanized": "jri"
+  },
+  "SD-A9C0": {
+    "char": "念",
+    "pua": "U+1049C0",
+    "romanized": "jrī"
+  },
+  "SD-A9C3": {
+    "char": "怔",
+    "pua": "U+1049C3",
+    "romanized": "jre"
+  },
+  "SD-A9C4": {
+    "char": "怯",
+    "pua": "U+1049C4",
+    "romanized": "jrai"
+  },
+  "SD-A9C5": {
+    "char": "怵",
+    "pua": "U+1049C5",
+    "romanized": "jro"
+  },
+  "SD-A9C7": {
+    "char": "怪",
+    "pua": "U+1049C7",
+    "romanized": "jraṃ"
+  },
+  "SD-A9C8": {
+    "char": "怕",
+    "pua": "U+1049C8",
+    "romanized": "jraḥ"
+  },
+  "SD-A9E1": {
+    "char": "抨",
+    "pua": "U+1049E1",
+    "romanized": "ṭra"
+  },
+  "SD-A9E5": {
+    "char": "拙",
+    "pua": "U+1049E5",
+    "romanized": "ṭru"
+  },
+  "SD-A9E9": {
+    "char": "拚",
+    "pua": "U+1049E9",
+    "romanized": "ṭro"
+  },
+  "SD-A9EB": {
+    "char": "拘",
+    "pua": "U+1049EB",
+    "romanized": "ṭraṃ"
+  },
+  "SD-AA40": {
+    "char": "昇",
+    "pua": "U+104A40",
+    "romanized": "ḍre"
+  },
+  "SD-AA44": {
+    "char": "枋",
+    "pua": "U+104A44",
+    "romanized": "ḍraṃ"
+  },
+  "SD-AA5E": {
+    "char": "氛",
+    "pua": "U+104A5E",
+    "romanized": "tra"
+  },
+  "SD-AA5F": {
+    "char": "泣",
+    "pua": "U+104A5F",
+    "romanized": "trā"
+  },
+  "SD-AA60": {
+    "char": "注",
+    "pua": "U+104A60",
+    "romanized": "tri"
+  },
+  "SD-AA61": {
+    "char": "泳",
+    "pua": "U+104A61",
+    "romanized": "trī"
+  },
+  "SD-AA62": {
+    "char": "沱",
+    "pua": "U+104A62",
+    "romanized": "tru"
+  },
+  "SD-AA63": {
+    "char": "泌",
+    "pua": "U+104A63",
+    "romanized": "trū"
+  },
+  "SD-AA64": {
+    "char": "泥",
+    "pua": "U+104A64",
+    "romanized": "tre"
+  },
+  "SD-AA65": {
+    "char": "河",
+    "pua": "U+104A65",
+    "romanized": "trai"
+  },
+  "SD-AA66": {
+    "char": "沽",
+    "pua": "U+104A66",
+    "romanized": "tro"
+  },
+  "SD-AA67": {
+    "char": "沾",
+    "pua": "U+104A67",
+    "romanized": "trau"
+  },
+  "SD-AA68": {
+    "char": "沼",
+    "pua": "U+104A68",
+    "romanized": "traṃ"
+  },
+  "SD-AA69": {
+    "char": "波",
+    "pua": "U+104A69",
+    "romanized": "traḥ"
+  },
+  "SD-AA76": {
+    "char": "治",
+    "pua": "U+104A76",
+    "romanized": "dra"
+  },
+  "SD-AA77": {
+    "char": "泡",
+    "pua": "U+104A77",
+    "romanized": "drā"
+  },
+  "SD-AA78": {
+    "char": "泛",
+    "pua": "U+104A78",
+    "romanized": "dri"
+  },
+  "SD-AA79": {
+    "char": "泊",
+    "pua": "U+104A79",
+    "romanized": "drī"
+  },
+  "SD-AA7A": {
+    "char": "沬",
+    "pua": "U+104A7A",
+    "romanized": "dru"
+  },
+  "SD-AA7B": {
+    "char": "泯",
+    "pua": "U+104A7B",
+    "romanized": "drū"
+  },
+  "SD-AA7C": {
+    "char": "泜",
+    "pua": "U+104A7C",
+    "romanized": "dre"
+  },
+  "SD-AA7E": {
+    "char": "泠",
+    "pua": "U+104A7E",
+    "romanized": "dro"
+  },
+  "SD-AAA2": {
+    "char": "炎",
+    "pua": "U+104AA2",
+    "romanized": "draṃ"
+  },
+  "SD-AAA3": {
+    "char": "炒",
+    "pua": "U+104AA3",
+    "romanized": "draḥ"
+  },
+  "SD-AAA4": {
+    "char": "炊",
+    "pua": "U+104AA4",
+    "romanized": "dhra"
+  },
+  "SD-AAA6": {
+    "char": "爬",
+    "pua": "U+104AA6",
+    "romanized": "dhri"
+  },
+  "SD-AAAD": {
+    "char": "狎",
+    "pua": "U+104AAD",
+    "romanized": "dhrau"
+  },
+  "SD-AAB0": {
+    "char": "狐",
+    "pua": "U+104AB0",
+    "romanized": "nra"
+  },
+  "SD-AABC": {
+    "char": "盲",
+    "pua": "U+104ABC",
+    "romanized": "pra"
+  },
+  "SD-AABD": {
+    "char": "直",
+    "pua": "U+104ABD",
+    "romanized": "prā"
+  },
+  "SD-AABF": {
+    "char": "矽",
+    "pua": "U+104ABF",
+    "romanized": "prī"
+  },
+  "SD-AAC0": {
+    "char": "社",
+    "pua": "U+104AC0",
+    "romanized": "pru"
+  },
+  "SD-AAC1": {
+    "char": "祀",
+    "pua": "U+104AC1",
+    "romanized": "prū"
+  },
+  "SD-AAC2": {
+    "char": "祁",
+    "pua": "U+104AC2",
+    "romanized": "pre"
+  },
+  "SD-AAC4": {
+    "char": "秈",
+    "pua": "U+104AC4",
+    "romanized": "pro"
+  },
+  "SD-AAC6": {
+    "char": "穹",
+    "pua": "U+104AC6",
+    "romanized": "praṃ"
+  },
+  "SD-AAD4": {
+    "char": "肴",
+    "pua": "U+104AD4",
+    "romanized": "bra"
+  },
+  "SD-AAD8": {
+    "char": "臾",
+    "pua": "U+104AD8",
+    "romanized": "bru"
+  },
+  "SD-AADE": {
+    "char": "芽",
+    "pua": "U+104ADE",
+    "romanized": "braṃ"
+  },
+  "SD-AAE0": {
+    "char": "芹",
+    "pua": "U+104AE0",
+    "romanized": "bhra"
+  },
+  "SD-AAE1": {
+    "char": "花",
+    "pua": "U+104AE1",
+    "romanized": "bhrā"
+  },
+  "SD-AAE2": {
+    "char": "芬",
+    "pua": "U+104AE2",
+    "romanized": "bhri"
+  },
+  "SD-AAE5": {
+    "char": "芸",
+    "pua": "U+104AE5",
+    "romanized": "bhrū"
+  },
+  "SD-AAE6": {
+    "char": "芣",
+    "pua": "U+104AE6",
+    "romanized": "bhre"
+  },
+  "SD-AAE8": {
+    "char": "芾",
+    "pua": "U+104AE8",
+    "romanized": "bhro"
+  },
+  "SD-AAEC": {
+    "char": "初",
+    "pua": "U+104AEC",
+    "romanized": "mra"
+  },
+  "SD-AAF2": {
+    "char": "邵",
+    "pua": "U+104AF2",
+    "romanized": "mre"
+  },
+  "SD-AAF4": {
+    "char": "邱",
+    "pua": "U+104AF4",
+    "romanized": "mro"
+  },
+  "SD-AB51": {
+    "char": "侶",
+    "pua": "U+104B51",
+    "romanized": "vra"
+  },
+  "SD-AB52": {
+    "char": "俘",
+    "pua": "U+104B52",
+    "romanized": "vrā"
+  },
+  "SD-AB53": {
+    "char": "俟",
+    "pua": "U+104B53",
+    "romanized": "vri"
+  },
+  "SD-AB56": {
+    "char": "侮",
+    "pua": "U+104B56",
+    "romanized": "vrū"
+  },
+  "SD-AB5B": {
+    "char": "俎",
+    "pua": "U+104B5B",
+    "romanized": "vraṃ"
+  },
+  "SD-AB5D": {
+    "char": "侷",
+    "pua": "U+104B5D",
+    "romanized": "śra"
+  },
+  "SD-AB5E": {
+    "char": "兗",
+    "pua": "U+104B5E",
+    "romanized": "śrā"
+  },
+  "SD-AB5F": {
+    "char": "冒",
+    "pua": "U+104B5F",
+    "romanized": "śri"
+  },
+  "SD-AB60": {
+    "char": "冑",
+    "pua": "U+104B60",
+    "romanized": "śrī"
+  },
+  "SD-AB61": {
+    "char": "冠",
+    "pua": "U+104B61",
+    "romanized": "śru"
+  },
+  "SD-AB62": {
+    "char": "剎",
+    "pua": "U+104B62",
+    "romanized": "śrū"
+  },
+  "SD-AB63": {
+    "char": "剃",
+    "pua": "U+104B63",
+    "romanized": "śre"
+  },
+  "SD-AB65": {
+    "char": "前",
+    "pua": "U+104B65",
+    "romanized": "śro"
+  },
+  "SD-AB67": {
+    "char": "剋",
+    "pua": "U+104B67",
+    "romanized": "śraṃ"
+  },
+  "SD-AB6A": {
+    "char": "勉",
+    "pua": "U+104B6A",
+    "romanized": "ṣrā"
+  },
+  "SD-AB6B": {
+    "char": "勃",
+    "pua": "U+104B6B",
+    "romanized": "ṣri"
+  },
+  "SD-AB75": {
+    "char": "哎",
+    "pua": "U+104B75",
+    "romanized": "sra"
+  },
+  "SD-AB76": {
+    "char": "哉",
+    "pua": "U+104B76",
+    "romanized": "srā"
+  },
+  "SD-AB77": {
+    "char": "咸",
+    "pua": "U+104B77",
+    "romanized": "sri"
+  },
+  "SD-AB79": {
+    "char": "咳",
+    "pua": "U+104B79",
+    "romanized": "sru"
+  },
+  "SD-AB7A": {
+    "char": "哇",
+    "pua": "U+104B7A",
+    "romanized": "srū"
+  },
+  "SD-AB7B": {
+    "char": "哂",
+    "pua": "U+104B7B",
+    "romanized": "sre"
+  },
+  "SD-AB7D": {
+    "char": "咪",
+    "pua": "U+104B7D",
+    "romanized": "sro"
+  },
+  "SD-ABA3": {
+    "char": "咯",
+    "pua": "U+104BA3",
+    "romanized": "hra"
+  },
+  "SD-ABA4": {
+    "char": "咫",
+    "pua": "U+104BA4",
+    "romanized": "hrā"
+  },
+  "SD-ABA5": {
+    "char": "咱",
+    "pua": "U+104BA5",
+    "romanized": "hri"
+  },
+  "SD-ABA6": {
+    "char": "咻",
+    "pua": "U+104BA6",
+    "romanized": "hrī"
+  },
+  "SD-ABA9": {
+    "char": "咿",
+    "pua": "U+104BA9",
+    "romanized": "hre"
+  },
+  "SD-ABAD": {
+    "char": "垠",
+    "pua": "U+104BAD",
+    "romanized": "hraṃ"
+  },
+  "SD-ABAE": {
+    "char": "垣",
+    "pua": "U+104BAE",
+    "romanized": "hraḥ"
+  },
+  "SD-ABAF": {
+    "char": "垢",
+    "pua": "U+104BAF",
+    "romanized": "kṣra"
+  },
+  "SD-ABBB": {
+    "char": "姣",
+    "pua": "U+104BBB",
+    "romanized": "kla"
+  },
+  "SD-ABBC": {
+    "char": "姨",
+    "pua": "U+104BBC",
+    "romanized": "klā"
+  },
+  "SD-ABBD": {
+    "char": "娃",
+    "pua": "U+104BBD",
+    "romanized": "kli"
+  },
+  "SD-ABBE": {
+    "char": "姥",
+    "pua": "U+104BBE",
+    "romanized": "klī"
+  },
+  "SD-ABC1": {
+    "char": "姦",
+    "pua": "U+104BC1",
+    "romanized": "kle"
+  },
+  "SD-ABC3": {
+    "char": "姻",
+    "pua": "U+104BC3",
+    "romanized": "klo"
+  },
+  "SD-ABEC": {
+    "char": "恢",
+    "pua": "U+104BEC",
+    "romanized": "ṅlā"
+  },
+  "SD-ABFA": {
+    "char": "拮",
+    "pua": "U+104BFA",
+    "romanized": "clī"
+  },
+  "SD-AC5C": {
+    "char": "枯",
+    "pua": "U+104C5C",
+    "romanized": "jhla"
+  },
+  "SD-ACD2": {
+    "char": "皆",
+    "pua": "U+104CD2",
+    "romanized": "tla"
+  },
+  "SD-ACF0": {
+    "char": "突",
+    "pua": "U+104CF0",
+    "romanized": "dle"
+  },
+  "SD-ADC5": {
+    "char": "倩",
+    "pua": "U+104DC5",
+    "romanized": "śla"
+  },
+  "SD-ADC6": {
+    "char": "倖",
+    "pua": "U+104DC6",
+    "romanized": "ślā"
+  },
+  "SD-ADC7": {
+    "char": "倆",
+    "pua": "U+104DC7",
+    "romanized": "śli"
+  },
+  "SD-ADDF": {
+    "char": "冥",
+    "pua": "U+104DDF",
+    "romanized": "sli"
+  },
+  "SD-ADE9": {
+    "char": "剝",
+    "pua": "U+104DE9",
+    "romanized": "hla"
+  },
+  "SD-ADEA": {
+    "char": "匪",
+    "pua": "U+104DEA",
+    "romanized": "hlā"
+  },
+  "SD-AE42": {
+    "char": "唇",
+    "pua": "U+104E42",
+    "romanized": "kva"
+  },
+  "SD-AE43": {
+    "char": "哽",
+    "pua": "U+104E43",
+    "romanized": "kvā"
+  },
+  "SD-AE44": {
+    "char": "唏",
+    "pua": "U+104E44",
+    "romanized": "kvi"
+  },
+  "SD-AE4A": {
+    "char": "埃",
+    "pua": "U+104E4A",
+    "romanized": "kvo"
+  },
+  "SD-AE4E": {
+    "char": "奘",
+    "pua": "U+104E4E",
+    "romanized": "khva"
+  },
+  "SD-AEB8": {
+    "char": "捂",
+    "pua": "U+104EB8",
+    "romanized": "jva"
+  },
+  "SD-AEB9": {
+    "char": "捆",
+    "pua": "U+104EB9",
+    "romanized": "jvā"
+  },
+  "SD-AEC2": {
+    "char": "捍",
+    "pua": "U+104EC2",
+    "romanized": "jvaṃ"
+  },
+  "SD-AEDC": {
+    "char": "桔",
+    "pua": "U+104EDC",
+    "romanized": "ṭva"
+  },
+  "SD-AEDD": {
+    "char": "栩",
+    "pua": "U+104EDD",
+    "romanized": "ṭvā"
+  },
+  "SD-AF4D": {
+    "char": "烘",
+    "pua": "U+104F4D",
+    "romanized": "ṇva"
+  },
+  "SD-AF53": {
+    "char": "特",
+    "pua": "U+104F53",
+    "romanized": "ṇve"
+  },
+  "SD-AF59": {
+    "char": "玆",
+    "pua": "U+104F59",
+    "romanized": "tva"
+  },
+  "SD-AF5A": {
+    "char": "班",
+    "pua": "U+104F5A",
+    "romanized": "tvā"
+  },
+  "SD-AF5B": {
+    "char": "琉",
+    "pua": "U+104F5B",
+    "romanized": "tvi"
+  },
+  "SD-AF5F": {
+    "char": "珞",
+    "pua": "U+104F5F",
+    "romanized": "tve"
+  },
+  "SD-AF61": {
+    "char": "畝",
+    "pua": "U+104F61",
+    "romanized": "tvo"
+  },
+  "SD-AF63": {
+    "char": "畚",
+    "pua": "U+104F63",
+    "romanized": "tvaṃ"
+  },
+  "SD-AF64": {
+    "char": "留",
+    "pua": "U+104F64",
+    "romanized": "tvaḥ"
+  },
+  "SD-AF71": {
+    "char": "益",
+    "pua": "U+104F71",
+    "romanized": "dva"
+  },
+  "SD-AF72": {
+    "char": "盍",
+    "pua": "U+104F72",
+    "romanized": "dvā"
+  },
+  "SD-AF73": {
+    "char": "盎",
+    "pua": "U+104F73",
+    "romanized": "dvi"
+  },
+  "SD-AF74": {
+    "char": "眩",
+    "pua": "U+104F74",
+    "romanized": "dvī"
+  },
+  "SD-AF77": {
+    "char": "眨",
+    "pua": "U+104F77",
+    "romanized": "dve"
+  },
+  "SD-AF78": {
+    "char": "矩",
+    "pua": "U+104F78",
+    "romanized": "dvai"
+  },
+  "SD-AF79": {
+    "char": "砰",
+    "pua": "U+104F79",
+    "romanized": "dvo"
+  },
+  "SD-AF7C": {
+    "char": "砝",
+    "pua": "U+104F7C",
+    "romanized": "dvaḥ"
+  },
+  "SD-AF7D": {
+    "char": "破",
+    "pua": "U+104F7D",
+    "romanized": "dhva"
+  },
+  "SD-AF7E": {
+    "char": "砷",
+    "pua": "U+104F7E",
+    "romanized": "dhvā"
+  },
+  "SD-AFA1": {
+    "char": "砥",
+    "pua": "U+104FA1",
+    "romanized": "dhvi"
+  },
+  "SD-AFA9": {
+    "char": "祟",
+    "pua": "U+104FA9",
+    "romanized": "dhvaṃ"
+  },
+  "SD-AFAB": {
+    "char": "神",
+    "pua": "U+104FAB",
+    "romanized": "nva"
+  },
+  "SD-AFAC": {
+    "char": "祝",
+    "pua": "U+104FAC",
+    "romanized": "nvā"
+  },
+  "SD-AFAD": {
+    "char": "祗",
+    "pua": "U+104FAD",
+    "romanized": "nvi"
+  },
+  "SD-AFB1": {
+    "char": "秧",
+    "pua": "U+104FB1",
+    "romanized": "nve"
+  },
+  "SD-AFB3": {
+    "char": "秦",
+    "pua": "U+104FB3",
+    "romanized": "nvo"
+  },
+  "SD-AFB5": {
+    "char": "秘",
+    "pua": "U+104FB5",
+    "romanized": "nvaṃ"
+  },
+  "SD-AFB7": {
+    "char": "窈",
+    "pua": "U+104FB7",
+    "romanized": "pva"
+  },
+  "SD-AFB8": {
+    "char": "站",
+    "pua": "U+104FB8",
+    "romanized": "pvā"
+  },
+  "SD-AFE7": {
+    "char": "舐",
+    "pua": "U+104FE7",
+    "romanized": "mva"
+  },
+  "SD-AFE8": {
+    "char": "航",
+    "pua": "U+104FE8",
+    "romanized": "mvā"
+  },
+  "SD-AFE9": {
+    "char": "舫",
+    "pua": "U+104FE9",
+    "romanized": "mvi"
+  },
+  "SD-AFED": {
+    "char": "茫",
+    "pua": "U+104FED",
+    "romanized": "mve"
+  },
+  "SD-AFF2": {
+    "char": "荐",
+    "pua": "U+104FF2",
+    "romanized": "mvaḥ"
+  },
+  "SD-AFF3": {
+    "char": "草",
+    "pua": "U+104FF3",
+    "romanized": "yva"
+  },
+  "SD-B042": {
+    "char": "蚪",
+    "pua": "U+105042",
+    "romanized": "lvi"
+  },
+  "SD-B04C": {
+    "char": "袂",
+    "pua": "U+10504C",
+    "romanized": "śva"
+  },
+  "SD-B04D": {
+    "char": "衽",
+    "pua": "U+10504D",
+    "romanized": "śvā"
+  },
+  "SD-B04E": {
+    "char": "衹",
+    "pua": "U+10504E",
+    "romanized": "śvi"
+  },
+  "SD-B052": {
+    "char": "訌",
+    "pua": "U+105052",
+    "romanized": "śve"
+  },
+  "SD-B054": {
+    "char": "訊",
+    "pua": "U+105054",
+    "romanized": "śvo"
+  },
+  "SD-B058": {
+    "char": "訏",
+    "pua": "U+105058",
+    "romanized": "ṣva"
+  },
+  "SD-B059": {
+    "char": "訑",
+    "pua": "U+105059",
+    "romanized": "ṣvā"
+  },
+  "SD-B064": {
+    "char": "辱",
+    "pua": "U+105064",
+    "romanized": "sva"
+  },
+  "SD-B065": {
+    "char": "送",
+    "pua": "U+105065",
+    "romanized": "svā"
+  },
+  "SD-B066": {
+    "char": "逆",
+    "pua": "U+105066",
+    "romanized": "svi"
+  },
+  "SD-B06A": {
+    "char": "迴",
+    "pua": "U+10506A",
+    "romanized": "sve"
+  },
+  "SD-B06F": {
+    "char": "邕",
+    "pua": "U+10506F",
+    "romanized": "svaḥ"
+  },
+  "SD-B070": {
+    "char": "郡",
+    "pua": "U+105070",
+    "romanized": "hva"
+  },
+  "SD-B071": {
+    "char": "郝",
+    "pua": "U+105071",
+    "romanized": "hvā"
+  },
+  "SD-B07A": {
+    "char": "釙",
+    "pua": "U+10507A",
+    "romanized": "hvaṃ"
+  },
+  "SD-B0AA": {
+    "char": "高",
+    "pua": "U+1050AA",
+    "romanized": "kma"
+  },
+  "SD-B0AB": {
+    "char": "鬥",
+    "pua": "U+1050AB",
+    "romanized": "kmā"
+  },
+  "SD-B0AC": {
+    "char": "鬲",
+    "pua": "U+1050AC",
+    "romanized": "kmi"
+  },
+  "SD-B0B4": {
+    "char": "偌",
+    "pua": "U+1050B4",
+    "romanized": "kmaṃ"
+  },
+  "SD-B0DA": {
+    "char": "啊",
+    "pua": "U+1050DA",
+    "romanized": "ṅma"
+  },
+  "SD-B0DD": {
+    "char": "問",
+    "pua": "U+1050DD",
+    "romanized": "ṅmī"
+  },
+  "SD-B1C1": {
+    "char": "掄",
+    "pua": "U+1051C1",
+    "romanized": "tma"
+  },
+  "SD-B1C2": {
+    "char": "授",
+    "pua": "U+1051C2",
+    "romanized": "tmā"
+  },
+  "SD-B1C7": {
+    "char": "掏",
+    "pua": "U+1051C7",
+    "romanized": "tme"
+  },
+  "SD-B1CB": {
+    "char": "捨",
+    "pua": "U+1051CB",
+    "romanized": "tmaṃ"
+  },
+  "SD-B1CD": {
+    "char": "敝",
+    "pua": "U+1051CD",
+    "romanized": "thma"
+  },
+  "SD-B1D9": {
+    "char": "斬",
+    "pua": "U+1051D9",
+    "romanized": "dma"
+  },
+  "SD-B1DA": {
+    "char": "族",
+    "pua": "U+1051DA",
+    "romanized": "dmā"
+  },
+  "SD-B1DB": {
+    "char": "旋",
+    "pua": "U+1051DB",
+    "romanized": "dmi"
+  },
+  "SD-B1DC": {
+    "char": "旌",
+    "pua": "U+1051DC",
+    "romanized": "dmī"
+  },
+  "SD-B1DF": {
+    "char": "晚",
+    "pua": "U+1051DF",
+    "romanized": "dme"
+  },
+  "SD-B1E1": {
+    "char": "晨",
+    "pua": "U+1051E1",
+    "romanized": "dmo"
+  },
+  "SD-B1E3": {
+    "char": "晞",
+    "pua": "U+1051E3",
+    "romanized": "dmaṃ"
+  },
+  "SD-B1F1": {
+    "char": "械",
+    "pua": "U+1051F1",
+    "romanized": "nma"
+  },
+  "SD-B1F3": {
+    "char": "棄",
+    "pua": "U+1051F3",
+    "romanized": "nmi"
+  },
+  "SD-B1F4": {
+    "char": "梭",
+    "pua": "U+1051F4",
+    "romanized": "nmī"
+  },
+  "SD-B26E": {
+    "char": "爽",
+    "pua": "U+10526E",
+    "romanized": "yma"
+  },
+  "SD-B27A": {
+    "char": "理",
+    "pua": "U+10527A",
+    "romanized": "lma"
+  },
+  "SD-B27C": {
+    "char": "琍",
+    "pua": "U+10527C",
+    "romanized": "lmi"
+  },
+  "SD-B2A7": {
+    "char": "異",
+    "pua": "U+1052A7",
+    "romanized": "lmaḥ"
+  },
+  "SD-B2B4": {
+    "char": "眼",
+    "pua": "U+1052B4",
+    "romanized": "śma"
+  },
+  "SD-B2B6": {
+    "char": "眸",
+    "pua": "U+1052B6",
+    "romanized": "śmi"
+  },
+  "SD-B2BA": {
+    "char": "硎",
+    "pua": "U+1052BA",
+    "romanized": "śme"
+  },
+  "SD-B2BB": {
+    "char": "祥",
+    "pua": "U+1052BB",
+    "romanized": "śmai"
+  },
+  "SD-B2C0": {
+    "char": "窕",
+    "pua": "U+1052C0",
+    "romanized": "ṣma"
+  },
+  "SD-B2C1": {
+    "char": "笠",
+    "pua": "U+1052C1",
+    "romanized": "ṣmā"
+  },
+  "SD-B2C2": {
+    "char": "笨",
+    "pua": "U+1052C2",
+    "romanized": "ṣmi"
+  },
+  "SD-B2CA": {
+    "char": "粗",
+    "pua": "U+1052CA",
+    "romanized": "ṣmaṃ"
+  },
+  "SD-B2CC": {
+    "char": "絆",
+    "pua": "U+1052CC",
+    "romanized": "sma"
+  },
+  "SD-B2CD": {
+    "char": "絃",
+    "pua": "U+1052CD",
+    "romanized": "smā"
+  },
+  "SD-B2CE": {
+    "char": "統",
+    "pua": "U+1052CE",
+    "romanized": "smi"
+  },
+  "SD-B2CF": {
+    "char": "紮",
+    "pua": "U+1052CF",
+    "romanized": "smī"
+  },
+  "SD-B2D3": {
+    "char": "細",
+    "pua": "U+1052D3",
+    "romanized": "smai"
+  },
+  "SD-B2D6": {
+    "char": "累",
+    "pua": "U+1052D6",
+    "romanized": "smaṃ"
+  },
+  "SD-B2D8": {
+    "char": "紲",
+    "pua": "U+1052D8",
+    "romanized": "hma"
+  },
+  "SD-B2DA": {
+    "char": "缽",
+    "pua": "U+1052DA",
+    "romanized": "hmi"
+  },
+  "SD-B2DB": {
+    "char": "羞",
+    "pua": "U+1052DB",
+    "romanized": "hmī"
+  },
+  "SD-B2DE": {
+    "char": "翎",
+    "pua": "U+1052DE",
+    "romanized": "hme"
+  },
+  "SD-B2E0": {
+    "char": "耜",
+    "pua": "U+1052E0",
+    "romanized": "hmo"
+  },
+  "SD-B2E4": {
+    "char": "脖",
+    "pua": "U+1052E4",
+    "romanized": "kṣma"
+  },
+  "SD-B2E6": {
+    "char": "脫",
+    "pua": "U+1052E6",
+    "romanized": "kṣmi"
+  },
+  "SD-B2E7": {
+    "char": "脩",
+    "pua": "U+1052E7",
+    "romanized": "kṣmī"
+  },
+  "SD-B2EA": {
+    "char": "舂",
+    "pua": "U+1052EA",
+    "romanized": "kṣme"
+  },
+  "SD-B2F1": {
+    "char": "莘",
+    "pua": "U+1052F1",
+    "romanized": "knā"
+  },
+  "SD-B2F6": {
+    "char": "莫",
+    "pua": "U+1052F6",
+    "romanized": "kne"
+  },
+  "SD-B349": {
+    "char": "蛆",
+    "pua": "U+105349",
+    "romanized": "gna"
+  },
+  "SD-B34B": {
+    "char": "蚱",
+    "pua": "U+10534B",
+    "romanized": "gni"
+  },
+  "SD-B34C": {
+    "char": "蚯",
+    "pua": "U+10534C",
+    "romanized": "gnī"
+  },
+  "SD-B34F": {
+    "char": "袞",
+    "pua": "U+10534F",
+    "romanized": "gne"
+  },
+  "SD-B353": {
+    "char": "袖",
+    "pua": "U+105353",
+    "romanized": "gnaṃ"
+  },
+  "SD-B355": {
+    "char": "袋",
+    "pua": "U+105355",
+    "romanized": "ghna"
+  },
+  "SD-B356": {
+    "char": "覓",
+    "pua": "U+105356",
+    "romanized": "ghnā"
+  },
+  "SD-B35D": {
+    "char": "設",
+    "pua": "U+10535D",
+    "romanized": "ghno"
+  },
+  "SD-B35F": {
+    "char": "訛",
+    "pua": "U+10535F",
+    "romanized": "ghnaṃ"
+  },
+  "SD-B448": {
+    "char": "寒",
+    "pua": "U+105448",
+    "romanized": "tna"
+  },
+  "SD-B449": {
+    "char": "富",
+    "pua": "U+105449",
+    "romanized": "tnā"
+  },
+  "SD-B44A": {
+    "char": "寓",
+    "pua": "U+10544A",
+    "romanized": "tni"
+  },
+  "SD-B44E": {
+    "char": "就",
+    "pua": "U+10544E",
+    "romanized": "tne"
+  },
+  "SD-B450": {
+    "char": "嵐",
+    "pua": "U+105450",
+    "romanized": "tno"
+  },
+  "SD-B452": {
+    "char": "嵇",
+    "pua": "U+105452",
+    "romanized": "tnaṃ"
+  },
+  "SD-B454": {
+    "char": "幅",
+    "pua": "U+105454",
+    "romanized": "thna"
+  },
+  "SD-B460": {
+    "char": "循",
+    "pua": "U+105460",
+    "romanized": "dna"
+  },
+  "SD-B462": {
+    "char": "惑",
+    "pua": "U+105462",
+    "romanized": "dni"
+  },
+  "SD-B478": {
+    "char": "掌",
+    "pua": "U+105478",
+    "romanized": "pna"
+  },
+  "SD-B47A": {
+    "char": "揀",
+    "pua": "U+10547A",
+    "romanized": "pni"
+  },
+  "SD-B4CA": {
+    "char": "棵",
+    "pua": "U+1054CA",
+    "romanized": "mna"
+  },
+  "SD-B4CB": {
+    "char": "森",
+    "pua": "U+1054CB",
+    "romanized": "mnā"
+  },
+  "SD-B4E2": {
+    "char": "氯",
+    "pua": "U+1054E2",
+    "romanized": "lna"
+  },
+  "SD-B4EE": {
+    "char": "減",
+    "pua": "U+1054EE",
+    "romanized": "vna"
+  },
+  "SD-B4FA": {
+    "char": "測",
+    "pua": "U+1054FA",
+    "romanized": "śna"
+  },
+  "SD-B4FC": {
+    "char": "渝",
+    "pua": "U+1054FC",
+    "romanized": "śni"
+  },
+  "SD-B547": {
+    "char": "湟",
+    "pua": "U+105547",
+    "romanized": "ṣna"
+  },
+  "SD-B548": {
+    "char": "焙",
+    "pua": "U+105548",
+    "romanized": "ṣnā"
+  },
+  "SD-B553": {
+    "char": "猶",
+    "pua": "U+105553",
+    "romanized": "sna"
+  },
+  "SD-B554": {
+    "char": "猥",
+    "pua": "U+105554",
+    "romanized": "snā"
+  },
+  "SD-B55F": {
+    "char": "琯",
+    "pua": "U+10555F",
+    "romanized": "hna"
+  },
+  "SD-B577": {
+    "char": "硬",
+    "pua": "U+105577",
+    "romanized": "rka"
+  },
+  "SD-B578": {
+    "char": "硯",
+    "pua": "U+105578",
+    "romanized": "rkā"
+  },
+  "SD-B579": {
+    "char": "稍",
+    "pua": "U+105579",
+    "romanized": "rki"
+  },
+  "SD-B57A": {
+    "char": "稈",
+    "pua": "U+10557A",
+    "romanized": "rkī"
+  },
+  "SD-B57B": {
+    "char": "程",
+    "pua": "U+10557B",
+    "romanized": "rku"
+  },
+  "SD-B57C": {
+    "char": "稅",
+    "pua": "U+10557C",
+    "romanized": "rkū"
+  },
+  "SD-B57D": {
+    "char": "稀",
+    "pua": "U+10557D",
+    "romanized": "rke"
+  },
+  "SD-B57E": {
+    "char": "窘",
+    "pua": "U+10557E",
+    "romanized": "rkai"
+  },
+  "SD-B5A1": {
+    "char": "窗",
+    "pua": "U+1055A1",
+    "romanized": "rko"
+  },
+  "SD-B5A2": {
+    "char": "窖",
+    "pua": "U+1055A2",
+    "romanized": "rkau"
+  },
+  "SD-B5A3": {
+    "char": "童",
+    "pua": "U+1055A3",
+    "romanized": "rkaṃ"
+  },
+  "SD-B5A4": {
+    "char": "竣",
+    "pua": "U+1055A4",
+    "romanized": "rkaḥ"
+  },
+  "SD-B5A5": {
+    "char": "等",
+    "pua": "U+1055A5",
+    "romanized": "rkha"
+  },
+  "SD-B5B1": {
+    "char": "絞",
+    "pua": "U+1055B1",
+    "romanized": "rga"
+  },
+  "SD-B5B2": {
+    "char": "結",
+    "pua": "U+1055B2",
+    "romanized": "rgā"
+  },
+  "SD-B5B3": {
+    "char": "絨",
+    "pua": "U+1055B3",
+    "romanized": "rgi"
+  },
+  "SD-B5B5": {
+    "char": "紫",
+    "pua": "U+1055B5",
+    "romanized": "rgu"
+  },
+  "SD-B5B7": {
+    "char": "絲",
+    "pua": "U+1055B7",
+    "romanized": "rge"
+  },
+  "SD-B5B9": {
+    "char": "給",
+    "pua": "U+1055B9",
+    "romanized": "rgo"
+  },
+  "SD-B5BD": {
+    "char": "善",
+    "pua": "U+1055BD",
+    "romanized": "rgha"
+  },
+  "SD-B5C5": {
+    "char": "腋",
+    "pua": "U+1055C5",
+    "romanized": "rgho"
+  },
+  "SD-B5C7": {
+    "char": "腎",
+    "pua": "U+1055C7",
+    "romanized": "rghaṃ"
+  },
+  "SD-B5D5": {
+    "char": "菅",
+    "pua": "U+1055D5",
+    "romanized": "rca"
+  },
+  "SD-B5D7": {
+    "char": "菁",
+    "pua": "U+1055D7",
+    "romanized": "rci"
+  },
+  "SD-B5ED": {
+    "char": "蛭",
+    "pua": "U+1055ED",
+    "romanized": "rja"
+  },
+  "SD-B5EF": {
+    "char": "蛛",
+    "pua": "U+1055EF",
+    "romanized": "rji"
+  },
+  "SD-B65E": {
+    "char": "跌",
+    "pua": "U+10565E",
+    "romanized": "rṭha"
+  },
+  "SD-B6A4": {
+    "char": "隊",
+    "pua": "U+1056A4",
+    "romanized": "rṇa"
+  },
+  "SD-B6A5": {
+    "char": "階",
+    "pua": "U+1056A5",
+    "romanized": "rṇā"
+  },
+  "SD-B6A6": {
+    "char": "隋",
+    "pua": "U+1056A6",
+    "romanized": "rṇi"
+  },
+  "SD-B6A7": {
+    "char": "陽",
+    "pua": "U+1056A7",
+    "romanized": "rṇī"
+  },
+  "SD-B6A8": {
+    "char": "隅",
+    "pua": "U+1056A8",
+    "romanized": "rṇu"
+  },
+  "SD-B6A9": {
+    "char": "隆",
+    "pua": "U+1056A9",
+    "romanized": "rṇū"
+  },
+  "SD-B6AE": {
+    "char": "雅",
+    "pua": "U+1056AE",
+    "romanized": "rṇaṃ"
+  },
+  "SD-B6AF": {
+    "char": "雄",
+    "pua": "U+1056AF",
+    "romanized": "rṇaḥ"
+  },
+  "SD-B6B0": {
+    "char": "集",
+    "pua": "U+1056B0",
+    "romanized": "rta"
+  },
+  "SD-B6B2": {
+    "char": "雯",
+    "pua": "U+1056B2",
+    "romanized": "rti"
+  },
+  "SD-B6BC": {
+    "char": "飲",
+    "pua": "U+1056BC",
+    "romanized": "rtha"
+  },
+  "SD-B6BD": {
+    "char": "飭",
+    "pua": "U+1056BD",
+    "romanized": "rthā"
+  },
+  "SD-B6BE": {
+    "char": "馮",
+    "pua": "U+1056BE",
+    "romanized": "rthi"
+  },
+  "SD-B6BF": {
+    "char": "馭",
+    "pua": "U+1056BF",
+    "romanized": "rthī"
+  },
+  "SD-B6C2": {
+    "char": "黑",
+    "pua": "U+1056C2",
+    "romanized": "rthe"
+  },
+  "SD-B6C4": {
+    "char": "傭",
+    "pua": "U+1056C4",
+    "romanized": "rtho"
+  },
+  "SD-B6C6": {
+    "char": "傲",
+    "pua": "U+1056C6",
+    "romanized": "rthaṃ"
+  },
+  "SD-B6C8": {
+    "char": "僅",
+    "pua": "U+1056C8",
+    "romanized": "rda"
+  },
+  "SD-B6CA": {
+    "char": "催",
+    "pua": "U+1056CA",
+    "romanized": "rdi"
+  },
+  "SD-B6CE": {
+    "char": "僇",
+    "pua": "U+1056CE",
+    "romanized": "rde"
+  },
+  "SD-B6D2": {
+    "char": "募",
+    "pua": "U+1056D2",
+    "romanized": "rdaṃ"
+  },
+  "SD-B6D4": {
+    "char": "勤",
+    "pua": "U+1056D4",
+    "romanized": "rdha"
+  },
+  "SD-B6D5": {
+    "char": "勢",
+    "pua": "U+1056D5",
+    "romanized": "rdhā"
+  },
+  "SD-B6D6": {
+    "char": "勣",
+    "pua": "U+1056D6",
+    "romanized": "rdhi"
+  },
+  "SD-B6DC": {
+    "char": "嗎",
+    "pua": "U+1056DC",
+    "romanized": "rdho"
+  },
+  "SD-B6E0": {
+    "char": "嗣",
+    "pua": "U+1056E0",
+    "romanized": "rna"
+  },
+  "SD-B6E1": {
+    "char": "嗤",
+    "pua": "U+1056E1",
+    "romanized": "rnā"
+  },
+  "SD-B6E2": {
+    "char": "嗯",
+    "pua": "U+1056E2",
+    "romanized": "rni"
+  },
+  "SD-B6E6": {
+    "char": "嗆",
+    "pua": "U+1056E6",
+    "romanized": "rne"
+  },
+  "SD-B6EC": {
+    "char": "塑",
+    "pua": "U+1056EC",
+    "romanized": "rpa"
+  },
+  "SD-B6ED": {
+    "char": "塘",
+    "pua": "U+1056ED",
+    "romanized": "rpā"
+  },
+  "SD-B6EE": {
+    "char": "塗",
+    "pua": "U+1056EE",
+    "romanized": "rpi"
+  },
+  "SD-B6F2": {
+    "char": "塌",
+    "pua": "U+1056F2",
+    "romanized": "rpe"
+  },
+  "SD-B6F6": {
+    "char": "塒",
+    "pua": "U+1056F6",
+    "romanized": "rpaṃ"
+  },
+  "SD-B6FC": {
+    "char": "媾",
+    "pua": "U+1056FC",
+    "romanized": "rphu"
+  },
+  "SD-B747": {
+    "char": "廉",
+    "pua": "U+105747",
+    "romanized": "rbi"
+  },
+  "SD-B751": {
+    "char": "想",
+    "pua": "U+105751",
+    "romanized": "rbha"
+  },
+  "SD-B752": {
+    "char": "愛",
+    "pua": "U+105752",
+    "romanized": "rbhā"
+  },
+  "SD-B753": {
+    "char": "惹",
+    "pua": "U+105753",
+    "romanized": "rbhi"
+  },
+  "SD-B755": {
+    "char": "愈",
+    "pua": "U+105755",
+    "romanized": "rbhu"
+  },
+  "SD-B756": {
+    "char": "慎",
+    "pua": "U+105756",
+    "romanized": "rbhū"
+  },
+  "SD-B757": {
+    "char": "慌",
+    "pua": "U+105757",
+    "romanized": "rbhe"
+  },
+  "SD-B759": {
+    "char": "慍",
+    "pua": "U+105759",
+    "romanized": "rbho"
+  },
+  "SD-B75D": {
+    "char": "愍",
+    "pua": "U+10575D",
+    "romanized": "rma"
+  },
+  "SD-B75E": {
+    "char": "愆",
+    "pua": "U+10575E",
+    "romanized": "rmā"
+  },
+  "SD-B75F": {
+    "char": "愷",
+    "pua": "U+10575F",
+    "romanized": "rmi"
+  },
+  "SD-B763": {
+    "char": "搾",
+    "pua": "U+105763",
+    "romanized": "rme"
+  },
+  "SD-B765": {
+    "char": "搪",
+    "pua": "U+105765",
+    "romanized": "rmo"
+  },
+  "SD-B767": {
+    "char": "搽",
+    "pua": "U+105767",
+    "romanized": "rmaṃ"
+  },
+  "SD-B769": {
+    "char": "搏",
+    "pua": "U+105769",
+    "romanized": "rya"
+  },
+  "SD-B76A": {
+    "char": "搜",
+    "pua": "U+10576A",
+    "romanized": "ryā"
+  },
+  "SD-B76D": {
+    "char": "搶",
+    "pua": "U+10576D",
+    "romanized": "ryu"
+  },
+  "SD-B76F": {
+    "char": "搗",
+    "pua": "U+10576F",
+    "romanized": "rye"
+  },
+  "SD-B770": {
+    "char": "搆",
+    "pua": "U+105770",
+    "romanized": "ryai"
+  },
+  "SD-B771": {
+    "char": "敬",
+    "pua": "U+105771",
+    "romanized": "ryo"
+  },
+  "SD-B773": {
+    "char": "新",
+    "pua": "U+105773",
+    "romanized": "ryaṃ"
+  },
+  "SD-B774": {
+    "char": "暗",
+    "pua": "U+105774",
+    "romanized": "ryaḥ"
+  },
+  "SD-B775": {
+    "char": "暉",
+    "pua": "U+105775",
+    "romanized": "rla"
+  },
+  "SD-B77B": {
+    "char": "暍",
+    "pua": "U+10577B",
+    "romanized": "rle"
+  },
+  "SD-B7A1": {
+    "char": "楚",
+    "pua": "U+1057A1",
+    "romanized": "rlaṃ"
+  },
+  "SD-B7A3": {
+    "char": "楠",
+    "pua": "U+1057A3",
+    "romanized": "rva"
+  },
+  "SD-B7A4": {
+    "char": "楔",
+    "pua": "U+1057A4",
+    "romanized": "rvā"
+  },
+  "SD-B7A5": {
+    "char": "極",
+    "pua": "U+1057A5",
+    "romanized": "rvi"
+  },
+  "SD-B7A9": {
+    "char": "楨",
+    "pua": "U+1057A9",
+    "romanized": "rve"
+  },
+  "SD-B7AA": {
+    "char": "楫",
+    "pua": "U+1057AA",
+    "romanized": "rvai"
+  },
+  "SD-B7AB": {
+    "char": "楞",
+    "pua": "U+1057AB",
+    "romanized": "rvo"
+  },
+  "SD-B7AD": {
+    "char": "楹",
+    "pua": "U+1057AD",
+    "romanized": "rvaṃ"
+  },
+  "SD-B7AF": {
+    "char": "楝",
+    "pua": "U+1057AF",
+    "romanized": "rśa"
+  },
+  "SD-B7B1": {
+    "char": "楛",
+    "pua": "U+1057B1",
+    "romanized": "rśi"
+  },
+  "SD-B7BB": {
+    "char": "溶",
+    "pua": "U+1057BB",
+    "romanized": "rṣa"
+  },
+  "SD-B7BC": {
+    "char": "滂",
+    "pua": "U+1057BC",
+    "romanized": "rṣā"
+  },
+  "SD-B7BD": {
+    "char": "源",
+    "pua": "U+1057BD",
+    "romanized": "rṣi"
+  },
+  "SD-B7BE": {
+    "char": "溝",
+    "pua": "U+1057BE",
+    "romanized": "rṣī"
+  },
+  "SD-B7C1": {
+    "char": "溥",
+    "pua": "U+1057C1",
+    "romanized": "rṣe"
+  },
+  "SD-B7C2": {
+    "char": "溘",
+    "pua": "U+1057C2",
+    "romanized": "rṣai"
+  },
+  "SD-B7C5": {
+    "char": "溫",
+    "pua": "U+1057C5",
+    "romanized": "rṣaṃ"
+  },
+  "SD-B7C7": {
+    "char": "準",
+    "pua": "U+1057C7",
+    "romanized": "rsa"
+  },
+  "SD-B7C9": {
+    "char": "滄",
+    "pua": "U+1057C9",
+    "romanized": "rsi"
+  },
+  "SD-B7CD": {
+    "char": "溴",
+    "pua": "U+1057CD",
+    "romanized": "rse"
+  },
+  "SD-B7D3": {
+    "char": "照",
+    "pua": "U+1057D3",
+    "romanized": "rha"
+  },
+  "SD-B7D4": {
+    "char": "煜",
+    "pua": "U+1057D4",
+    "romanized": "rhā"
+  },
+  "SD-B7D9": {
+    "char": "煞",
+    "pua": "U+1057D9",
+    "romanized": "rhe"
+  },
+  "SD-B7DB": {
+    "char": "煨",
+    "pua": "U+1057DB",
+    "romanized": "rho"
+  },
+  "SD-B7EB": {
+    "char": "瑛",
+    "pua": "U+1057EB",
+    "romanized": "rkya"
+  },
+  "SD-B7EC": {
+    "char": "瑜",
+    "pua": "U+1057EC",
+    "romanized": "rkyā"
+  },
+  "SD-B844": {
+    "char": "睥",
+    "pua": "U+105844",
+    "romanized": "rgya"
+  },
+  "SD-B8A2": {
+    "char": "腺",
+    "pua": "U+1058A2",
+    "romanized": "rjya"
+  },
+  "SD-B947": {
+    "char": "逼",
+    "pua": "U+105947",
+    "romanized": "rtyu"
+  },
+  "SD-B9E9": {
+    "char": "寥",
+    "pua": "U+1059E9",
+    "romanized": "rvya"
+  },
+  "SD-BA72": {
+    "char": "氳",
+    "pua": "U+105A72",
+    "romanized": "rkra"
+  },
+  "SD-BA73": {
+    "char": "漳",
+    "pua": "U+105A73",
+    "romanized": "rkrā"
+  },
+  "SD-BCE6": {
+    "char": "潭",
+    "pua": "U+105CE6",
+    "romanized": "rkla"
+  },
+  "SD-BCE7": {
+    "char": "潛",
+    "pua": "U+105CE7",
+    "romanized": "rklā"
+  },
+  "SD-BF6D": {
+    "char": "禦",
+    "pua": "U+105F6D",
+    "romanized": "rkva"
+  },
+  "SD-BF6E": {
+    "char": "積",
+    "pua": "U+105F6E",
+    "romanized": "rkvā"
+  },
+  "SD-BFE3": {
+    "char": "踴",
+    "pua": "U+105FE3",
+    "romanized": "rjva"
+  },
+  "SD-C0A6": {
+    "char": "嬰",
+    "pua": "U+1060A6",
+    "romanized": "rtva"
+  },
+  "SD-C0A7": {
+    "char": "嬪",
+    "pua": "U+1060A7",
+    "romanized": "rtvā"
+  },
+  "SD-C0BF": {
+    "char": "擦",
+    "pua": "U+1060BF",
+    "romanized": "rdvā"
+  },
+  "SD-C0C0": {
+    "char": "擬",
+    "pua": "U+1060C0",
+    "romanized": "rdvi"
+  },
+  "SD-C0CA": {
+    "char": "檄",
+    "pua": "U+1060CA",
+    "romanized": "rdhva"
+  },
+  "SD-C0D6": {
+    "char": "氈",
+    "pua": "U+1060D6",
+    "romanized": "rnva"
+  },
+  "SD-C0D8": {
+    "char": "濱",
+    "pua": "U+1060D8",
+    "romanized": "rnvi"
+  },
+  "SD-C0FA": {
+    "char": "盪",
+    "pua": "U+1060FA",
+    "romanized": "rbva"
+  },
+  "SD-C0FC": {
+    "char": "瞪",
+    "pua": "U+1060FC",
+    "romanized": "rbvi"
+  },
+  "SD-C153": {
+    "char": "糜",
+    "pua": "U+106153",
+    "romanized": "rmva"
+  },
+  "SD-C177": {
+    "char": "膿",
+    "pua": "U+106177",
+    "romanized": "rśva"
+  },
+  "SD-C1A5": {
+    "char": "薔",
+    "pua": "U+1061A5",
+    "romanized": "rṣva"
+  },
+  "SD-C1D5": {
+    "char": "轅",
+    "pua": "U+1061D5",
+    "romanized": "rkma"
+  },
+  "SD-C1D6": {
+    "char": "輿",
+    "pua": "U+1061D6",
+    "romanized": "rkmā"
+  },
+  "SD-C347": {
+    "char": "颺",
+    "pua": "U+106347",
+    "romanized": "rdmi"
+  },
+  "SD-C34B": {
+    "char": "餮",
+    "pua": "U+10634B",
+    "romanized": "rdme"
+  },
+  "SD-C45C": {
+    "char": "孀",
+    "pua": "U+10645C",
+    "romanized": "rkna"
+  },
+  "SD-C45D": {
+    "char": "孃",
+    "pua": "U+10645D",
+    "romanized": "rknā"
+  },
+  "SD-C573": {
+    "char": "彎",
+    "pua": "U+106573",
+    "romanized": "rtna"
+  },
+  "SD-C5B9": {
+    "char": "饕",
+    "pua": "U+1065B9",
+    "romanized": "rdhna"
+  },
+  "SD-C5BA": {
+    "char": "驕",
+    "pua": "U+1065BA",
+    "romanized": "rdhnā"
+  },
+  "SD-C5BF": {
+    "char": "鰱",
+    "pua": "U+1065BF",
+    "romanized": "rdhne"
+  },
+  "SD-C5C3": {
+    "char": "鷗",
+    "pua": "U+1065C3",
+    "romanized": "rdhnaṃ"
+  },
+  "SD-C963": {
+    "char": "丱",
+    "pua": "U+106963",
+    "romanized": "ṅka"
+  },
+  "SD-C964": {
+    "char": "丼",
+    "pua": "U+106964",
+    "romanized": "ṅkā"
+  },
+  "SD-C965": {
+    "char": "仨",
+    "pua": "U+106965",
+    "romanized": "ṅki"
+  },
+  "SD-C966": {
+    "char": "仜",
+    "pua": "U+106966",
+    "romanized": "ṅkī"
+  },
+  "SD-C967": {
+    "char": "仩",
+    "pua": "U+106967",
+    "romanized": "ṅku"
+  },
+  "SD-C968": {
+    "char": "仡",
+    "pua": "U+106968",
+    "romanized": "ṅkū"
+  },
+  "SD-C969": {
+    "char": "仝",
+    "pua": "U+106969",
+    "romanized": "ṅke"
+  },
+  "SD-C96A": {
+    "char": "仚",
+    "pua": "U+10696A",
+    "romanized": "ṅkai"
+  },
+  "SD-C96B": {
+    "char": "刌",
+    "pua": "U+10696B",
+    "romanized": "ṅko"
+  },
+  "SD-C96C": {
+    "char": "匜",
+    "pua": "U+10696C",
+    "romanized": "ṅkau"
+  },
+  "SD-C96D": {
+    "char": "卌",
+    "pua": "U+10696D",
+    "romanized": "ṅkaṃ"
+  },
+  "SD-C96E": {
+    "char": "圢",
+    "pua": "U+10696E",
+    "romanized": "ṅkaḥ"
+  },
+  "SD-C96F": {
+    "char": "圣",
+    "pua": "U+10696F",
+    "romanized": "ṅkha"
+  },
+  "SD-C970": {
+    "char": "夗",
+    "pua": "U+106970",
+    "romanized": "ṅkhā"
+  },
+  "SD-C971": {
+    "char": "夯",
+    "pua": "U+106971",
+    "romanized": "ṅkhi"
+  },
+  "SD-C979": {
+    "char": "庀",
+    "pua": "U+106979",
+    "romanized": "ṅkhaṃ"
+  },
+  "SD-C97B": {
+    "char": "忉",
+    "pua": "U+10697B",
+    "romanized": "ṅga"
+  },
+  "SD-C97C": {
+    "char": "戉",
+    "pua": "U+10697C",
+    "romanized": "ṅgā"
+  },
+  "SD-C97D": {
+    "char": "扐",
+    "pua": "U+10697D",
+    "romanized": "ṅgi"
+  },
+  "SD-C97E": {
+    "char": "氕",
+    "pua": "U+10697E",
+    "romanized": "ṅgī"
+  },
+  "SD-C9A1": {
+    "char": "氶",
+    "pua": "U+1069A1",
+    "romanized": "ṅgu"
+  },
+  "SD-C9A3": {
+    "char": "氿",
+    "pua": "U+1069A3",
+    "romanized": "ṅge"
+  },
+  "SD-C9A9": {
+    "char": "肊",
+    "pua": "U+1069A9",
+    "romanized": "ṅgha"
+  },
+  "SD-C9AA": {
+    "char": "阞",
+    "pua": "U+1069AA",
+    "romanized": "ṅghā"
+  },
+  "SD-C9AB": {
+    "char": "伎",
+    "pua": "U+1069AB",
+    "romanized": "ṅghi"
+  },
+  "SD-C9AF": {
+    "char": "伔",
+    "pua": "U+1069AF",
+    "romanized": "ṅghe"
+  },
+  "SD-C9B5": {
+    "char": "伂",
+    "pua": "U+1069B5",
+    "romanized": "ñca"
+  },
+  "SD-C9B6": {
+    "char": "伅",
+    "pua": "U+1069B6",
+    "romanized": "ñcā"
+  },
+  "SD-C9B7": {
+    "char": "伢",
+    "pua": "U+1069B7",
+    "romanized": "ñci"
+  },
+  "SD-C9BD": {
+    "char": "刓",
+    "pua": "U+1069BD",
+    "romanized": "ñco"
+  },
+  "SD-C9C1": {
+    "char": "匢",
+    "pua": "U+1069C1",
+    "romanized": "ñcha"
+  },
+  "SD-C9C2": {
+    "char": "匟",
+    "pua": "U+1069C2",
+    "romanized": "ñchā"
+  },
+  "SD-C9CD": {
+    "char": "奼",
+    "pua": "U+1069CD",
+    "romanized": "ñja"
+  },
+  "SD-C9CE": {
+    "char": "妅",
+    "pua": "U+1069CE",
+    "romanized": "ñjā"
+  },
+  "SD-C9CF": {
+    "char": "奻",
+    "pua": "U+1069CF",
+    "romanized": "ñji"
+  },
+  "SD-C9D1": {
+    "char": "奷",
+    "pua": "U+1069D1",
+    "romanized": "ñju"
+  },
+  "SD-C9E5": {
+    "char": "扤",
+    "pua": "U+1069E5",
+    "romanized": "ṇṭa"
+  },
+  "SD-C9E6": {
+    "char": "扡",
+    "pua": "U+1069E6",
+    "romanized": "ṇṭā"
+  },
+  "SD-C9E8": {
+    "char": "扢",
+    "pua": "U+1069E8",
+    "romanized": "ṇṭī"
+  },
+  "SD-C9F0": {
+    "char": "朹",
+    "pua": "U+1069F0",
+    "romanized": "ṇṭaḥ"
+  },
+  "SD-C9F1": {
+    "char": "朸",
+    "pua": "U+1069F1",
+    "romanized": "ṇṭha"
+  },
+  "SD-C9F2": {
+    "char": "朻",
+    "pua": "U+1069F2",
+    "romanized": "ṇṭhā"
+  },
+  "SD-C9F7": {
+    "char": "氘",
+    "pua": "U+1069F7",
+    "romanized": "ṇṭhe"
+  },
+  "SD-C9FB": {
+    "char": "汏",
+    "pua": "U+1069FB",
+    "romanized": "ṇṭhaṃ"
+  },
+  "SD-C9FD": {
+    "char": "汔",
+    "pua": "U+1069FD",
+    "romanized": "ṇḍa"
+  },
+  "SD-C9FE": {
+    "char": "汋",
+    "pua": "U+1069FE",
+    "romanized": "ṇḍā"
+  },
+  "SD-CA40": {
+    "char": "汌",
+    "pua": "U+106A40",
+    "romanized": "ṇḍi"
+  },
+  "SD-CA41": {
+    "char": "灱",
+    "pua": "U+106A41",
+    "romanized": "ṇḍī"
+  },
+  "SD-CA42": {
+    "char": "牞",
+    "pua": "U+106A42",
+    "romanized": "ṇḍu"
+  },
+  "SD-CA44": {
+    "char": "犵",
+    "pua": "U+106A44",
+    "romanized": "ṇḍe"
+  },
+  "SD-CA45": {
+    "char": "玎",
+    "pua": "U+106A45",
+    "romanized": "ṇḍai"
+  },
+  "SD-CA46": {
+    "char": "甪",
+    "pua": "U+106A46",
+    "romanized": "ṇḍo"
+  },
+  "SD-CA48": {
+    "char": "穵",
+    "pua": "U+106A48",
+    "romanized": "ṇḍaṃ"
+  },
+  "SD-CA49": {
+    "char": "网",
+    "pua": "U+106A49",
+    "romanized": "ṇḍaḥ"
+  },
+  "SD-CA4A": {
+    "char": "艸",
+    "pua": "U+106A4A",
+    "romanized": "ṇḍha"
+  },
+  "SD-CA4B": {
+    "char": "艼",
+    "pua": "U+106A4B",
+    "romanized": "ṇḍhā"
+  },
+  "SD-CA56": {
+    "char": "阢",
+    "pua": "U+106A56",
+    "romanized": "nta"
+  },
+  "SD-CA57": {
+    "char": "阤",
+    "pua": "U+106A57",
+    "romanized": "ntā"
+  },
+  "SD-CA58": {
+    "char": "阠",
+    "pua": "U+106A58",
+    "romanized": "nti"
+  },
+  "SD-CA5A": {
+    "char": "佖",
+    "pua": "U+106A5A",
+    "romanized": "ntu"
+  },
+  "SD-CA5C": {
+    "char": "佢",
+    "pua": "U+106A5C",
+    "romanized": "nte"
+  },
+  "SD-CA5E": {
+    "char": "体",
+    "pua": "U+106A5E",
+    "romanized": "nto"
+  },
+  "SD-CA60": {
+    "char": "伾",
+    "pua": "U+106A60",
+    "romanized": "ntaṃ"
+  },
+  "SD-CA62": {
+    "char": "佒",
+    "pua": "U+106A62",
+    "romanized": "ntha"
+  },
+  "SD-CA63": {
+    "char": "佟",
+    "pua": "U+106A63",
+    "romanized": "nthā"
+  },
+  "SD-CA64": {
+    "char": "佁",
+    "pua": "U+106A64",
+    "romanized": "nthi"
+  },
+  "SD-CA6E": {
+    "char": "刡",
+    "pua": "U+106A6E",
+    "romanized": "nda"
+  },
+  "SD-CA6F": {
+    "char": "劭",
+    "pua": "U+106A6F",
+    "romanized": "ndā"
+  },
+  "SD-CA70": {
+    "char": "劮",
+    "pua": "U+106A70",
+    "romanized": "ndi"
+  },
+  "SD-CA71": {
+    "char": "匉",
+    "pua": "U+106A71",
+    "romanized": "ndī"
+  },
+  "SD-CA72": {
+    "char": "卣",
+    "pua": "U+106A72",
+    "romanized": "ndu"
+  },
+  "SD-CA74": {
+    "char": "厎",
+    "pua": "U+106A74",
+    "romanized": "nde"
+  },
+  "SD-CA76": {
+    "char": "吰",
+    "pua": "U+106A76",
+    "romanized": "ndo"
+  },
+  "SD-CA7A": {
+    "char": "呅",
+    "pua": "U+106A7A",
+    "romanized": "ndha"
+  },
+  "SD-CA7B": {
+    "char": "吙",
+    "pua": "U+106A7B",
+    "romanized": "ndhā"
+  },
+  "SD-CA7C": {
+    "char": "吜",
+    "pua": "U+106A7C",
+    "romanized": "ndhi"
+  },
+  "SD-CA7E": {
+    "char": "吘",
+    "pua": "U+106A7E",
+    "romanized": "ndhu"
+  },
+  "SD-CAA2": {
+    "char": "呏",
+    "pua": "U+106AA2",
+    "romanized": "ndhe"
+  },
+  "SD-CAA4": {
+    "char": "吨",
+    "pua": "U+106AA4",
+    "romanized": "ndho"
+  },
+  "SD-CAA6": {
+    "char": "呇",
+    "pua": "U+106AA6",
+    "romanized": "ndhaṃ"
+  },
+  "SD-CAA7": {
+    "char": "囮",
+    "pua": "U+106AA7",
+    "romanized": "ndhaḥ"
+  },
+  "SD-CAA8": {
+    "char": "囧",
+    "pua": "U+106AA8",
+    "romanized": "mpa"
+  },
+  "SD-CAA9": {
+    "char": "囥",
+    "pua": "U+106AA9",
+    "romanized": "mpā"
+  },
+  "SD-CAB4": {
+    "char": "妠",
+    "pua": "U+106AB4",
+    "romanized": "mpha"
+  },
+  "SD-CAB5": {
+    "char": "妗",
+    "pua": "U+106AB5",
+    "romanized": "mphā"
+  },
+  "SD-CABA": {
+    "char": "妧",
+    "pua": "U+106ABA",
+    "romanized": "mphe"
+  },
+  "SD-CAC0": {
+    "char": "岍",
+    "pua": "U+106AC0",
+    "romanized": "mba"
+  },
+  "SD-CAC1": {
+    "char": "岏",
+    "pua": "U+106AC1",
+    "romanized": "mbā"
+  },
+  "SD-CAC3": {
+    "char": "岋",
+    "pua": "U+106AC3",
+    "romanized": "mbī"
+  },
+  "SD-CAC4": {
+    "char": "岉",
+    "pua": "U+106AC4",
+    "romanized": "mbu"
+  },
+  "SD-CAC6": {
+    "char": "岊",
+    "pua": "U+106AC6",
+    "romanized": "mbe"
+  },
+  "SD-CACC": {
+    "char": "帎",
+    "pua": "U+106ACC",
+    "romanized": "mbha"
+  },
+  "SD-CACD": {
+    "char": "庋",
+    "pua": "U+106ACD",
+    "romanized": "mbhā"
+  },
+  "SD-CACE": {
+    "char": "庉",
+    "pua": "U+106ACE",
+    "romanized": "mbhi"
+  },
+  "SD-CACF": {
+    "char": "庌",
+    "pua": "U+106ACF",
+    "romanized": "mbhī"
+  },
+  "SD-CAD0": {
+    "char": "庈",
+    "pua": "U+106AD0",
+    "romanized": "mbhu"
+  },
+  "SD-CAD2": {
+    "char": "弅",
+    "pua": "U+106AD2",
+    "romanized": "mbhe"
+  },
+  "SD-CAD9": {
+    "char": "忭",
+    "pua": "U+106AD9",
+    "romanized": "ṅyā"
+  },
+  "SD-CAF0": {
+    "char": "扰",
+    "pua": "U+106AF0",
+    "romanized": "ṅla"
+  },
+  "SD-CAFC": {
+    "char": "旵",
+    "pua": "U+106AFC",
+    "romanized": "ṅva"
+  },
+  "SD-CAFD": {
+    "char": "杅",
+    "pua": "U+106AFD",
+    "romanized": "ṅvā"
+  },
+  "SD-CB49": {
+    "char": "氙",
+    "pua": "U+106B49",
+    "romanized": "ṅśa"
+  },
+  "SD-CB4A": {
+    "char": "氚",
+    "pua": "U+106B4A",
+    "romanized": "ṅśā"
+  },
+  "SD-CB55": {
+    "char": "汭",
+    "pua": "U+106B55",
+    "romanized": "ṅṣa"
+  },
+  "SD-CB56": {
+    "char": "沇",
+    "pua": "U+106B56",
+    "romanized": "ṅṣā"
+  },
+  "SD-CB61": {
+    "char": "犿",
+    "pua": "U+106B61",
+    "romanized": "ṅsa"
+  },
+  "SD-CB62": {
+    "char": "犽",
+    "pua": "U+106B62",
+    "romanized": "ṅsā"
+  },
+  "SD-CB63": {
+    "char": "狃",
+    "pua": "U+106B63",
+    "romanized": "ṅsi"
+  },
+  "SD-CB6D": {
+    "char": "町",
+    "pua": "U+106B6D",
+    "romanized": "ṅha"
+  },
+  "SD-CB6E": {
+    "char": "甹",
+    "pua": "U+106B6E",
+    "romanized": "ṅhā"
+  },
+  "SD-CB73": {
+    "char": "耴",
+    "pua": "U+106B73",
+    "romanized": "ṅhe"
+  },
+  "SD-CB79": {
+    "char": "芐",
+    "pua": "U+106B79",
+    "romanized": "ṅkṣa"
+  },
+  "SD-CB7A": {
+    "char": "芏",
+    "pua": "U+106B7A",
+    "romanized": "ṅkṣā"
+  },
+  "SD-CB7B": {
+    "char": "芅",
+    "pua": "U+106B7B",
+    "romanized": "ṅkṣi"
+  },
+  "SD-CBA7": {
+    "char": "邟",
+    "pua": "U+106BA7",
+    "romanized": "kṛ"
+  },
+  "SD-CBA9": {
+    "char": "邥",
+    "pua": "U+106BA9",
+    "romanized": "gṛ"
+  },
+  "SD-CBAA": {
+    "char": "邞",
+    "pua": "U+106BAA",
+    "romanized": "ghṛ"
+  },
+  "SD-CBAB": {
+    "char": "邧",
+    "pua": "U+106BAB",
+    "romanized": "ṅṛ"
+  },
+  "SD-CBAC": {
+    "char": "邠",
+    "pua": "U+106BAC",
+    "romanized": "cṛ"
+  },
+  "SD-CBC3": {
+    "char": "佸",
+    "pua": "U+106BC3",
+    "romanized": "jṛ"
+  },
+  "SD-CBC5": {
+    "char": "侜",
+    "pua": "U+106BC5",
+    "romanized": "jṛṃ"
+  },
+  "SD-CBC7": {
+    "char": "侞",
+    "pua": "U+106BC7",
+    "romanized": "jhṛ"
+  },
+  "SD-CBCB": {
+    "char": "佫",
+    "pua": "U+106BCB",
+    "romanized": "ñṛ"
+  },
+  "SD-CBE3": {
+    "char": "呾",
+    "pua": "U+106BE3",
+    "romanized": "tṛ"
+  },
+  "SD-CBE5": {
+    "char": "呬",
+    "pua": "U+106BE5",
+    "romanized": "tṛṃ"
+  },
+  "SD-CBEB": {
+    "char": "呠",
+    "pua": "U+106BEB",
+    "romanized": "dṛ"
+  },
+  "SD-CBEF": {
+    "char": "呤",
+    "pua": "U+106BEF",
+    "romanized": "dhṛ"
+  },
+  "SD-CBF3": {
+    "char": "坲",
+    "pua": "U+106BF3",
+    "romanized": "nṛ"
+  },
+  "SD-CBF7": {
+    "char": "坰",
+    "pua": "U+106BF7",
+    "romanized": "pṛ"
+  },
+  "SD-CC40": {
+    "char": "坨",
+    "pua": "U+106C40",
+    "romanized": "bṛ"
+  },
+  "SD-CC44": {
+    "char": "妵",
+    "pua": "U+106C44",
+    "romanized": "bhṛ"
+  },
+  "SD-CC46": {
+    "char": "姏",
+    "pua": "U+106C46",
+    "romanized": "bhṛṃ"
+  },
+  "SD-CC48": {
+    "char": "妲",
+    "pua": "U+106C48",
+    "romanized": "mṛ"
+  },
+  "SD-CC49": {
+    "char": "姌",
+    "pua": "U+106C49",
+    "romanized": "mṝ"
+  },
+  "SD-CC4C": {
+    "char": "妼",
+    "pua": "U+106C4C",
+    "romanized": "yṛ"
+  },
+  "SD-CC58": {
+    "char": "宕",
+    "pua": "U+106C58",
+    "romanized": "vṛ"
+  },
+  "SD-CC5C": {
+    "char": "岤",
+    "pua": "U+106C5C",
+    "romanized": "śṛ"
+  },
+  "SD-CC60": {
+    "char": "岨",
+    "pua": "U+106C60",
+    "romanized": "ṣṛ"
+  },
+  "SD-CC62": {
+    "char": "岟",
+    "pua": "U+106C62",
+    "romanized": "ṣṛṃ"
+  },
+  "SD-CC64": {
+    "char": "岭",
+    "pua": "U+106C64",
+    "romanized": "sṛ"
+  },
+  "SD-CC65": {
+    "char": "岢",
+    "pua": "U+106C65",
+    "romanized": "sṝ"
+  },
+  "SD-CC68": {
+    "char": "岝",
+    "pua": "U+106C68",
+    "romanized": "hṛ"
+  },
+  "SD-CC6A": {
+    "char": "岶",
+    "pua": "U+106C6A",
+    "romanized": "hṛṃ"
+  },
+  "SD-CC70": {
+    "char": "弨",
+    "pua": "U+106C70",
+    "romanized": "ska"
+  },
+  "SD-CC71": {
+    "char": "弢",
+    "pua": "U+106C71",
+    "romanized": "skā"
+  },
+  "SD-CC76": {
+    "char": "彾",
+    "pua": "U+106C76",
+    "romanized": "ske"
+  },
+  "SD-CC7C": {
+    "char": "怙",
+    "pua": "U+106C7C",
+    "romanized": "skha"
+  },
+  "SD-CCAA": {
+    "char": "怐",
+    "pua": "U+106CAA",
+    "romanized": "dga"
+  },
+  "SD-CCAB": {
+    "char": "怮",
+    "pua": "U+106CAB",
+    "romanized": "dgā"
+  },
+  "SD-CCAC": {
+    "char": "怓",
+    "pua": "U+106CAC",
+    "romanized": "dgi"
+  },
+  "SD-CCAD": {
+    "char": "怑",
+    "pua": "U+106CAD",
+    "romanized": "dgī"
+  },
+  "SD-CCB0": {
+    "char": "怜",
+    "pua": "U+106CB0",
+    "romanized": "dge"
+  },
+  "SD-CCB6": {
+    "char": "抾",
+    "pua": "U+106CB6",
+    "romanized": "dgha"
+  },
+  "SD-CCB7": {
+    "char": "抪",
+    "pua": "U+106CB7",
+    "romanized": "dghā"
+  },
+  "SD-CCC2": {
+    "char": "斨",
+    "pua": "U+106CC2",
+    "romanized": "ṅktra"
+  },
+  "SD-CCCE": {
+    "char": "旽",
+    "pua": "U+106CCE",
+    "romanized": "vca"
+  },
+  "SD-CCDA": {
+    "char": "枆",
+    "pua": "U+106CDA",
+    "romanized": "vcha"
+  },
+  "SD-CCF2": {
+    "char": "泙",
+    "pua": "U+106CF2",
+    "romanized": "vjha"
+  },
+  "SD-CCFE": {
+    "char": "泲",
+    "pua": "U+106CFE",
+    "romanized": "jña"
+  },
+  "SD-CD4B": {
+    "char": "沰",
+    "pua": "U+106D4B",
+    "romanized": "ṣṭa"
+  },
+  "SD-CD4C": {
+    "char": "泹",
+    "pua": "U+106D4C",
+    "romanized": "ṣṭā"
+  },
+  "SD-CD4D": {
+    "char": "泏",
+    "pua": "U+106D4D",
+    "romanized": "ṣṭi"
+  },
+  "SD-CD4E": {
+    "char": "泩",
+    "pua": "U+106D4E",
+    "romanized": "ṣṭī"
+  },
+  "SD-CD4F": {
+    "char": "泑",
+    "pua": "U+106D4F",
+    "romanized": "ṣṭu"
+  },
+  "SD-CD51": {
+    "char": "炘",
+    "pua": "U+106D51",
+    "romanized": "ṣṭe"
+  },
+  "SD-CD52": {
+    "char": "炅",
+    "pua": "U+106D52",
+    "romanized": "ṣṭai"
+  },
+  "SD-CD53": {
+    "char": "炓",
+    "pua": "U+106D53",
+    "romanized": "ṣṭo"
+  },
+  "SD-CD55": {
+    "char": "炄",
+    "pua": "U+106D55",
+    "romanized": "ṣṭaṃ"
+  },
+  "SD-CD57": {
+    "char": "炖",
+    "pua": "U+106D57",
+    "romanized": "ṣṭha"
+  },
+  "SD-CD5D": {
+    "char": "狋",
+    "pua": "U+106D5D",
+    "romanized": "ṣṭhe"
+  },
+  "SD-CD5E": {
+    "char": "狘",
+    "pua": "U+106D5E",
+    "romanized": "ṣṭhai"
+  },
+  "SD-CD5F": {
+    "char": "狉",
+    "pua": "U+106D5F",
+    "romanized": "ṣṭho"
+  },
+  "SD-CD62": {
+    "char": "狔",
+    "pua": "U+106D62",
+    "romanized": "ṣṭhaḥ"
+  },
+  "SD-CD63": {
+    "char": "狚",
+    "pua": "U+106D63",
+    "romanized": "dḍa"
+  },
+  "SD-CD6F": {
+    "char": "瓨",
+    "pua": "U+106D6F",
+    "romanized": "dḍha"
+  },
+  "SD-CD7B": {
+    "char": "矼",
+    "pua": "U+106D7B",
+    "romanized": "ṣṇa"
+  },
+  "SD-CD7C": {
+    "char": "矹",
+    "pua": "U+106D7C",
+    "romanized": "ṣṇā"
+  },
+  "SD-CD7D": {
+    "char": "矻",
+    "pua": "U+106D7D",
+    "romanized": "ṣṇi"
+  },
+  "SD-CD7E": {
+    "char": "矺",
+    "pua": "U+106D7E",
+    "romanized": "ṣṇī"
+  },
+  "SD-CDA1": {
+    "char": "矷",
+    "pua": "U+106DA1",
+    "romanized": "ṣṇu"
+  },
+  "SD-CDA7": {
+    "char": "竻",
+    "pua": "U+106DA7",
+    "romanized": "ṣṇaṃ"
+  },
+  "SD-CDA9": {
+    "char": "糽",
+    "pua": "U+106DA9",
+    "romanized": "sta"
+  },
+  "SD-CDAA": {
+    "char": "耵",
+    "pua": "U+106DAA",
+    "romanized": "stā"
+  },
+  "SD-CDAB": {
+    "char": "肏",
+    "pua": "U+106DAB",
+    "romanized": "sti"
+  },
+  "SD-CDAC": {
+    "char": "肮",
+    "pua": "U+106DAC",
+    "romanized": "stī"
+  },
+  "SD-CDAD": {
+    "char": "肣",
+    "pua": "U+106DAD",
+    "romanized": "stu"
+  },
+  "SD-CDAF": {
+    "char": "肵",
+    "pua": "U+106DAF",
+    "romanized": "ste"
+  },
+  "SD-CDB1": {
+    "char": "舠",
+    "pua": "U+106DB1",
+    "romanized": "sto"
+  },
+  "SD-CDB3": {
+    "char": "苀",
+    "pua": "U+106DB3",
+    "romanized": "staṃ"
+  },
+  "SD-CDB5": {
+    "char": "芚",
+    "pua": "U+106DB5",
+    "romanized": "stha"
+  },
+  "SD-CDB6": {
+    "char": "芘",
+    "pua": "U+106DB6",
+    "romanized": "sthā"
+  },
+  "SD-CDB7": {
+    "char": "芛",
+    "pua": "U+106DB7",
+    "romanized": "sthi"
+  },
+  "SD-CDBD": {
+    "char": "芺",
+    "pua": "U+106DBD",
+    "romanized": "stho"
+  },
+  "SD-CDC0": {
+    "char": "芡",
+    "pua": "U+106DC0",
+    "romanized": "sthaḥ"
+  },
+  "SD-CDC1": {
+    "char": "芩",
+    "pua": "U+106DC1",
+    "romanized": "vda"
+  },
+  "SD-CDCD": {
+    "char": "迋",
+    "pua": "U+106DCD",
+    "romanized": "vdha"
+  },
+  "SD-CDD9": {
+    "char": "阽",
+    "pua": "U+106DD9",
+    "romanized": "rtsna"
+  },
+  "SD-CDE5": {
+    "char": "俜",
+    "pua": "U+106DE5",
+    "romanized": "spa"
+  },
+  "SD-CDF1": {
+    "char": "剉",
+    "pua": "U+106DF1",
+    "romanized": "spha"
+  },
+  "SD-CDF2": {
+    "char": "勀",
+    "pua": "U+106DF2",
+    "romanized": "sphā"
+  },
+  "SD-CDF3": {
+    "char": "勂",
+    "pua": "U+106DF3",
+    "romanized": "sphi"
+  },
+  "SD-CDF5": {
+    "char": "卼",
+    "pua": "U+106DF5",
+    "romanized": "sphu"
+  },
+  "SD-CDF6": {
+    "char": "厗",
+    "pua": "U+106DF6",
+    "romanized": "sphū"
+  },
+  "SD-CDF7": {
+    "char": "厖",
+    "pua": "U+106DF7",
+    "romanized": "sphe"
+  },
+  "SD-CDF9": {
+    "char": "厘",
+    "pua": "U+106DF9",
+    "romanized": "spho"
+  },
+  "SD-CDFD": {
+    "char": "咥",
+    "pua": "U+106DFD",
+    "romanized": "dba"
+  },
+  "SD-CE4A": {
+    "char": "咼",
+    "pua": "U+106E4A",
+    "romanized": "dbha"
+  },
+  "SD-CE4E": {
+    "char": "哞",
+    "pua": "U+106E4E",
+    "romanized": "dbhu"
+  },
+  "SD-CE4F": {
+    "char": "咰",
+    "pua": "U+106E4F",
+    "romanized": "dbhū"
+  },
+  "SD-CE50": {
+    "char": "垵",
+    "pua": "U+106E50",
+    "romanized": "dbhe"
+  },
+  "SD-CE56": {
+    "char": "垝",
+    "pua": "U+106E56",
+    "romanized": "rkṣma"
+  },
+  "SD-CE62": {
+    "char": "姡",
+    "pua": "U+106E62",
+    "romanized": "rkṣvya"
+  },
+  "SD-CE6E": {
+    "char": "姷",
+    "pua": "U+106E6E",
+    "romanized": "rkṣvrya"
+  },
+  "SD-CE7A": {
+    "char": "峘",
+    "pua": "U+106E7A",
+    "romanized": "lta"
+  },
+  "SD-CEA8": {
+    "char": "峔",
+    "pua": "U+106EA8",
+    "romanized": "tkva"
+  },
+  "SD-CEC0": {
+    "char": "怹",
+    "pua": "U+106EC0",
+    "romanized": "ṭṣa"
+  },
+  "SD-CECC": {
+    "char": "恟",
+    "pua": "U+106ECC",
+    "romanized": "sha"
+  },
+  "SD-CED8": {
+    "char": "挎",
+    "pua": "U+106ED8",
+    "romanized": "vkṣa"
+  },
+  "SD-CEE4": {
+    "char": "挕",
+    "pua": "U+106EE4",
+    "romanized": "pta"
+  },
+  "SD-CEE5": {
+    "char": "拻",
+    "pua": "U+106EE5",
+    "romanized": "ptā"
+  },
+  "SD-CEE6": {
+    "char": "拰",
+    "pua": "U+106EE6",
+    "romanized": "pti"
+  },
+  "SD-CEEA": {
+    "char": "斿",
+    "pua": "U+106EEA",
+    "romanized": "pte"
+  },
+  "SD-CEEC": {
+    "char": "昡",
+    "pua": "U+106EEC",
+    "romanized": "pto"
+  },
+  "SD-CEEE": {
+    "char": "昵",
+    "pua": "U+106EEE",
+    "romanized": "ptaṃ"
+  },
+  "SD-CEEF": {
+    "char": "昜",
+    "pua": "U+106EEF",
+    "romanized": "ptaḥ"
+  },
+  "SD-CEF0": {
+    "char": "昦",
+    "pua": "U+106EF0",
+    "romanized": "ṭka"
+  },
+  "SD-CEF1": {
+    "char": "昢",
+    "pua": "U+106EF1",
+    "romanized": "ṭkā"
+  },
+  "SD-CEFC": {
+    "char": "柲",
+    "pua": "U+106EFC",
+    "romanized": "dsva"
+  },
+  "SD-CF49": {
+    "char": "柟",
+    "pua": "U+106F49",
+    "romanized": "ṭṣchra"
+  },
+  "SD-CF55": {
+    "char": "柰",
+    "pua": "U+106F55",
+    "romanized": "tta"
+  },
+  "SD-CF56": {
+    "char": "枲",
+    "pua": "U+106F56",
+    "romanized": "ttā"
+  },
+  "SD-CF57": {
+    "char": "柼",
+    "pua": "U+106F57",
+    "romanized": "tti"
+  },
+  "SD-CF58": {
+    "char": "柆",
+    "pua": "U+106F58",
+    "romanized": "ttī"
+  },
+  "SD-CF5A": {
+    "char": "柌",
+    "pua": "U+106F5A",
+    "romanized": "ttū"
+  },
+  "SD-CF5B": {
+    "char": "枮",
+    "pua": "U+106F5B",
+    "romanized": "tte"
+  },
+  "SD-CF5C": {
+    "char": "柦",
+    "pua": "U+106F5C",
+    "romanized": "ttai"
+  },
+  "SD-CF5D": {
+    "char": "柛",
+    "pua": "U+106F5D",
+    "romanized": "tto"
+  },
+  "SD-CF5F": {
+    "char": "柉",
+    "pua": "U+106F5F",
+    "romanized": "ttaṃ"
+  },
+  "SD-CF6D": {
+    "char": "洨",
+    "pua": "U+106F6D",
+    "romanized": "ṭṭa"
+  },
+  "SD-CF6E": {
+    "char": "洴",
+    "pua": "U+106F6E",
+    "romanized": "ṭṭā"
+  },
+  "SD-CF6F": {
+    "char": "洭",
+    "pua": "U+106F6F",
+    "romanized": "ṭṭi"
+  },
+  "SD-CF70": {
+    "char": "洟",
+    "pua": "U+106F70",
+    "romanized": "ṭṭī"
+  },
+  "SD-CF73": {
+    "char": "洒",
+    "pua": "U+106F73",
+    "romanized": "ṭṭe"
+  },
+  "SD-CF79": {
+    "char": "洺",
+    "pua": "U+106F79",
+    "romanized": "ṇṇa"
+  },
+  "SD-CF7A": {
+    "char": "洚",
+    "pua": "U+106F7A",
+    "romanized": "ṇṇā"
+  },
+  "SD-CFA7": {
+    "char": "洇",
+    "pua": "U+106FA7",
+    "romanized": "nna"
+  },
+  "SD-CFA8": {
+    "char": "洠",
+    "pua": "U+106FA8",
+    "romanized": "nnā"
+  },
+  "SD-CFA9": {
+    "char": "洬",
+    "pua": "U+106FA9",
+    "romanized": "nni"
+  },
+  "SD-CFAD": {
+    "char": "洐",
+    "pua": "U+106FAD",
+    "romanized": "nne"
+  },
+  "SD-CFB2": {
+    "char": "炰",
+    "pua": "U+106FB2",
+    "romanized": "nnaḥ"
+  },
+  "SD-CFB3": {
+    "char": "炡",
+    "pua": "U+106FB3",
+    "romanized": "mṅka"
+  },
+  "SD-CFBF": {
+    "char": "狤",
+    "pua": "U+106FBF",
+    "romanized": "bhrūṃ"
+  },
+  "SD-CFC1": {
+    "char": "狫",
+    "pua": "U+106FC1",
+    "romanized": "hūṃ"
+  },
+  "SD-CFC2": {
+    "char": "狟",
+    "pua": "U+106FC2"
+  },
+  "SD-CFC3": {
+    "char": "狪",
+    "pua": "U+106FC3"
+  },
+  "SD-CFC4": {
+    "char": "狦",
+    "pua": "U+106FC4",
+    "romanized": "śṛī"
+  },
+  "SD-CFC5": {
+    "char": "狣",
+    "pua": "U+106FC5",
+    "romanized": "a"
+  },
+  "SD-CFC6": {
+    "char": "玅",
+    "pua": "U+106FC6",
+    "romanized": "ā"
+  },
+  "SD-CFC7": {
+    "char": "珌",
+    "pua": "U+106FC7",
+    "romanized": "i"
+  },
+  "SD-CFC8": {
+    "char": "珂",
+    "pua": "U+106FC8",
+    "romanized": "ī"
+  },
+  "SD-CFC9": {
+    "char": "珈",
+    "pua": "U+106FC9",
+    "romanized": "u"
+  },
+  "SD-CFCA": {
+    "char": "珅",
+    "pua": "U+106FCA",
+    "romanized": "ū"
+  },
+  "SD-CFCB": {
+    "char": "玹",
+    "pua": "U+106FCB",
+    "romanized": "ṛ"
+  },
+  "SD-CFCC": {
+    "char": "玶",
+    "pua": "U+106FCC",
+    "romanized": "ṝ"
+  },
+  "SD-CFCD": {
+    "char": "玵",
+    "pua": "U+106FCD",
+    "romanized": "ḷ"
+  },
+  "SD-CFCE": {
+    "char": "玴",
+    "pua": "U+106FCE",
+    "romanized": "ḹ"
+  },
+  "SD-CFCF": {
+    "char": "珫",
+    "pua": "U+106FCF",
+    "romanized": "e"
+  },
+  "SD-CFD0": {
+    "char": "玿",
+    "pua": "U+106FD0",
+    "romanized": "ai"
+  },
+  "SD-CFD1": {
+    "char": "珇",
+    "pua": "U+106FD1",
+    "romanized": "o"
+  },
+  "SD-CFD2": {
+    "char": "玾",
+    "pua": "U+106FD2",
+    "romanized": "au"
+  },
+  "SD-CFD3": {
+    "char": "珃",
+    "pua": "U+106FD3",
+    "romanized": "aṃ"
+  },
+  "SD-CFD4": {
+    "char": "珆",
+    "pua": "U+106FD4",
+    "romanized": "aḥ"
+  },
+  "SD-D0DF": {
+    "char": "冔",
+    "pua": "U+1070DF",
+    "romanized": "ta"
+  },
+  "SD-D0F3": {
+    "char": "唒",
+    "pua": "U+1070F3",
+    "romanized": "a"
+  },
+  "SD-D140": {
+    "char": "唊",
+    "pua": "U+107140",
+    "romanized": "o"
+  },
+  "SD-D141": {
+    "char": "哻",
+    "pua": "U+107141",
+    "romanized": "au"
+  },
+  "SD-D167": {
+    "char": "宭",
+    "pua": "U+107167",
+    "romanized": "a"
+  },
+  "SD-D1B8": {
+    "char": "捃",
+    "pua": "U+1071B8",
+    "romanized": "sa"
+  },
+  "SD-D1DB": {
+    "char": "桉",
+    "pua": "U+1071DB",
+    "romanized": "ta"
+  },
+  "SD-D1F0": {
+    "char": "栮",
+    "pua": "U+1071F0",
+    "romanized": "ā"
+  },
+  "SD-D1F3": {
+    "char": "栥",
+    "pua": "U+1071F3",
+    "romanized": "u"
+  },
+  "SD-D1F4": {
+    "char": "栠",
+    "pua": "U+1071F4",
+    "romanized": "ū"
+  },
+  "SD-D5B4": {
+    "char": "桭",
+    "pua": "U+1075B4"
+  },
+  "SD-D5B5": {
+    "char": "桮",
+    "pua": "U+1075B5"
+  },
+  "SD-D5F1": {
+    "char": "淥",
+    "pua": "U+1075F1",
+    "romanized": "ā"
+  },
+  "SD-D5F5": {
+    "char": "淴",
+    "pua": "U+1075F5",
+    "romanized": "i"
+  },
+  "SD-D5F8": {
+    "char": "淭",
+    "pua": "U+1075F8",
+    "romanized": "i"
+  },
+  "SD-D5FA": {
+    "char": "涺",
+    "pua": "U+1075FA",
+    "romanized": "ī"
+  },
+  "SD-D5FC": {
+    "char": "淂",
+    "pua": "U+1075FC",
+    "romanized": "ī"
+  },
+  "SD-D64E": {
+    "char": "烰",
+    "pua": "U+10764E",
+    "romanized": "o"
+  },
+  "SD-D650": {
+    "char": "烳",
+    "pua": "U+107650",
+    "romanized": "au"
+  },
+  "SD-D657": {
+    "char": "烸",
+    "pua": "U+107657",
+    "romanized": "ṅa"
+  },
+  "SD-D663": {
+    "char": "猑",
+    "pua": "U+107663",
+    "romanized": "ḍha"
+  },
+  "SD-D667": {
+    "char": "狿",
+    "pua": "U+107667",
+    "romanized": "ṇa"
+  },
+  "SD-D676": {
+    "char": "琌",
+    "pua": "U+107676",
+    "romanized": "ī"
+  },
+  "SD-D7C4": {
+    "char": "袎",
+    "pua": "U+1077C4"
+  },
+  "SD-D7FE": {
+    "char": "釪",
+    "pua": "U+1077FE"
+  },
+  "SD-D8D7": {
+    "char": "尌",
+    "pua": "U+1078D7",
+    "romanized": "a"
+  },
+  "SD-D950": {
+    "char": "愋",
+    "pua": "U+107950"
+  },
+  "SD-D953": {
+    "char": "掱",
+    "pua": "U+107953",
+    "symbol": "…"
+  },
+  "SD-D957": {
+    "char": "揨",
+    "pua": "U+107957"
+  },
+  "SD-D959": {
+    "char": "揃",
+    "pua": "U+107959"
+  },
+  "SD-D95B": {
+    "char": "揳",
+    "pua": "U+10795B"
+  },
+  "SD-D9C6": {
+    "char": "棐",
+    "pua": "U+1079C6"
+  },
+  "SD-D9D9": {
+    "char": "棇",
+    "pua": "U+1079D9"
+  },
+  "SD-D9F8": {
+    "char": "湋",
+    "pua": "U+1079F8",
+    "romanized": "bhyaḥ"
+  },
+  "SD-D9F9": {
+    "char": "湀",
+    "pua": "U+1079F9",
+    "romanized": "ddha"
+  },
+  "SD-D9FA": {
+    "char": "湑",
+    "pua": "U+1079FA",
+    "romanized": "ddhā"
+  },
+  "SD-D9FB": {
+    "char": "渻",
+    "pua": "U+1079FB",
+    "romanized": "ddhi"
+  },
+  "SD-D9FC": {
+    "char": "渃",
+    "pua": "U+1079FC",
+    "romanized": "ddhe"
+  },
+  "SD-D9FD": {
+    "char": "渮",
+    "pua": "U+1079FD",
+    "romanized": "jña"
+  },
+  "SD-D9FE": {
+    "char": "湞",
+    "pua": "U+1079FE",
+    "romanized": "jva"
+  },
+  "SD-DA40": {
+    "char": "湨",
+    "pua": "U+107A40",
+    "romanized": "ksaṃ"
+  },
+  "SD-DA42": {
+    "char": "湡",
+    "pua": "U+107A42",
+    "romanized": "oṃ"
+  },
+  "SD-DA43": {
+    "char": "渱",
+    "pua": "U+107A43",
+    "romanized": "mya"
+  },
+  "SD-DA44": {
+    "char": "渨",
+    "pua": "U+107A44",
+    "romanized": "pra"
+  },
+  "SD-DA46": {
+    "char": "湱",
+    "pua": "U+107A46",
+    "romanized": "rva"
+  },
+  "SD-DA47": {
+    "char": "湫",
+    "pua": "U+107A47",
+    "romanized": "rya"
+  },
+  "SD-DA48": {
+    "char": "渹",
+    "pua": "U+107A48",
+    "romanized": "ryā"
+  },
+  "SD-DA49": {
+    "char": "渢",
+    "pua": "U+107A49",
+    "romanized": "svā"
+  },
+  "SD-DA4A": {
+    "char": "渰",
+    "pua": "U+107A4A",
+    "romanized": "dya"
+  },
+  "SD-DA4B": {
+    "char": "湓",
+    "pua": "U+107A4B",
+    "romanized": "tna"
+  },
+  "SD-DA4C": {
+    "char": "湥",
+    "pua": "U+107A4C",
+    "romanized": "tra"
+  },
+  "SD-DA4D": {
+    "char": "渧",
+    "pua": "U+107A4D",
+    "romanized": "tte"
+  },
+  "SD-DA4F": {
+    "char": "湤",
+    "pua": "U+107A4F",
+    "romanized": "śva"
+  },
+  "SD-DA50": {
+    "char": "湷",
+    "pua": "U+107A50",
+    "romanized": "ṭṭe"
+  },
+  "SD-DA53": {
+    "char": "湒",
+    "pua": "U+107A53",
+    "romanized": "k"
+  },
+  "SD-DA71": {
+    "char": "猱",
+    "pua": "U+107A71",
+    "romanized": "āḥ"
+  },
+  "SD-DA73": {
+    "char": "猧",
+    "pua": "U+107A73",
+    "romanized": "trāḥ"
+  },
+  "SD-DA74": {
+    "char": "猲",
+    "pua": "U+107A74",
+    "romanized": "hūṃ"
+  },
+  "SD-DA75": {
+    "char": "猭",
+    "pua": "U+107A75",
+    "romanized": "hrīḥ"
+  },
+  "SD-DA76": {
+    "char": "猦",
+    "pua": "U+107A76",
+    "romanized": "jra"
+  },
+  "SD-DA77": {
+    "char": "猣",
+    "pua": "U+107A77",
+    "romanized": "rma"
+  },
+  "SD-DA78": {
+    "char": "猵",
+    "pua": "U+107A78",
+    "romanized": "mṛ"
+  },
+  "SD-DA79": {
+    "char": "猌",
+    "pua": "U+107A79",
+    "romanized": "ccha"
+  },
+  "SD-DA7A": {
+    "char": "琮",
+    "pua": "U+107A7A",
+    "romanized": "cchā"
+  },
+  "SD-DA7B": {
+    "char": "琬",
+    "pua": "U+107A7B",
+    "romanized": "cchi"
+  },
+  "SD-DAA1": {
+    "char": "琚",
+    "pua": "U+107AA1",
+    "romanized": "cche"
+  },
+  "SD-DAA3": {
+    "char": "琭",
+    "pua": "U+107AA3",
+    "romanized": "ccho"
+  },
+  "SD-DAA5": {
+    "char": "琤",
+    "pua": "U+107AA5",
+    "romanized": "cchaṃ"
+  },
+  "SD-DAA6": {
+    "char": "琣",
+    "pua": "U+107AA6",
+    "romanized": "cchaḥ"
+  },
+  "SD-DAA9": {
+    "char": "琠",
+    "pua": "U+107AA9",
+    "romanized": "krā"
+  },
+  "SD-DAAA": {
+    "char": "琲",
+    "pua": "U+107AAA",
+    "romanized": "nta"
+  },
+  "SD-DAAC": {
+    "char": "甯",
+    "pua": "U+107AAC",
+    "romanized": "nte"
+  },
+  "SD-DAAD": {
+    "char": "畯",
+    "pua": "U+107AAD",
+    "romanized": "ddhaṃ"
+  },
+  "SD-DAAE": {
+    "char": "畬",
+    "pua": "U+107AAE",
+    "romanized": "dbha"
+  },
+  "SD-DAAF": {
+    "char": "痧",
+    "pua": "U+107AAF",
+    "romanized": "dma"
+  },
+  "SD-DAB0": {
+    "char": "痚",
+    "pua": "U+107AB0",
+    "romanized": "dra"
+  },
+  "SD-DAB1": {
+    "char": "痡",
+    "pua": "U+107AB1",
+    "romanized": "rtta"
+  },
+  "SD-E040": {
+    "char": "觡",
+    "pua": "U+108040",
+    "romanized": "nāṃ"
+  },
+  "SD-E041": {
+    "char": "觠",
+    "pua": "U+108041",
+    "romanized": "stvaṃ"
+  },
+  "SD-E042": {
+    "char": "觢",
+    "pua": "U+108042",
+    "romanized": "pū"
+  },
+  "SD-E043": {
+    "char": "觜",
+    "pua": "U+108043",
+    "romanized": "mu"
+  },
+  "SD-E044": {
+    "char": "触",
+    "pua": "U+108044",
+    "romanized": "ṇya"
+  },
+  "SD-E045": {
+    "char": "詶",
+    "pua": "U+108045",
+    "romanized": "hāṃ"
+  },
+  "SD-E046": {
+    "char": "誆",
+    "pua": "U+108046",
+    "romanized": "ṭ"
+  },
+  "SD-E047": {
+    "char": "詿",
+    "pua": "U+108047",
+    "romanized": "ndho"
+  },
+  "SD-E048": {
+    "char": "詡",
+    "pua": "U+108048",
+    "romanized": "mrya"
+  },
+  "SD-E049": {
+    "char": "訿",
+    "pua": "U+108049",
+    "romanized": "tvo"
+  },
+  "SD-E04A": {
+    "char": "詷",
+    "pua": "U+10804A",
+    "romanized": "jvā"
+  },
+  "SD-E04B": {
+    "char": "誂",
+    "pua": "U+10804B",
+    "romanized": "ndra"
+  },
+  "SD-E04C": {
+    "char": "誄",
+    "pua": "U+10804C",
+    "romanized": "tkā"
+  },
+  "SD-E04D": {
+    "char": "詵",
+    "pua": "U+10804D",
+    "romanized": "kti"
+  },
+  "SD-E04E": {
+    "char": "誃",
+    "pua": "U+10804E",
+    "romanized": "tuṃ"
+  },
+  "SD-E04F": {
+    "char": "誁",
+    "pua": "U+10804F",
+    "romanized": "ddheḥ"
+  },
+  "SD-E050": {
+    "char": "詴",
+    "pua": "U+108050",
+    "romanized": "hrīṃ"
+  },
+  "SD-E051": {
+    "char": "詺",
+    "pua": "U+108051",
+    "romanized": "ṇiṃ"
+  },
+  "SD-E052": {
+    "char": "谼",
+    "pua": "U+108052",
+    "romanized": "hṇa"
+  },
+  "SD-E053": {
+    "char": "豋",
+    "pua": "U+108053",
+    "romanized": "trīṃ"
+  },
+  "SD-E054": {
+    "char": "豊",
+    "pua": "U+108054",
+    "romanized": "dhriṃ"
+  },
+  "SD-E055": {
+    "char": "豥",
+    "pua": "U+108055",
+    "romanized": "criṃ"
+  },
+  "SD-E056": {
+    "char": "豤",
+    "pua": "U+108056",
+    "romanized": "liḥ"
+  },
+  "SD-E057": {
+    "char": "豦",
+    "pua": "U+108057",
+    "romanized": "tiṃ"
+  },
+  "SD-E058": {
+    "char": "貆",
+    "pua": "U+108058",
+    "romanized": "traṭ"
+  },
+  "SD-E059": {
+    "char": "貄",
+    "pua": "U+108059",
+    "romanized": "ddhya"
+  },
+  "SD-E05A": {
+    "char": "貅",
+    "pua": "U+10805A",
+    "romanized": "saṃ"
+  },
+  "SD-E05B": {
+    "char": "賌",
+    "pua": "U+10805B",
+    "romanized": "tāḥ"
+  },
+  "SD-E05C": {
+    "char": "赨",
+    "pua": "U+10805C",
+    "romanized": "ddhāḥ"
+  },
+  "SD-E05D": {
+    "char": "赩",
+    "pua": "U+10805D",
+    "romanized": "māṃ"
+  },
+  "SD-E05E": {
+    "char": "趑",
+    "pua": "U+10805E",
+    "romanized": "tnāṃ"
+  },
+  "SD-E05F": {
+    "char": "趌",
+    "pua": "U+10805F",
+    "romanized": "hoḥ"
+  },
+  "SD-E060": {
+    "char": "趎",
+    "pua": "U+108060",
+    "romanized": "huṃ"
+  },
+  "SD-E061": {
+    "char": "趏",
+    "pua": "U+108061",
+    "romanized": "kki"
+  },
+  "SD-E062": {
+    "char": "趍",
+    "pua": "U+108062",
+    "romanized": "ndro"
+  },
+  "SD-E063": {
+    "char": "趓",
+    "pua": "U+108063",
+    "romanized": "bhiṃ"
+  },
+  "SD-E064": {
+    "char": "趔",
+    "pua": "U+108064",
+    "romanized": "ṣiṃ"
+  },
+  "SD-E065": {
+    "char": "趐",
+    "pua": "U+108065",
+    "romanized": "ṭuṃ"
+  },
+  "SD-E066": {
+    "char": "趒",
+    "pua": "U+108066",
+    "romanized": "bhyāṃ"
+  },
+  "SD-E067": {
+    "char": "跰",
+    "pua": "U+108067",
+    "romanized": "cca"
+  },
+  "SD-E068": {
+    "char": "跠",
+    "pua": "U+108068",
+    "romanized": "stu"
+  },
+  "SD-E069": {
+    "char": "跬",
+    "pua": "U+108069",
+    "romanized": "yāṃ"
+  },
+  "SD-E06A": {
+    "char": "跱",
+    "pua": "U+10806A",
+    "romanized": "rāḥ"
+  },
+  "SD-E06B": {
+    "char": "跮",
+    "pua": "U+10806B",
+    "romanized": "vāḥ"
+  },
+  "SD-E06C": {
+    "char": "跐",
+    "pua": "U+10806C",
+    "romanized": "grya"
+  },
+  "SD-E06D": {
+    "char": "跩",
+    "pua": "U+10806D",
+    "romanized": "ṣṛe"
+  },
+  "SD-E06F": {
+    "char": "跢",
+    "pua": "U+10806F",
+    "romanized": "dbhu"
+  },
+  "SD-E070": {
+    "char": "跧",
+    "pua": "U+108070",
+    "romanized": "ṇaṃ"
+  },
+  "SD-E071": {
+    "char": "跲",
+    "pua": "U+108071",
+    "romanized": "kṣṇa"
+  },
+  "SD-E072": {
+    "char": "跫",
+    "pua": "U+108072",
+    "romanized": "gāṃ"
+  },
+  "SD-E073": {
+    "char": "跴",
+    "pua": "U+108073",
+    "romanized": "jṇa"
+  },
+  "SD-E074": {
+    "char": "輆",
+    "pua": "U+108074",
+    "romanized": "oṃ"
+  },
+  "SD-E075": {
+    "char": "軿",
+    "pua": "U+108075",
+    "romanized": "kṣṇa"
+  },
+  "SD-E076": {
+    "char": "輁",
+    "pua": "U+108076",
+    "romanized": "traṭ"
+  },
+  "SD-E077": {
+    "char": "輀",
+    "pua": "U+108077",
+    "romanized": "gī"
+  },
+  "SD-E078": {
+    "char": "輅",
+    "pua": "U+108078",
+    "romanized": "gīḥ"
+  },
+  "SD-E079": {
+    "char": "輇",
+    "pua": "U+108079",
+    "romanized": "dīḥ"
+  },
+  "SD-E07A": {
+    "char": "輈",
+    "pua": "U+10807A",
+    "romanized": "jrāṃ"
+  },
+  "SD-E07B": {
+    "char": "輂",
+    "pua": "U+10807B",
+    "romanized": "śīḥ"
+  },
+  "SD-E07C": {
+    "char": "輋",
+    "pua": "U+10807C",
+    "romanized": "ri"
+  },
+  "SD-E07D": {
+    "char": "遒",
+    "pua": "U+10807D",
+    "romanized": "khkhe"
+  },
+  "SD-E07E": {
+    "char": "逿",
+    "pua": "U+10807E",
+    "romanized": "bhiḥ"
+  },
+  "SD-E0A1": {
+    "char": "遄",
+    "pua": "U+1080A1",
+    "romanized": "yaiḥ"
+  },
+  "SD-E0A2": {
+    "char": "遉",
+    "pua": "U+1080A2",
+    "romanized": "nū"
+  },
+  "SD-E0A3": {
+    "char": "逽",
+    "pua": "U+1080A3",
+    "romanized": "jñe"
+  },
+  "SD-E0A4": {
+    "char": "鄐",
+    "pua": "U+1080A4",
+    "romanized": "jñā"
+  },
+  "SD-E0A7": {
+    "char": "鄑",
+    "pua": "U+1080A7",
+    "romanized": "ddhiṃ"
+  },
+  "SD-E0A8": {
+    "char": "鄖",
+    "pua": "U+1080A8",
+    "romanized": "muḥ"
+  },
+  "SD-E0A9": {
+    "char": "鄔",
+    "pua": "U+1080A9",
+    "romanized": "tāṃ"
+  },
+  "SD-E0AA": {
+    "char": "鄋",
+    "pua": "U+1080AA",
+    "romanized": "hu"
+  },
+  "SD-E0AB": {
+    "char": "鄎",
+    "pua": "U+1080AB",
+    "romanized": "śva"
+  },
+  "SD-E0AC": {
+    "char": "酮",
+    "pua": "U+1080AC",
+    "romanized": "viḥ"
+  },
+  "SD-E0AD": {
+    "char": "酯",
+    "pua": "U+1080AD",
+    "romanized": "suḥ"
+  },
+  "SD-E0AF": {
+    "char": "鉒",
+    "pua": "U+1080AF",
+    "romanized": "hye"
+  },
+  "SD-E0B0": {
+    "char": "鈰",
+    "pua": "U+1080B0",
+    "romanized": "ddhāṃ"
+  },
+  "SD-E0B1": {
+    "char": "鈺",
+    "pua": "U+1080B1",
+    "romanized": "suṃ"
+  },
+  "SD-E0B3": {
+    "char": "鈳",
+    "pua": "U+1080B3",
+    "romanized": "ntāṃ"
+  },
+  "SD-E0B4": {
+    "char": "鉥",
+    "pua": "U+1080B4",
+    "romanized": "kṛṭ"
+  },
+  "SD-E0B5": {
+    "char": "鉞",
+    "pua": "U+1080B5",
+    "romanized": "āṃ"
+  },
+  "SD-E0B6": {
+    "char": "銃",
+    "pua": "U+1080B6",
+    "romanized": "liṃ"
+  },
+  "SD-E0B7": {
+    "char": "鈮",
+    "pua": "U+1080B7",
+    "romanized": "trāṃ"
+  },
+  "SD-E0B8": {
+    "char": "鉊",
+    "pua": "U+1080B8",
+    "romanized": "piṃ"
+  },
+  "SD-E0B9": {
+    "char": "鉆",
+    "pua": "U+1080B9",
+    "romanized": "splī"
+  },
+  "SD-E0BA": {
+    "char": "鉭",
+    "pua": "U+1080BA",
+    "romanized": "cuṃ"
+  },
+  "SD-E0BB": {
+    "char": "鉬",
+    "pua": "U+1080BB",
+    "romanized": "bhriṃ"
+  },
+  "SD-E0BC": {
+    "char": "鉏",
+    "pua": "U+1080BC",
+    "romanized": "su"
+  },
+  "SD-E0BD": {
+    "char": "鉠",
+    "pua": "U+1080BD",
+    "romanized": "śca"
+  },
+  "SD-E0BE": {
+    "char": "鉧",
+    "pua": "U+1080BE",
+    "romanized": "kāṃ"
+  },
+  "SD-E0BF": {
+    "char": "鉯",
+    "pua": "U+1080BF",
+    "romanized": "loṃ"
+  },
+  "SD-E0C0": {
+    "char": "鈶",
+    "pua": "U+1080C0",
+    "romanized": "nuṃ"
+  },
+  "SD-E0C1": {
+    "char": "鉡",
+    "pua": "U+1080C1",
+    "romanized": "dhu"
+  },
+  "SD-E0C2": {
+    "char": "鉰",
+    "pua": "U+1080C2",
+    "romanized": "ḍo"
+  },
+  "SD-E0C3": {
+    "char": "鈱",
+    "pua": "U+1080C3",
+    "romanized": "hya"
+  },
+  "SD-E0C4": {
+    "char": "鉔",
+    "pua": "U+1080C4",
+    "romanized": "ṇāṃ"
+  },
+  "SD-E0C5": {
+    "char": "鉣",
+    "pua": "U+1080C5",
+    "romanized": "lāṃ"
+  },
+  "SD-E0C6": {
+    "char": "鉐",
+    "pua": "U+1080C6",
+    "romanized": "ghṛ"
+  },
+  "SD-E0C7": {
+    "char": "鉲",
+    "pua": "U+1080C7",
+    "romanized": "ṣṇī"
+  },
+  "SD-E0C8": {
+    "char": "鉎",
+    "pua": "U+1080C8",
+    "romanized": "gṛ"
+  },
+  "SD-E0C9": {
+    "char": "鉓",
+    "pua": "U+1080C9",
+    "romanized": "bhuḥ"
+  },
+  "SD-E0CA": {
+    "char": "鉌",
+    "pua": "U+1080CA",
+    "romanized": "kpra"
+  },
+  "SD-E0CB": {
+    "char": "鉖",
+    "pua": "U+1080CB",
+    "romanized": "hma"
+  },
+  "SD-E0CC": {
+    "char": "鈲",
+    "pua": "U+1080CC",
+    "romanized": "kto"
+  },
+  "SD-E0CD": {
+    "char": "閟",
+    "pua": "U+1080CD",
+    "romanized": "śma"
+  },
+  "SD-E0CE": {
+    "char": "閜",
+    "pua": "U+1080CE",
+    "romanized": "skṛ"
+  },
+  "SD-E0CF": {
+    "char": "閞",
+    "pua": "U+1080CF",
+    "romanized": "ṇīṃ"
+  },
+  "SD-E0D0": {
+    "char": "閛",
+    "pua": "U+1080D0",
+    "romanized": "viṃ"
+  },
+  "SD-E0D1": {
+    "char": "隒",
+    "pua": "U+1080D1",
+    "romanized": "rāṃ"
+  },
+  "SD-E0D2": {
+    "char": "隓",
+    "pua": "U+1080D2",
+    "romanized": "ṇṭhna"
+  },
+  "SD-E0D3": {
+    "char": "隑",
+    "pua": "U+1080D3",
+    "romanized": "ṭīṃ"
+  },
+  "SD-E0D4": {
+    "char": "隗",
+    "pua": "U+1080D4",
+    "romanized": "kmāṃ"
+  },
+  "SD-E0D5": {
+    "char": "雎",
+    "pua": "U+1080D5",
+    "romanized": "lāḥ"
+  },
+  "SD-E0D6": {
+    "char": "雺",
+    "pua": "U+1080D6",
+    "romanized": "riḥ"
+  },
+  "SD-E0D7": {
+    "char": "雽",
+    "pua": "U+1080D7",
+    "romanized": "liṃ"
+  },
+  "SD-E0D8": {
+    "char": "雸",
+    "pua": "U+1080D8",
+    "romanized": "nāḥ"
+  },
+  "SD-E0D9": {
+    "char": "雵",
+    "pua": "U+1080D9",
+    "romanized": "ṇḍī"
+  },
+  "SD-E0DA": {
+    "char": "靳",
+    "pua": "U+1080DA",
+    "romanized": "kṣāṃ"
+  },
+  "SD-E0DB": {
+    "char": "靷",
+    "pua": "U+1080DB",
+    "romanized": "hiṃ"
+  },
+  "SD-E0DD": {
+    "char": "靲",
+    "pua": "U+1080DD",
+    "romanized": "bheṃ"
+  },
+  "SD-E0DE": {
+    "char": "頏",
+    "pua": "U+1080DE",
+    "romanized": "lko"
+  },
+  "SD-E0DF": {
+    "char": "頍",
+    "pua": "U+1080DF",
+    "romanized": "jjā"
+  },
+  "SD-E0E0": {
+    "char": "頎",
+    "pua": "U+1080E0",
+    "romanized": "dyāṃ"
+  },
+  "SD-E0E1": {
+    "char": "颬",
+    "pua": "U+1080E1",
+    "romanized": "śra"
+  },
+  "SD-E0E2": {
+    "char": "飶",
+    "pua": "U+1080E2",
+    "romanized": "teḥ"
+  },
+  "SD-E0E3": {
+    "char": "飹",
+    "pua": "U+1080E3",
+    "romanized": "ghiṃ"
+  },
+  "SD-E0E4": {
+    "char": "馯",
+    "pua": "U+1080E4",
+    "romanized": "dyuṃ"
+  },
+  "SD-E0E5": {
+    "char": "馲",
+    "pua": "U+1080E5",
+    "romanized": "skṛ"
+  },
+  "SD-E0E6": {
+    "char": "馰",
+    "pua": "U+1080E6",
+    "romanized": "ndrā"
+  },
+  "SD-E0E7": {
+    "char": "馵",
+    "pua": "U+1080E7",
+    "romanized": "ṣṇe"
+  },
+  "SD-E0E8": {
+    "char": "骭",
+    "pua": "U+1080E8",
+    "romanized": "llu"
+  },
+  "SD-E0E9": {
+    "char": "骫",
+    "pua": "U+1080E9",
+    "romanized": "dhdha"
+  },
+  "SD-E0EA": {
+    "char": "魛",
+    "pua": "U+1080EA",
+    "romanized": "rtti"
+  },
+  "SD-E0EB": {
+    "char": "鳪",
+    "pua": "U+1080EB",
+    "romanized": "ści"
+  },
+  "SD-E0EC": {
+    "char": "鳭",
+    "pua": "U+1080EC",
+    "romanized": "sīṃ"
+  },
+  "SD-E0ED": {
+    "char": "鳧",
+    "pua": "U+1080ED",
+    "romanized": "ntya"
+  },
+  "SD-E0EE": {
+    "char": "麀",
+    "pua": "U+1080EE",
+    "romanized": "kuṃ"
+  },
+  "SD-E0EF": {
+    "char": "黽",
+    "pua": "U+1080EF",
+    "romanized": "bhrūṃ"
+  },
+  "SD-E0F0": {
+    "char": "僦",
+    "pua": "U+1080F0",
+    "romanized": "ṣṭri"
+  },
+  "SD-E0F1": {
+    "char": "僔",
+    "pua": "U+1080F1",
+    "romanized": "ksa"
+  },
+  "SD-E0F2": {
+    "char": "僗",
+    "pua": "U+1080F2",
+    "romanized": "ju"
+  },
+  "SD-E0F3": {
+    "char": "僨",
+    "pua": "U+1080F3",
+    "romanized": "sū"
+  },
+  "SD-E0F4": {
+    "char": "僳",
+    "pua": "U+1080F4",
+    "romanized": "ṭpa"
+  },
+  "SD-E0F5": {
+    "char": "僛",
+    "pua": "U+1080F5",
+    "romanized": "ntra"
+  },
+  "SD-E0F6": {
+    "char": "僪",
+    "pua": "U+1080F6",
+    "romanized": "ṅpā"
+  },
+  "SD-E0F7": {
+    "char": "僝",
+    "pua": "U+1080F7",
+    "romanized": "yuḥ"
+  },
+  "SD-E0F9": {
+    "char": "僓",
+    "pua": "U+1080F9"
+  },
+  "SD-E0FA": {
+    "char": "僬",
+    "pua": "U+1080FA",
+    "romanized": "stvaṃ"
+  },
+  "SD-E0FB": {
+    "char": "僰",
+    "pua": "U+1080FB",
+    "romanized": "ṣpuṃ"
+  },
+  "SD-E0FC": {
+    "char": "僯",
+    "pua": "U+1080FC",
+    "romanized": "puṃ"
+  },
+  "SD-E0FD": {
+    "char": "僣",
+    "pua": "U+1080FD",
+    "romanized": "māṃ"
+  },
+  "SD-E140": {
+    "char": "凘",
+    "pua": "U+108140",
+    "romanized": "sṛo"
+  },
+  "SD-E141": {
+    "char": "劀",
+    "pua": "U+108141",
+    "romanized": "dthā"
+  },
+  "SD-E142": {
+    "char": "劁",
+    "pua": "U+108142",
+    "romanized": "kta"
+  },
+  "SD-E143": {
+    "char": "勩",
+    "pua": "U+108143",
+    "romanized": "siṃ"
+  },
+  "SD-E144": {
+    "char": "勫",
+    "pua": "U+108144",
+    "romanized": "ttre"
+  },
+  "SD-E145": {
+    "char": "匰",
+    "pua": "U+108145",
+    "romanized": "yya"
+  },
+  "SD-E146": {
+    "char": "厬",
+    "pua": "U+108146",
+    "romanized": "ttrā"
+  },
+  "SD-E147": {
+    "char": "嘧",
+    "pua": "U+108147",
+    "romanized": "tnu"
+  },
+  "SD-E148": {
+    "char": "嘕",
+    "pua": "U+108148",
+    "romanized": "ntu"
+  },
+  "SD-E149": {
+    "char": "嘌",
+    "pua": "U+108149",
+    "romanized": "jja"
+  },
+  "SD-E14B": {
+    "char": "嗼",
+    "pua": "U+10814B",
+    "romanized": "jji"
+  },
+  "SD-E14D": {
+    "char": "嘜",
+    "pua": "U+10814D"
+  },
+  "SD-E14E": {
+    "char": "嘁",
+    "pua": "U+10814E",
+    "romanized": "kke"
+  },
+  "SD-E14F": {
+    "char": "嘓",
+    "pua": "U+10814F",
+    "romanized": "lka"
+  },
+  "SD-E150": {
+    "char": "嘂",
+    "pua": "U+108150",
+    "romanized": "ṣṭu"
+  },
+  "SD-E151": {
+    "char": "嗺",
+    "pua": "U+108151",
+    "romanized": "tiḥ"
+  },
+  "SD-E152": {
+    "char": "嘝",
+    "pua": "U+108152"
+  },
+  "SD-E153": {
+    "char": "嘄",
+    "pua": "U+108153",
+    "romanized": "kṣī"
+  },
+  "SD-E154": {
+    "char": "嗿",
+    "pua": "U+108154",
+    "romanized": "tkiṃ"
+  },
+  "SD-E155": {
+    "char": "嗹",
+    "pua": "U+108155",
+    "romanized": "kpra"
+  },
+  "SD-E156": {
+    "char": "墉",
+    "pua": "U+108156",
+    "romanized": "yyo"
+  },
+  "SD-E157": {
+    "char": "塼",
+    "pua": "U+108157",
+    "romanized": "ṅheṃ"
+  },
+  "SD-E158": {
+    "char": "墐",
+    "pua": "U+108158",
+    "romanized": "jeṃ"
+  },
+  "SD-E159": {
+    "char": "墘",
+    "pua": "U+108159",
+    "romanized": "tyoṃ"
+  },
+  "SD-E15B": {
+    "char": "墁",
+    "pua": "U+10815B",
+    "romanized": "hhūṃ"
+  },
+  "SD-E15C": {
+    "char": "塿",
+    "pua": "U+10815C",
+    "romanized": "rtte"
+  },
+  "SD-E15D": {
+    "char": "塴",
+    "pua": "U+10815D",
+    "romanized": "k"
+  },
+  "SD-E15E": {
+    "char": "墋",
+    "pua": "U+10815E",
+    "romanized": "luṃ"
+  },
+  "SD-E15F": {
+    "char": "塺",
+    "pua": "U+10815F",
+    "romanized": "cchya"
+  },
+  "SD-E160": {
+    "char": "墇",
+    "pua": "U+108160",
+    "romanized": "syiṃ"
+  },
+  "SD-E161": {
+    "char": "墑",
+    "pua": "U+108161",
+    "romanized": "ha"
+  },
+  "SD-E162": {
+    "char": "墎",
+    "pua": "U+108162",
+    "romanized": "ṅkha"
+  },
+  "SD-E163": {
+    "char": "塶",
+    "pua": "U+108163",
+    "romanized": "dhva"
+  },
+  "SD-E164": {
+    "char": "墂",
+    "pua": "U+108164",
+    "romanized": "khdi"
+  },
+  "SD-E165": {
+    "char": "墈",
+    "pua": "U+108165",
+    "romanized": "dhṛe"
+  },
+  "SD-E166": {
+    "char": "塻",
+    "pua": "U+108166",
+    "romanized": "ckiṃ"
+  },
+  "SD-E167": {
+    "char": "墔",
+    "pua": "U+108167"
+  },
+  "SD-E168": {
+    "char": "墏",
+    "pua": "U+108168",
+    "romanized": "sū"
+  },
+  "SD-E169": {
+    "char": "壾",
+    "pua": "U+108169",
+    "romanized": "scha"
+  },
+  "SD-E16A": {
+    "char": "奫",
+    "pua": "U+10816A",
+    "romanized": "cchra"
+  },
+  "SD-E16B": {
+    "char": "嫜",
+    "pua": "U+10816B",
+    "romanized": "ccya"
+  },
+  "SD-E16E": {
+    "char": "嫕",
+    "pua": "U+10816E",
+    "romanized": "śāṃ"
+  },
+  "SD-E16F": {
+    "char": "嫪",
+    "pua": "U+10816F",
+    "romanized": "kte"
+  },
+  "SD-E170": {
+    "char": "嫚",
+    "pua": "U+108170",
+    "romanized": "ṣṭro"
+  },
+  "SD-E171": {
+    "char": "嫭",
+    "pua": "U+108171",
+    "romanized": "rṇḍa"
+  },
+  "SD-E172": {
+    "char": "嫫",
+    "pua": "U+108172",
+    "romanized": "ktre"
+  },
+  "SD-E173": {
+    "char": "嫳",
+    "pua": "U+108173",
+    "romanized": "tpaṃ"
+  },
+  "SD-E174": {
+    "char": "嫢",
+    "pua": "U+108174",
+    "romanized": "tkṛ"
+  },
+  "SD-E176": {
+    "char": "嫛",
+    "pua": "U+108176",
+    "romanized": "ṇṇaḥ"
+  },
+  "SD-E177": {
+    "char": "嫬",
+    "pua": "U+108177",
+    "romanized": "dhā"
+  },
+  "SD-E178": {
+    "char": "嫞",
+    "pua": "U+108178",
+    "romanized": "tpṛ"
+  },
+  "SD-E179": {
+    "char": "嫝",
+    "pua": "U+108179",
+    "romanized": "trhyīṃ"
+  },
+  "SD-E17A": {
+    "char": "嫙",
+    "pua": "U+10817A",
+    "romanized": "aḥ"
+  },
+  "SD-E17B": {
+    "char": "嫨",
+    "pua": "U+10817B",
+    "romanized": "nṭha"
+  },
+  "SD-E17C": {
+    "char": "嫟",
+    "pua": "U+10817C",
+    "romanized": "hūṃ"
+  },
+  "SD-E17D": {
+    "char": "孷",
+    "pua": "U+10817D",
+    "romanized": "pṭa"
+  },
+  "SD-E17E": {
+    "char": "寠",
+    "pua": "U+10817E",
+    "romanized": "stryi"
+  },
+  "SD-E1A1": {
+    "char": "寣",
+    "pua": "U+1081A1",
+    "romanized": "kiṃ"
+  },
+  "SD-E1A2": {
+    "char": "屣",
+    "pua": "U+1081A2",
+    "romanized": "hmmāṃ"
+  },
+  "SD-E1A3": {
+    "char": "嶂",
+    "pua": "U+1081A3",
+    "romanized": "tka"
+  },
+  "SD-E1A4": {
+    "char": "嶀",
+    "pua": "U+1081A4",
+    "romanized": "strya"
+  },
+  "SD-E1A5": {
+    "char": "嵽",
+    "pua": "U+1081A5",
+    "romanized": "bhūḥ"
+  },
+  "SD-E1A6": {
+    "char": "嶆",
+    "pua": "U+1081A6",
+    "romanized": "ndrā"
+  },
+  "SD-E1A7": {
+    "char": "嵺",
+    "pua": "U+1081A7",
+    "romanized": "dhpi"
+  },
+  "SD-E1A8": {
+    "char": "嶁",
+    "pua": "U+1081A8",
+    "romanized": "llā"
+  },
+  "SD-E1A9": {
+    "char": "嵷",
+    "pua": "U+1081A9",
+    "romanized": "nīḥ"
+  },
+  "SD-E1AA": {
+    "char": "嶊",
+    "pua": "U+1081AA",
+    "romanized": "rcci"
+  },
+  "SD-E1AB": {
+    "char": "嶉",
+    "pua": "U+1081AB",
+    "romanized": "sphu"
+  },
+  "SD-E1AC": {
+    "char": "嶈",
+    "pua": "U+1081AC",
+    "romanized": "ko"
+  },
+  "SD-E1AD": {
+    "char": "嵾",
+    "pua": "U+1081AD",
+    "romanized": "huṃ"
+  },
+  "SD-E1AE": {
+    "char": "嵼",
+    "pua": "U+1081AE",
+    "romanized": "dhvaṃ"
+  },
+  "SD-E1AF": {
+    "char": "嶍",
+    "pua": "U+1081AF",
+    "romanized": "vaṃ"
+  },
+  "SD-E1B0": {
+    "char": "嵹",
+    "pua": "U+1081B0",
+    "romanized": "aṃ"
+  },
+  "SD-E1B1": {
+    "char": "嵿",
+    "pua": "U+1081B1",
+    "romanized": "hū"
+  },
+  "SD-E1B2": {
+    "char": "幘",
+    "pua": "U+1081B2",
+    "romanized": "jjaḥ"
+  },
+  "SD-E1B3": {
+    "char": "幙",
+    "pua": "U+1081B3",
+    "romanized": "kṣma"
+  },
+  "SD-E1B4": {
+    "char": "幓",
+    "pua": "U+1081B4",
+    "romanized": "dhū"
+  },
+  "SD-E1B5": {
+    "char": "廘",
+    "pua": "U+1081B5",
+    "romanized": "ṣpa"
+  },
+  "SD-E1B6": {
+    "char": "廑",
+    "pua": "U+1081B6",
+    "romanized": "ṣpe"
+  },
+  "SD-E1B7": {
+    "char": "廗",
+    "pua": "U+1081B7",
+    "romanized": "jriṃ"
+  },
+  "SD-E1B8": {
+    "char": "廎",
+    "pua": "U+1081B8",
+    "romanized": "nṭa"
+  },
+  "SD-E1B9": {
+    "char": "廜",
+    "pua": "U+1081B9",
+    "romanized": "khaṃ"
+  },
+  "SD-E1BA": {
+    "char": "廕",
+    "pua": "U+1081BA",
+    "romanized": "rmma"
+  },
+  "SD-E1BB": {
+    "char": "廙",
+    "pua": "U+1081BB",
+    "romanized": "haṃ"
+  },
+  "SD-E1BC": {
+    "char": "廒",
+    "pua": "U+1081BC",
+    "romanized": "kaṃ"
+  },
+  "SD-E1BD": {
+    "char": "廔",
+    "pua": "U+1081BD",
+    "romanized": "traṃ"
+  },
+  "SD-E1BE": {
+    "char": "彄",
+    "pua": "U+1081BE",
+    "romanized": "maṃ"
+  },
+  "SD-E1BF": {
+    "char": "彃",
+    "pua": "U+1081BF",
+    "romanized": "muṃ"
+  },
+  "SD-E1C0": {
+    "char": "彯",
+    "pua": "U+1081C0",
+    "romanized": "paṃ"
+  },
+  "SD-E1C1": {
+    "char": "徶",
+    "pua": "U+1081C1",
+    "romanized": "praṃ"
+  },
+  "SD-E1C2": {
+    "char": "愬",
+    "pua": "U+1081C2",
+    "romanized": "lūṃ"
+  },
+  "SD-E1C3": {
+    "char": "愨",
+    "pua": "U+1081C3",
+    "romanized": "bhrūṃ"
+  },
+  "SD-E1C4": {
+    "char": "慁",
+    "pua": "U+1081C4",
+    "romanized": "nvu"
+  },
+  "SD-E1C5": {
+    "char": "慞",
+    "pua": "U+1081C5",
+    "romanized": "trāṃ"
+  },
+  "SD-E1C6": {
+    "char": "慱",
+    "pua": "U+1081C6",
+    "romanized": "moṃ"
+  },
+  "SD-E1C7": {
+    "char": "慳",
+    "pua": "U+1081C7",
+    "romanized": "pri"
+  },
+  "SD-E1C9": {
+    "char": "慓",
+    "pua": "U+1081C9",
+    "romanized": "ndre"
+  },
+  "SD-E1CA": {
+    "char": "慲",
+    "pua": "U+1081CA",
+    "romanized": "ndrai"
+  },
+  "SD-E1CB": {
+    "char": "慬",
+    "pua": "U+1081CB",
+    "romanized": "teṃḥ"
+  },
+  "SD-E1CC": {
+    "char": "憀",
+    "pua": "U+1081CC",
+    "romanized": "śa"
+  },
+  "SD-E1CD": {
+    "char": "慴",
+    "pua": "U+1081CD",
+    "romanized": "jñāṃ"
+  },
+  "SD-E1CE": {
+    "char": "慔",
+    "pua": "U+1081CE",
+    "romanized": "śo"
+  },
+  "SD-E1CF": {
+    "char": "慺",
+    "pua": "U+1081CF",
+    "romanized": "hyā"
+  },
+  "SD-E1D0": {
+    "char": "慛",
+    "pua": "U+1081D0",
+    "romanized": "tsa"
+  },
+  "SD-E1D1": {
+    "char": "慥",
+    "pua": "U+1081D1",
+    "romanized": "ysa"
+  },
+  "SD-E1D2": {
+    "char": "愻",
+    "pua": "U+1081D2",
+    "romanized": "ṣṭra"
+  },
+  "SD-E1D3": {
+    "char": "慪",
+    "pua": "U+1081D3",
+    "romanized": "cu"
+  },
+  "SD-E1D4": {
+    "char": "慡",
+    "pua": "U+1081D4",
+    "romanized": "ntyā"
+  },
+  "SD-E1D5": {
+    "char": "慖",
+    "pua": "U+1081D5",
+    "romanized": "dhīḥ"
+  },
+  "SD-E1D6": {
+    "char": "戩",
+    "pua": "U+1081D6",
+    "romanized": "śri"
+  },
+  "SD-E1D7": {
+    "char": "戧",
+    "pua": "U+1081D7",
+    "romanized": "hāṃ"
+  },
+  "SD-E1D8": {
+    "char": "戫",
+    "pua": "U+1081D8",
+    "romanized": "ṣṭāṃ"
+  },
+  "SD-E1D9": {
+    "char": "搫",
+    "pua": "U+1081D9",
+    "romanized": "rīṃ"
+  },
+  "SD-E1DA": {
+    "char": "摍",
+    "pua": "U+1081DA",
+    "romanized": "du"
+  },
+  "SD-E1DB": {
+    "char": "摛",
+    "pua": "U+1081DB",
+    "romanized": "nīṃ"
+  },
+  "SD-E1DC": {
+    "char": "摝",
+    "pua": "U+1081DC",
+    "romanized": "ntu"
+  },
+  "SD-E1DD": {
+    "char": "摴",
+    "pua": "U+1081DD",
+    "romanized": "tī"
+  },
+  "SD-E1DE": {
+    "char": "摶",
+    "pua": "U+1081DE",
+    "romanized": "ccā"
+  },
+  "SD-E1DF": {
+    "char": "摲",
+    "pua": "U+1081DF",
+    "romanized": "bhṛṃ"
+  },
+  "SD-E1E0": {
+    "char": "摳",
+    "pua": "U+1081E0",
+    "romanized": "nmāṃ"
+  },
+  "SD-E1E1": {
+    "char": "摽",
+    "pua": "U+1081E1",
+    "romanized": "ṣṇa"
+  },
+  "SD-E1E2": {
+    "char": "摵",
+    "pua": "U+1081E2",
+    "romanized": "trya"
+  },
+  "SD-E1E3": {
+    "char": "摦",
+    "pua": "U+1081E3",
+    "romanized": "ddhyaṃ"
+  },
+  "SD-E1E4": {
+    "char": "撦",
+    "pua": "U+1081E4",
+    "romanized": "dāṃ"
+  },
+  "SD-E1E5": {
+    "char": "摎",
+    "pua": "U+1081E5",
+    "romanized": "ggā"
+  },
+  "SD-E1E6": {
+    "char": "撂",
+    "pua": "U+1081E6",
+    "romanized": "ktra"
+  },
+  "SD-E1E7": {
+    "char": "摞",
+    "pua": "U+1081E7",
+    "romanized": "ghu"
+  },
+  "SD-E1E8": {
+    "char": "摜",
+    "pua": "U+1081E8",
+    "romanized": "rkka"
+  },
+  "SD-E1E9": {
+    "char": "摋",
+    "pua": "U+1081E9",
+    "romanized": "thu"
+  },
+  "SD-E1EA": {
+    "char": "摓",
+    "pua": "U+1081EA",
+    "romanized": "tma"
+  },
+  "SD-E1EB": {
+    "char": "摠",
+    "pua": "U+1081EB",
+    "romanized": "jī"
+  },
+  "SD-E1EC": {
+    "char": "摐",
+    "pua": "U+1081EC",
+    "romanized": "rttā"
+  },
+  "SD-E1ED": {
+    "char": "摿",
+    "pua": "U+1081ED",
+    "romanized": "ṣu"
+  },
+  "SD-E1EF": {
+    "char": "摬",
+    "pua": "U+1081EF",
+    "romanized": "yuṃ"
+  },
+  "SD-E1F0": {
+    "char": "摫",
+    "pua": "U+1081F0",
+    "romanized": "mū"
+  },
+  "SD-E1F1": {
+    "char": "摙",
+    "pua": "U+1081F1",
+    "romanized": "ṇā"
+  },
+  "SD-E1F2": {
+    "char": "摥",
+    "pua": "U+1081F2",
+    "romanized": "ī"
+  },
+  "SD-E1F3": {
+    "char": "摷",
+    "pua": "U+1081F3",
+    "romanized": "ttra"
+  },
+  "SD-E1F4": {
+    "char": "敳",
+    "pua": "U+1081F4",
+    "romanized": "nvya"
+  },
+  "SD-E1F5": {
+    "char": "斠",
+    "pua": "U+1081F5",
+    "romanized": "khu"
+  },
+  "SD-E1F6": {
+    "char": "暡",
+    "pua": "U+1081F6",
+    "romanized": "jje"
+  },
+  "SD-E1F7": {
+    "char": "暠",
+    "pua": "U+1081F7",
+    "romanized": "buḥ"
+  },
+  "SD-E1F8": {
+    "char": "暟",
+    "pua": "U+1081F8",
+    "romanized": "ṣṭre"
+  },
+  "SD-E1F9": {
+    "char": "朅",
+    "pua": "U+1081F9",
+    "romanized": "śū"
+  },
+  "SD-E1FA": {
+    "char": "朄",
+    "pua": "U+1081FA",
+    "romanized": "pphu"
+  },
+  "SD-E1FB": {
+    "char": "朢",
+    "pua": "U+1081FB",
+    "romanized": "yyā"
+  },
+  "SD-E1FC": {
+    "char": "榱",
+    "pua": "U+1081FC",
+    "romanized": "kka"
+  },
+  "SD-E1FD": {
+    "char": "榶",
+    "pua": "U+1081FD",
+    "romanized": "kaiḥ"
+  },
+  "SD-E240": {
+    "char": "榠",
+    "pua": "U+108240",
+    "romanized": "dhvi"
+  },
+  "SD-E241": {
+    "char": "槎",
+    "pua": "U+108241",
+    "romanized": "ī"
+  },
+  "SD-E242": {
+    "char": "榖",
+    "pua": "U+108242"
+  },
+  "SD-E243": {
+    "char": "榰",
+    "pua": "U+108243",
+    "romanized": "dme"
+  },
+  "SD-E244": {
+    "char": "榬",
+    "pua": "U+108244",
+    "romanized": "ṣṇi"
+  },
+  "SD-E245": {
+    "char": "榼",
+    "pua": "U+108245",
+    "romanized": "cri"
+  },
+  "SD-E246": {
+    "char": "榑",
+    "pua": "U+108246",
+    "romanized": "stri"
+  },
+  "SD-E247": {
+    "char": "榙",
+    "pua": "U+108247",
+    "romanized": "hme"
+  },
+  "SD-E248": {
+    "char": "榎",
+    "pua": "U+108248",
+    "romanized": "gni"
+  },
+  "SD-E249": {
+    "char": "榧",
+    "pua": "U+108249",
+    "romanized": "stva"
+  },
+  "SD-E24A": {
+    "char": "榍",
+    "pua": "U+10824A",
+    "romanized": "rmu"
+  },
+  "SD-E24B": {
+    "char": "榩",
+    "pua": "U+10824B",
+    "romanized": "deḥ"
+  },
+  "SD-E24C": {
+    "char": "榾",
+    "pua": "U+10824C",
+    "romanized": "smā"
+  },
+  "SD-E24D": {
+    "char": "榯",
+    "pua": "U+10824D",
+    "romanized": "hiḥ"
+  },
+  "SD-E24E": {
+    "char": "榿",
+    "pua": "U+10824E",
+    "romanized": "guṃ"
+  },
+  "SD-E24F": {
+    "char": "槄",
+    "pua": "U+10824F",
+    "romanized": "sphū"
+  },
+  "SD-E250": {
+    "char": "榽",
+    "pua": "U+108250",
+    "romanized": "tvāḥ"
+  },
+  "SD-E251": {
+    "char": "榤",
+    "pua": "U+108251",
+    "romanized": "daiḥ"
+  },
+  "SD-E252": {
+    "char": "槔",
+    "pua": "U+108252",
+    "romanized": "jṇe"
+  },
+  "SD-E253": {
+    "char": "榹",
+    "pua": "U+108253",
+    "romanized": "yaṃḥ"
+  },
+  "SD-E254": {
+    "char": "槊",
+    "pua": "U+108254",
+    "romanized": "duḥ"
+  },
+  "SD-E256": {
+    "char": "槏",
+    "pua": "U+108256",
+    "romanized": "i"
+  },
+  "SD-E257": {
+    "char": "榳",
+    "pua": "U+108257",
+    "romanized": "hmā"
+  },
+  "SD-E259": {
+    "char": "榪",
+    "pua": "U+108259",
+    "romanized": "ndri"
+  },
+  "SD-E25A": {
+    "char": "榡",
+    "pua": "U+10825A",
+    "romanized": "ṣāṃ"
+  },
+  "SD-E25B": {
+    "char": "榞",
+    "pua": "U+10825B",
+    "romanized": "nyāṃ"
+  },
+  "SD-E25C": {
+    "char": "槙",
+    "pua": "U+10825C",
+    "romanized": "syāṃ"
+  },
+  "SD-E25D": {
+    "char": "榗",
+    "pua": "U+10825D",
+    "romanized": "roṃ"
+  },
+  "SD-E25E": {
+    "char": "榐",
+    "pua": "U+10825E",
+    "romanized": "miṃ"
+  },
+  "SD-E25F": {
+    "char": "槂",
+    "pua": "U+10825F",
+    "romanized": "rgho"
+  },
+  "SD-E260": {
+    "char": "榵",
+    "pua": "U+108260",
+    "romanized": "kke"
+  },
+  "SD-E261": {
+    "char": "榥",
+    "pua": "U+108261",
+    "romanized": "smiṃ"
+  },
+  "SD-E262": {
+    "char": "槆",
+    "pua": "U+108262",
+    "romanized": "sreḥ"
+  },
+  "SD-E263": {
+    "char": "歊",
+    "pua": "U+108263",
+    "romanized": "tphā"
+  },
+  "SD-E265": {
+    "char": "歋",
+    "pua": "U+108265",
+    "romanized": "tpa"
+  },
+  "SD-E266": {
+    "char": "殞",
+    "pua": "U+108266",
+    "romanized": "hāḥ"
+  },
+  "SD-E267": {
+    "char": "殟",
+    "pua": "U+108267",
+    "romanized": "ṣka"
+  },
+  "SD-E268": {
+    "char": "殠",
+    "pua": "U+108268",
+    "romanized": "śmye"
+  },
+  "SD-E269": {
+    "char": "毃",
+    "pua": "U+108269",
+    "romanized": "ttrai"
+  },
+  "SD-E26A": {
+    "char": "毄",
+    "pua": "U+10826A",
+    "romanized": "ñā"
+  },
+  "SD-E26B": {
+    "char": "毾",
+    "pua": "U+10826B",
+    "romanized": "ṇyaṃ"
+  },
+  "SD-E26C": {
+    "char": "滎",
+    "pua": "U+10826C",
+    "romanized": "ktā"
+  },
+  "SD-E26D": {
+    "char": "滵",
+    "pua": "U+10826D",
+    "romanized": "kāḥ"
+  },
+  "SD-E26E": {
+    "char": "滱",
+    "pua": "U+10826E",
+    "romanized": "rcca"
+  },
+  "SD-E26F": {
+    "char": "漃",
+    "pua": "U+10826F",
+    "romanized": "ktdi"
+  },
+  "SD-E270": {
+    "char": "漥",
+    "pua": "U+108270",
+    "romanized": "mma"
+  },
+  "SD-E271": {
+    "char": "滸",
+    "pua": "U+108271",
+    "romanized": "ddī"
+  },
+  "SD-E272": {
+    "char": "漷",
+    "pua": "U+108272",
+    "romanized": "luḥ"
+  },
+  "SD-E273": {
+    "char": "滻",
+    "pua": "U+108273",
+    "romanized": "striṃ"
+  },
+  "SD-E274": {
+    "char": "漮",
+    "pua": "U+108274",
+    "romanized": "rttī"
+  },
+  "SD-E275": {
+    "char": "漉",
+    "pua": "U+108275"
+  },
+  "SD-E276": {
+    "char": "潎",
+    "pua": "U+108276",
+    "romanized": "dtha"
+  },
+  "SD-E277": {
+    "char": "漙",
+    "pua": "U+108277",
+    "romanized": "niḥ"
+  },
+  "SD-E278": {
+    "char": "漚",
+    "pua": "U+108278",
+    "romanized": "thāḥ"
+  },
+  "SD-E279": {
+    "char": "漧",
+    "pua": "U+108279",
+    "romanized": "loḥ"
+  },
+  "SD-E27A": {
+    "char": "漘",
+    "pua": "U+10827A",
+    "romanized": "raiḥ"
+  },
+  "SD-E27B": {
+    "char": "漻",
+    "pua": "U+10827B",
+    "romanized": "taiḥ"
+  },
+  "SD-E27C": {
+    "char": "漒",
+    "pua": "U+10827C",
+    "romanized": "tkṣi"
+  },
+  "SD-E27D": {
+    "char": "滭",
+    "pua": "U+10827D",
+    "romanized": "laiḥ"
+  },
+  "SD-E27E": {
+    "char": "漊",
+    "pua": "U+10827E",
+    "romanized": "pīḥ"
+  },
+  "SD-E2A1": {
+    "char": "漶",
+    "pua": "U+1082A1",
+    "romanized": "dhiṃ"
+  },
+  "SD-E2A2": {
+    "char": "潳",
+    "pua": "U+1082A2",
+    "romanized": "līṃ"
+  },
+  "SD-E2A3": {
+    "char": "滹",
+    "pua": "U+1082A3",
+    "romanized": "ttya"
+  },
+  "SD-E2A4": {
+    "char": "滮",
+    "pua": "U+1082A4",
+    "romanized": "dmo"
+  },
+  "SD-E2A5": {
+    "char": "漭",
+    "pua": "U+1082A5",
+    "romanized": "dhaṃ"
+  },
+  "SD-E2A6": {
+    "char": "潀",
+    "pua": "U+1082A6",
+    "romanized": "roḥ"
+  },
+  "SD-E2A7": {
+    "char": "漰",
+    "pua": "U+1082A7",
+    "romanized": "tpa"
+  },
+  "SD-E2A8": {
+    "char": "漼",
+    "pua": "U+1082A8",
+    "romanized": "ṭpā"
+  },
+  "SD-E2A9": {
+    "char": "漵",
+    "pua": "U+1082A9",
+    "romanized": "ntre"
+  },
+  "SD-E2AA": {
+    "char": "滫",
+    "pua": "U+1082AA",
+    "romanized": "rmmā"
+  },
+  "SD-E2AB": {
+    "char": "漇",
+    "pua": "U+1082AB",
+    "romanized": "ṇi"
+  },
+  "SD-E2AC": {
+    "char": "漎",
+    "pua": "U+1082AC",
+    "romanized": "mbhā"
+  },
+  "SD-E2AD": {
+    "char": "潃",
+    "pua": "U+1082AD",
+    "romanized": "strai"
+  },
+  "SD-E2AE": {
+    "char": "漅",
+    "pua": "U+1082AE",
+    "romanized": "svṛ"
+  },
+  "SD-E2AF": {
+    "char": "滽",
+    "pua": "U+1082AF",
+    "romanized": "ktyā"
+  },
+  "SD-E2B0": {
+    "char": "滶",
+    "pua": "U+1082B0",
+    "romanized": "ḍa"
+  },
+  "SD-E2B1": {
+    "char": "漹",
+    "pua": "U+1082B1",
+    "romanized": "o"
+  },
+  "SD-E2B2": {
+    "char": "漜",
+    "pua": "U+1082B2",
+    "romanized": "sdi"
+  },
+  "SD-E2B4": {
+    "char": "漺",
+    "pua": "U+1082B4",
+    "romanized": "gga"
+  },
+  "SD-E2B5": {
+    "char": "漟",
+    "pua": "U+1082B5",
+    "romanized": "smṛ"
+  },
+  "SD-E2B6": {
+    "char": "漍",
+    "pua": "U+1082B6",
+    "romanized": "sta"
+  },
+  "SD-E2B7": {
+    "char": "漞",
+    "pua": "U+1082B7",
+    "romanized": "rvāṃ"
+  },
+  "SD-E2B8": {
+    "char": "漈",
+    "pua": "U+1082B8",
+    "romanized": "śrī"
+  },
+  "SD-E2B9": {
+    "char": "漡",
+    "pua": "U+1082B9",
+    "romanized": "huṃ"
+  },
+  "SD-E2BA": {
+    "char": "熇",
+    "pua": "U+1082BA",
+    "romanized": "ṭrūṃ"
+  },
+  "SD-E2BB": {
+    "char": "熐",
+    "pua": "U+1082BB",
+    "romanized": "śrūṃ"
+  },
+  "SD-E2BC": {
+    "char": "熉",
+    "pua": "U+1082BC"
+  },
+  "SD-E2BD": {
+    "char": "熀",
+    "pua": "U+1082BD"
+  },
+  "SD-E2BE": {
+    "char": "熅",
+    "pua": "U+1082BE",
+    "romanized": "vāṃ"
+  },
+  "SD-E2BF": {
+    "char": "熂",
+    "pua": "U+1082BF",
+    "romanized": "trūṃ"
+  },
+  "SD-E2C0": {
+    "char": "熏",
+    "pua": "U+1082C0",
+    "romanized": "jiṃ"
+  },
+  "SD-E2C1": {
+    "char": "煻",
+    "pua": "U+1082C1",
+    "romanized": "ttrī"
+  },
+  "SD-E2C2": {
+    "char": "熆",
+    "pua": "U+1082C2",
+    "romanized": "ñce"
+  },
+  "SD-E2C3": {
+    "char": "熁",
+    "pua": "U+1082C3",
+    "romanized": "niṃ"
+  },
+  "SD-E2C4": {
+    "char": "熗",
+    "pua": "U+1082C4",
+    "romanized": "hṛe"
+  },
+  "SD-E2C5": {
+    "char": "牄",
+    "pua": "U+1082C5",
+    "romanized": "ddi"
+  },
+  "SD-E2C6": {
+    "char": "牓",
+    "pua": "U+1082C6",
+    "romanized": "ṣkā"
+  },
+  "SD-E2C7": {
+    "char": "犗",
+    "pua": "U+1082C7",
+    "romanized": "bhyu"
+  },
+  "SD-E2C8": {
+    "char": "犕",
+    "pua": "U+1082C8",
+    "romanized": "riṃ"
+  },
+  "SD-E2C9": {
+    "char": "犓",
+    "pua": "U+1082C9",
+    "romanized": "kṣuḥ"
+  },
+  "SD-E2CA": {
+    "char": "獃",
+    "pua": "U+1082CA",
+    "romanized": "rcṇi"
+  },
+  "SD-E2CC": {
+    "char": "獑",
+    "pua": "U+1082CC",
+    "romanized": "hīḥ"
+  },
+  "SD-E2CD": {
+    "char": "獌",
+    "pua": "U+1082CD",
+    "romanized": "jñā"
+  },
+  "SD-E2CE": {
+    "char": "瑢",
+    "pua": "U+1082CE",
+    "romanized": "śiṃ"
+  },
+  "SD-E2CF": {
+    "char": "瑳",
+    "pua": "U+1082CF",
+    "romanized": "kci"
+  },
+  "SD-E2D0": {
+    "char": "瑱",
+    "pua": "U+1082D0",
+    "romanized": "tvāṃ"
+  },
+  "SD-E2D1": {
+    "char": "瑵",
+    "pua": "U+1082D1",
+    "romanized": "ṭaṃ"
+  },
+  "SD-E2D2": {
+    "char": "瑲",
+    "pua": "U+1082D2",
+    "romanized": "lṇā"
+  },
+  "SD-E2D3": {
+    "char": "瑧",
+    "pua": "U+1082D3",
+    "romanized": "kṣṭrī"
+  },
+  "SD-E2D4": {
+    "char": "瑮",
+    "pua": "U+1082D4"
+  },
+  "SD-E2D5": {
+    "char": "甀",
+    "pua": "U+1082D5",
+    "romanized": "ttraṃ"
+  },
+  "SD-E2D6": {
+    "char": "甂",
+    "pua": "U+1082D6",
+    "romanized": "myaḥ"
+  },
+  "SD-E2D7": {
+    "char": "甃",
+    "pua": "U+1082D7",
+    "romanized": "dhṛi"
+  },
+  "SD-E2D8": {
+    "char": "畽",
+    "pua": "U+1082D8",
+    "romanized": "bhyāḥ"
+  },
+  "SD-E2D9": {
+    "char": "疐",
+    "pua": "U+1082D9",
+    "romanized": "lṇa"
+  },
+  "SD-E2DA": {
+    "char": "瘖",
+    "pua": "U+1082DA",
+    "romanized": "ghṇi"
+  },
+  "SD-E2DB": {
+    "char": "瘈",
+    "pua": "U+1082DB",
+    "romanized": "mbhī"
+  },
+  "SD-E2DC": {
+    "char": "瘌",
+    "pua": "U+1082DC",
+    "romanized": "ṣṭya"
+  },
+  "SD-E2DD": {
+    "char": "瘕",
+    "pua": "U+1082DD",
+    "romanized": "ścā"
+  },
+  "SD-E2DE": {
+    "char": "瘑",
+    "pua": "U+1082DE",
+    "romanized": "tpā"
+  },
+  "SD-E2DF": {
+    "char": "瘊",
+    "pua": "U+1082DF",
+    "romanized": "dmā"
+  },
+  "SD-E2E0": {
+    "char": "瘔",
+    "pua": "U+1082E0",
+    "romanized": "ṣvya"
+  },
+  "SD-E2E1": {
+    "char": "皸",
+    "pua": "U+1082E1",
+    "romanized": "rgu"
+  },
+  "SD-E2E2": {
+    "char": "瞁",
+    "pua": "U+1082E2",
+    "romanized": "prī"
+  },
+  "SD-E2E3": {
+    "char": "睼",
+    "pua": "U+1082E3",
+    "romanized": "ntrā"
+  },
+  "SD-E2E4": {
+    "char": "瞅",
+    "pua": "U+1082E4",
+    "romanized": "ksi"
+  },
+  "SD-E2E5": {
+    "char": "瞂",
+    "pua": "U+1082E5",
+    "romanized": "tko"
+  },
+  "SD-E2E6": {
+    "char": "睮",
+    "pua": "U+1082E6",
+    "romanized": "dīṃ"
+  },
+  "SD-E2E7": {
+    "char": "瞀",
+    "pua": "U+1082E7",
+    "romanized": "rśa"
+  },
+  "SD-E2E8": {
+    "char": "睯",
+    "pua": "U+1082E8",
+    "romanized": "ktya"
+  },
+  "SD-E2E9": {
+    "char": "睾",
+    "pua": "U+1082E9",
+    "romanized": "rgha"
+  },
+  "SD-E2EA": {
+    "char": "瞃",
+    "pua": "U+1082EA",
+    "romanized": "rmmāḥ"
+  },
+  "SD-E2EB": {
+    "char": "碲",
+    "pua": "U+1082EB",
+    "romanized": "stya"
+  },
+  "SD-E2EC": {
+    "char": "碪",
+    "pua": "U+1082EC",
+    "romanized": "drāṃ"
+  },
+  "SD-E2ED": {
+    "char": "碴",
+    "pua": "U+1082ED",
+    "romanized": "tīṃ"
+  },
+  "SD-E2EE": {
+    "char": "碭",
+    "pua": "U+1082EE",
+    "romanized": "dhiḥ"
+  },
+  "SD-E2EF": {
+    "char": "碨",
+    "pua": "U+1082EF",
+    "romanized": "śca"
+  },
+  "SD-E2F0": {
+    "char": "硾",
+    "pua": "U+1082F0",
+    "romanized": "ṣṭrā"
+  },
+  "SD-E2F1": {
+    "char": "碫",
+    "pua": "U+1082F1",
+    "romanized": "ṭrūṃ"
+  },
+  "SD-E2F2": {
+    "char": "碞",
+    "pua": "U+1082F2",
+    "romanized": "dai"
+  },
+  "SD-E2F3": {
+    "char": "碥",
+    "pua": "U+1082F3",
+    "romanized": "stra"
+  },
+  "SD-E2F4": {
+    "char": "碠",
+    "pua": "U+1082F4",
+    "romanized": "ndrī"
+  },
+  "SD-E2F5": {
+    "char": "碬",
+    "pua": "U+1082F5",
+    "romanized": "śle"
+  },
+  "SD-E2F6": {
+    "char": "碢",
+    "pua": "U+1082F6",
+    "romanized": "hūṃ"
+  },
+  "SD-E2F7": {
+    "char": "碤",
+    "pua": "U+1082F7",
+    "romanized": "rjja"
+  },
+  "SD-E2F8": {
+    "char": "禘",
+    "pua": "U+1082F8",
+    "romanized": "ptāṃ"
+  },
+  "SD-E2F9": {
+    "char": "禊",
+    "pua": "U+1082F9",
+    "romanized": "ttha"
+  },
+  "SD-E2FA": {
+    "char": "禋",
+    "pua": "U+1082FA",
+    "romanized": "khau"
+  },
+  "SD-E2FB": {
+    "char": "禖",
+    "pua": "U+1082FB",
+    "romanized": "lda"
+  },
+  "SD-E2FD": {
+    "char": "禔",
+    "pua": "U+1082FD",
+    "romanized": "dpa"
+  },
+  "SD-E2FE": {
+    "char": "禓",
+    "pua": "U+1082FE",
+    "romanized": "rdda"
+  },
+  "SD-E340": {
+    "char": "禗",
+    "pua": "U+108340",
+    "romanized": "ṅka"
+  },
+  "SD-E341": {
+    "char": "禈",
+    "pua": "U+108341"
+  },
+  "SD-E342": {
+    "char": "禒",
+    "pua": "U+108342",
+    "romanized": "kle"
+  },
+  "SD-E343": {
+    "char": "禐",
+    "pua": "U+108343",
+    "romanized": "rdde"
+  },
+  "SD-E344": {
+    "char": "稫",
+    "pua": "U+108344",
+    "romanized": "keḥ"
+  },
+  "SD-E345": {
+    "char": "穊",
+    "pua": "U+108345",
+    "romanized": "sṭa"
+  },
+  "SD-E347": {
+    "char": "稯",
+    "pua": "U+108347",
+    "symbol": "□"
+  },
+  "SD-E348": {
+    "char": "稨",
+    "pua": "U+108348",
+    "romanized": "tkṣa"
+  },
+  "SD-E349": {
+    "char": "稦",
+    "pua": "U+108349",
+    "romanized": "ram"
+  },
+  "SD-E350": {
+    "char": "箊",
+    "pua": "U+108350",
+    "romanized": "śrūṃ"
+  },
+  "SD-E351": {
+    "char": "箑",
+    "pua": "U+108351",
+    "romanized": "hūṃ"
+  },
+  "SD-E352": {
+    "char": "箐",
+    "pua": "U+108352",
+    "romanized": "cuṃ"
+  },
+  "SD-E353": {
+    "char": "箖",
+    "pua": "U+108353",
+    "romanized": "bhrūṃ"
+  },
+  "SD-E354": {
+    "char": "箍",
+    "pua": "U+108354",
+    "romanized": "llaṃ"
+  },
+  "SD-E355": {
+    "char": "箌",
+    "pua": "U+108355"
+  },
+  "SD-E356": {
+    "char": "箛",
+    "pua": "U+108356",
+    "romanized": "jā"
+  },
+  "SD-E357": {
+    "char": "箎",
+    "pua": "U+108357",
+    "romanized": "ña"
+  },
+  "SD-E358": {
+    "char": "箅",
+    "pua": "U+108358",
+    "romanized": "ña"
+  },
+  "SD-E359": {
+    "char": "箘",
+    "pua": "U+108359",
+    "romanized": "ṇa"
+  },
+  "SD-E35A": {
+    "char": "劄",
+    "pua": "U+10835A",
+    "symbol": "（"
+  },
+  "SD-E35B": {
+    "char": "箙",
+    "pua": "U+10835B",
+    "symbol": "）"
+  },
+  "SD-E35C": {
+    "char": "箤",
+    "pua": "U+10835C",
+    "romanized": "rṇu"
+  },
+  "SD-E35D": {
+    "char": "箂",
+    "pua": "U+10835D",
+    "romanized": "ttri"
+  },
+  "SD-E35E": {
+    "char": "粻",
+    "pua": "U+10835E",
+    "romanized": "ntri"
+  },
+  "SD-E35F": {
+    "char": "粿",
+    "pua": "U+10835F",
+    "romanized": "tū"
+  },
+  "SD-E360": {
+    "char": "粼",
+    "pua": "U+108360",
+    "romanized": "ta"
+  },
+  "SD-E361": {
+    "char": "粺",
+    "pua": "U+108361",
+    "romanized": "dha"
+  },
+  "SD-E362": {
+    "char": "綧",
+    "pua": "U+108362",
+    "romanized": "na"
+  },
+  "SD-E363": {
+    "char": "綷",
+    "pua": "U+108363",
+    "romanized": "kyū"
+  },
+  "SD-E364": {
+    "char": "緂",
+    "pua": "U+108364",
+    "romanized": "nna"
+  },
+  "SD-E366": {
+    "char": "綪",
+    "pua": "U+108366",
+    "romanized": "kna"
+  },
+  "SD-E367": {
+    "char": "緁",
+    "pua": "U+108367",
+    "romanized": "ñca"
+  },
+  "SD-E368": {
+    "char": "緀",
+    "pua": "U+108368",
+    "romanized": "ṅya"
+  },
+  "SD-E369": {
+    "char": "緅",
+    "pua": "U+108369",
+    "romanized": "rva"
+  },
+  "SD-E36A": {
+    "char": "綝",
+    "pua": "U+10836A",
+    "romanized": "ndu"
+  },
+  "SD-E36B": {
+    "char": "緎",
+    "pua": "U+10836B",
+    "romanized": "hna"
+  },
+  "SD-E36C": {
+    "char": "緄",
+    "pua": "U+10836C",
+    "symbol": "〔"
+  },
+  "SD-E36D": {
+    "char": "緆",
+    "pua": "U+10836D",
+    "symbol": "〕"
+  },
+  "SD-E36E": {
+    "char": "緋",
+    "pua": "U+10836E",
+    "romanized": "strī"
+  },
+  "SD-E36F": {
+    "char": "緌",
+    "pua": "U+10836F",
+    "romanized": "rnṛ"
+  },
+  "SD-E370": {
+    "char": "綯",
+    "pua": "U+108370",
+    "romanized": "va"
+  },
+  "SD-E371": {
+    "char": "綹",
+    "pua": "U+108371",
+    "romanized": "ṅa"
+  },
+  "SD-E372": {
+    "char": "綖",
+    "pua": "U+108372",
+    "romanized": "ṅa"
+  },
+  "SD-E373": {
+    "char": "綼",
+    "pua": "U+108373",
+    "romanized": "ña"
+  },
+  "SD-E374": {
+    "char": "綟",
+    "pua": "U+108374",
+    "romanized": "khṛ"
+  },
+  "SD-E375": {
+    "char": "綦",
+    "pua": "U+108375",
+    "romanized": "cchṛ"
+  },
+  "SD-E376": {
+    "char": "綮",
+    "pua": "U+108376",
+    "romanized": "ṭśa"
+  },
+  "SD-E377": {
+    "char": "綩",
+    "pua": "U+108377"
+  },
+  "SD-E378": {
+    "char": "綡",
+    "pua": "U+108378"
+  },
+  "SD-E379": {
+    "char": "緉",
+    "pua": "U+108379",
+    "romanized": "chrūṃ"
+  },
+  "SD-E37A": {
+    "char": "罳",
+    "pua": "U+10837A",
+    "romanized": "spra"
+  },
+  "SD-E37B": {
+    "char": "翢",
+    "pua": "U+10837B",
+    "romanized": "dū"
+  },
+  "SD-E37C": {
+    "char": "翣",
+    "pua": "U+10837C",
+    "romanized": "ṇṇa"
+  },
+  "SD-E37D": {
+    "char": "翥",
+    "pua": "U+10837D"
+  },
+  "SD-E37E": {
+    "char": "翞",
+    "pua": "U+10837E",
+    "romanized": "ñjā"
+  },
+  "SD-E3A1": {
+    "char": "耤",
+    "pua": "U+1083A1",
+    "romanized": "lpa"
+  },
+  "SD-E3A2": {
+    "char": "聝",
+    "pua": "U+1083A2",
+    "romanized": "tsya"
+  },
+  "SD-E3A3": {
+    "char": "聜",
+    "pua": "U+1083A3",
+    "romanized": "lga"
+  },
+  "SD-E3A4": {
+    "char": "膉",
+    "pua": "U+1083A4",
+    "romanized": "laṃ"
+  },
+  "SD-E3A5": {
+    "char": "膆",
+    "pua": "U+1083A5",
+    "romanized": "tsā"
+  },
+  "SD-E3A6": {
+    "char": "膃",
+    "pua": "U+1083A6",
+    "romanized": "śśa"
+  },
+  "SD-E3A7": {
+    "char": "膇",
+    "pua": "U+1083A7",
+    "romanized": "bhuṃ"
+  },
+  "SD-E3A8": {
+    "char": "膍",
+    "pua": "U+1083A8",
+    "romanized": "ṅṭu"
+  },
+  "SD-E3A9": {
+    "char": "膌",
+    "pua": "U+1083A9",
+    "romanized": "jju"
+  },
+  "SD-E3AA": {
+    "char": "膋",
+    "pua": "U+1083AA",
+    "romanized": "strā"
+  },
+  "SD-E3AB": {
+    "char": "舕",
+    "pua": "U+1083AB",
+    "romanized": "kku"
+  },
+  "SD-E3AC": {
+    "char": "蒗",
+    "pua": "U+1083AC",
+    "romanized": "vyū"
+  },
+  "SD-E3AD": {
+    "char": "蒤",
+    "pua": "U+1083AD",
+    "romanized": "bu"
+  },
+  "SD-E3AE": {
+    "char": "蒡",
+    "pua": "U+1083AE",
+    "romanized": "psā"
+  },
+  "SD-E3AF": {
+    "char": "蒟",
+    "pua": "U+1083AF",
+    "romanized": "jū"
+  },
+  "SD-E3B0": {
+    "char": "蒺",
+    "pua": "U+1083B0",
+    "romanized": "li"
+  },
+  "SD-E3B1": {
+    "char": "蓎",
+    "pua": "U+1083B1",
+    "romanized": "tthi"
+  },
+  "SD-E3B2": {
+    "char": "蓂",
+    "pua": "U+1083B2",
+    "romanized": "htu"
+  },
+  "SD-E3B3": {
+    "char": "蒬",
+    "pua": "U+1083B3",
+    "romanized": "drauḥ"
+  },
+  "SD-E3B4": {
+    "char": "蒮",
+    "pua": "U+1083B4",
+    "romanized": "kkai"
+  },
+  "SD-E3B5": {
+    "char": "蒫",
+    "pua": "U+1083B5",
+    "romanized": "ṣprī"
+  },
+  "SD-E3B6": {
+    "char": "蒹",
+    "pua": "U+1083B6",
+    "romanized": "triṃ"
+  },
+  "SD-E3B7": {
+    "char": "蒴",
+    "pua": "U+1083B7",
+    "romanized": "gni"
+  },
+  "SD-E3B8": {
+    "char": "蓁",
+    "pua": "U+1083B8",
+    "romanized": "llī"
+  },
+  "SD-E3B9": {
+    "char": "蓍",
+    "pua": "U+1083B9",
+    "romanized": "nja"
+  },
+  "SD-E3BA": {
+    "char": "蒪",
+    "pua": "U+1083BA",
+    "symbol": "‧"
+  },
+  "SD-E3BB": {
+    "char": "蒚",
+    "pua": "U+1083BB",
+    "romanized": "ha"
+  },
+  "SD-E3BC": {
+    "char": "蒱",
+    "pua": "U+1083BC",
+    "romanized": "ṅvī"
+  },
+  "SD-E3BD": {
+    "char": "蓐",
+    "pua": "U+1083BD",
+    "romanized": "ṅgu"
+  },
+  "SD-E3BE": {
+    "char": "蒝",
+    "pua": "U+1083BE"
+  },
+  "SD-E3BF": {
+    "char": "蒧",
+    "pua": "U+1083BF",
+    "romanized": "ḷ"
+  },
+  "SD-E3C0": {
+    "char": "蒻",
+    "pua": "U+1083C0"
+  },
+  "SD-E3C1": {
+    "char": "蒢",
+    "pua": "U+1083C1",
+    "romanized": "ṛ"
+  },
+  "SD-E3C2": {
+    "char": "蒔",
+    "pua": "U+1083C2",
+    "romanized": "t"
+  },
+  "SD-E3C3": {
+    "char": "蓇",
+    "pua": "U+1083C3",
+    "romanized": "huḥ"
+  },
+  "SD-E3C4": {
+    "char": "蓌",
+    "pua": "U+1083C4",
+    "romanized": "rbhi"
+  },
+  "SD-E3C5": {
+    "char": "蒛",
+    "pua": "U+1083C5",
+    "romanized": "dyā"
+  },
+  "SD-E3C6": {
+    "char": "蒩",
+    "pua": "U+1083C6",
+    "romanized": "ryā"
+  },
+  "SD-E3C7": {
+    "char": "蒯",
+    "pua": "U+1083C7",
+    "romanized": "dū"
+  },
+  "SD-E3C8": {
+    "char": "蒨",
+    "pua": "U+1083C8",
+    "romanized": "yu"
+  },
+  "SD-E3C9": {
+    "char": "蓖",
+    "pua": "U+1083C9",
+    "romanized": "lle"
+  },
+  "SD-E3CA": {
+    "char": "蒘",
+    "pua": "U+1083CA",
+    "romanized": "ṭvā"
+  },
+  "SD-E3CB": {
+    "char": "蒶",
+    "pua": "U+1083CB",
+    "romanized": "dhta"
+  },
+  "SD-E3CC": {
+    "char": "蓏",
+    "pua": "U+1083CC",
+    "romanized": "tssa"
+  },
+  "SD-E3CD": {
+    "char": "蒠",
+    "pua": "U+1083CD",
+    "romanized": "ḍhḍha"
+  },
+  "SD-E3CE": {
+    "char": "蓗",
+    "pua": "U+1083CE",
+    "romanized": "ndha"
+  },
+  "SD-E3CF": {
+    "char": "蓔",
+    "pua": "U+1083CF",
+    "romanized": "dyo"
+  },
+  "SD-E3D0": {
+    "char": "蓒",
+    "pua": "U+1083D0",
+    "romanized": "mja"
+  },
+  "SD-E3D1": {
+    "char": "蓛",
+    "pua": "U+1083D1",
+    "romanized": "vja"
+  },
+  "SD-E3D2": {
+    "char": "蒰",
+    "pua": "U+1083D2",
+    "romanized": "jū"
+  },
+  "SD-E3D3": {
+    "char": "蒑",
+    "pua": "U+1083D3",
+    "romanized": "mca"
+  },
+  "SD-E3D4": {
+    "char": "虡",
+    "pua": "U+1083D4",
+    "romanized": "ṣṇā"
+  },
+  "SD-E3D5": {
+    "char": "蜳",
+    "pua": "U+1083D5",
+    "romanized": "sghā"
+  },
+  "SD-E3D6": {
+    "char": "蜣",
+    "pua": "U+1083D6",
+    "romanized": "dvau"
+  },
+  "SD-E3D7": {
+    "char": "蜨",
+    "pua": "U+1083D7",
+    "romanized": "lpha"
+  },
+  "SD-E3D8": {
+    "char": "蝫",
+    "pua": "U+1083D8",
+    "romanized": "ṣvrī"
+  },
+  "SD-E3D9": {
+    "char": "蝀",
+    "pua": "U+1083D9",
+    "romanized": "śau"
+  },
+  "SD-E3DA": {
+    "char": "蜮",
+    "pua": "U+1083DA",
+    "romanized": "nddha"
+  },
+  "SD-E3DB": {
+    "char": "蜞",
+    "pua": "U+1083DB",
+    "romanized": "ṅja"
+  },
+  "SD-E3DC": {
+    "char": "蜡",
+    "pua": "U+1083DC",
+    "romanized": "ṅca"
+  },
+  "SD-E3DD": {
+    "char": "蜙",
+    "pua": "U+1083DD",
+    "romanized": "tsā"
+  },
+  "SD-E3DE": {
+    "char": "蜛",
+    "pua": "U+1083DE",
+    "romanized": "pu"
+  },
+  "SD-E3DF": {
+    "char": "蝃",
+    "pua": "U+1083DF",
+    "romanized": "tru"
+  },
+  "SD-E3E0": {
+    "char": "蜬",
+    "pua": "U+1083E0",
+    "romanized": "rvā"
+  },
+  "SD-E3E1": {
+    "char": "蝁",
+    "pua": "U+1083E1",
+    "romanized": "ṇḍka"
+  },
+  "SD-E3E2": {
+    "char": "蜾",
+    "pua": "U+1083E2",
+    "romanized": "juṃ"
+  },
+  "SD-E3E3": {
+    "char": "蝆",
+    "pua": "U+1083E3",
+    "romanized": "bhdra"
+  },
+  "SD-E3E4": {
+    "char": "蜠",
+    "pua": "U+1083E4",
+    "romanized": "gṛṃ"
+  },
+  "SD-E3E5": {
+    "char": "蜲",
+    "pua": "U+1083E5",
+    "romanized": "sṛ"
+  },
+  "SD-E3E6": {
+    "char": "蜪",
+    "pua": "U+1083E6"
+  },
+  "SD-E3E7": {
+    "char": "蜭",
+    "pua": "U+1083E7",
+    "romanized": "tyāṃ"
+  },
+  "SD-E3E8": {
+    "char": "蜼",
+    "pua": "U+1083E8",
+    "romanized": "sāṃ"
+  },
+  "SD-E3E9": {
+    "char": "蜒",
+    "pua": "U+1083E9",
+    "romanized": "kkā"
+  },
+  "SD-E3EA": {
+    "char": "蜺",
+    "pua": "U+1083EA",
+    "romanized": "spha"
+  },
+  "SD-E3EB": {
+    "char": "蜱",
+    "pua": "U+1083EB",
+    "romanized": "ṇu"
+  },
+  "SD-E3EC": {
+    "char": "蜵",
+    "pua": "U+1083EC",
+    "romanized": "dśa"
+  },
+  "SD-E3ED": {
+    "char": "蝂",
+    "pua": "U+1083ED",
+    "romanized": "rsu"
+  },
+  "SD-E3EE": {
+    "char": "蜦",
+    "pua": "U+1083EE",
+    "romanized": "dda"
+  },
+  "SD-E3EF": {
+    "char": "蜧",
+    "pua": "U+1083EF",
+    "romanized": "pūṃ"
+  },
+  "SD-E3F0": {
+    "char": "蜸",
+    "pua": "U+1083F0"
+  },
+  "SD-E3F1": {
+    "char": "蜤",
+    "pua": "U+1083F1",
+    "romanized": "dsa"
+  },
+  "SD-E3F2": {
+    "char": "蜚",
+    "pua": "U+1083F2",
+    "romanized": "rra"
+  },
+  "SD-E3F3": {
+    "char": "蜰",
+    "pua": "U+1083F3",
+    "romanized": "tbha"
+  },
+  "SD-E3F4": {
+    "char": "蜑",
+    "pua": "U+1083F4",
+    "romanized": "pgi"
+  },
+  "SD-E3F5": {
+    "char": "裷",
+    "pua": "U+1083F5",
+    "romanized": "yaṃ"
+  },
+  "SD-E3F6": {
+    "char": "裧",
+    "pua": "U+1083F6",
+    "romanized": "snā"
+  },
+  "SD-E3F7": {
+    "char": "裱",
+    "pua": "U+1083F7",
+    "romanized": "pṣe"
+  },
+  "SD-E3F8": {
+    "char": "裲",
+    "pua": "U+1083F8",
+    "romanized": "ntrī"
+  },
+  "SD-E3F9": {
+    "char": "裺",
+    "pua": "U+1083F9",
+    "romanized": "ddhāṃ"
+  },
+  "SD-E3FA": {
+    "char": "裾",
+    "pua": "U+1083FA",
+    "romanized": "hva"
+  },
+  "SD-E3FB": {
+    "char": "裮",
+    "pua": "U+1083FB",
+    "romanized": "lla"
+  },
+  "SD-E3FC": {
+    "char": "裼",
+    "pua": "U+1083FC",
+    "romanized": "ū"
+  },
+  "SD-E3FD": {
+    "char": "裶",
+    "pua": "U+1083FD",
+    "romanized": "u"
+  },
+  "SD-E3FE": {
+    "char": "裻",
+    "pua": "U+1083FE",
+    "romanized": "kṣe"
+  },
+  "SD-E440": {
+    "char": "裰",
+    "pua": "U+108440",
+    "romanized": "śre"
+  },
+  "SD-E441": {
+    "char": "裬",
+    "pua": "U+108441",
+    "romanized": "saṃ"
+  },
+  "SD-E442": {
+    "char": "裫",
+    "pua": "U+108442",
+    "romanized": "rhya"
+  },
+  "SD-E443": {
+    "char": "覝",
+    "pua": "U+108443",
+    "romanized": "mva"
+  },
+  "SD-E444": {
+    "char": "覡",
+    "pua": "U+108444",
+    "romanized": "vya"
+  },
+  "SD-E445": {
+    "char": "覟",
+    "pua": "U+108445",
+    "romanized": "dhā"
+  },
+  "SD-E446": {
+    "char": "覞",
+    "pua": "U+108446",
+    "romanized": "ṅga"
+  },
+  "SD-E459": {
+    "char": "跿",
+    "pua": "U+108459",
+    "symbol": "？"
+  },
+  "SD-E463": {
+    "char": "踄",
+    "pua": "U+108463"
+  },
+  "SD-E466": {
+    "char": "輎",
+    "pua": "U+108466",
+    "romanized": "stre"
+  },
+  "SD-E467": {
+    "char": "輍",
+    "pua": "U+108467",
+    "romanized": "rghaṃ"
+  },
+  "SD-E468": {
+    "char": "鄣",
+    "pua": "U+108468",
+    "romanized": "jmaṃ"
+  },
+  "SD-E469": {
+    "char": "鄜",
+    "pua": "U+108469",
+    "romanized": "ndhāḥ"
+  },
+  "SD-E46A": {
+    "char": "鄠",
+    "pua": "U+10846A",
+    "romanized": "ttiṃ"
+  },
+  "SD-E46B": {
+    "char": "鄢",
+    "pua": "U+10846B",
+    "romanized": "ṣphu"
+  },
+  "SD-E46C": {
+    "char": "鄟",
+    "pua": "U+10846C",
+    "romanized": "svu"
+  },
+  "SD-E46D": {
+    "char": "鄝",
+    "pua": "U+10846D",
+    "romanized": "seṃ"
+  },
+  "SD-E46E": {
+    "char": "鄚",
+    "pua": "U+10846E"
+  },
+  "SD-E46F": {
+    "char": "鄤",
+    "pua": "U+10846F",
+    "romanized": "kra"
+  },
+  "SD-E470": {
+    "char": "鄡",
+    "pua": "U+108470"
+  },
+  "SD-E471": {
+    "char": "鄛",
+    "pua": "U+108471",
+    "romanized": "maṃ"
+  },
+  "SD-E472": {
+    "char": "酺",
+    "pua": "U+108472",
+    "romanized": "sāḥ"
+  },
+  "SD-E473": {
+    "char": "酲",
+    "pua": "U+108473",
+    "romanized": "māḥ"
+  },
+  "SD-E47A": {
+    "char": "鉺",
+    "pua": "U+10847A",
+    "romanized": "n"
+  },
+  "SD-E47B": {
+    "char": "銠",
+    "pua": "U+10847B"
+  },
+  "SD-E47C": {
+    "char": "銔",
+    "pua": "U+10847C",
+    "romanized": "rvva"
+  },
+  "SD-E47D": {
+    "char": "銪",
+    "pua": "U+10847D",
+    "romanized": "l"
+  },
+  "SD-E47E": {
+    "char": "銍",
+    "pua": "U+10847E"
+  },
+  "SD-E4A1": {
+    "char": "銦",
+    "pua": "U+1084A1"
+  },
+  "SD-E4A2": {
+    "char": "銚",
+    "pua": "U+1084A2",
+    "romanized": "mda"
+  },
+  "SD-E4A3": {
+    "char": "銫",
+    "pua": "U+1084A3"
+  },
+  "SD-E4A4": {
+    "char": "鉹",
+    "pua": "U+1084A4",
+    "romanized": "sṭhu"
+  },
+  "SD-E4A5": {
+    "char": "銗",
+    "pua": "U+1084A5",
+    "romanized": "dda"
+  },
+  "SD-E4A6": {
+    "char": "鉿",
+    "pua": "U+1084A6",
+    "romanized": "bhyo"
+  },
+  "SD-E4A7": {
+    "char": "銣",
+    "pua": "U+1084A7"
+  },
+  "SD-E4A8": {
+    "char": "鋮",
+    "pua": "U+1084A8"
+  },
+  "SD-E4A9": {
+    "char": "銎",
+    "pua": "U+1084A9"
+  },
+  "SD-E4AA": {
+    "char": "銂",
+    "pua": "U+1084AA",
+    "romanized": "sṭa"
+  },
+  "SD-E4AB": {
+    "char": "銕",
+    "pua": "U+1084AB",
+    "romanized": "rṭha"
+  },
+  "SD-E4AC": {
+    "char": "銢",
+    "pua": "U+1084AC",
+    "romanized": "pti"
+  },
+  "SD-E4AD": {
+    "char": "鉽",
+    "pua": "U+1084AD"
+  },
+  "SD-E4AE": {
+    "char": "銈",
+    "pua": "U+1084AE",
+    "romanized": "rya"
+  },
+  "SD-E4AF": {
+    "char": "銡",
+    "pua": "U+1084AF",
+    "romanized": "mṛe"
+  },
+  "SD-E4B0": {
+    "char": "銊",
+    "pua": "U+1084B0",
+    "romanized": "kṭa"
+  },
+  "SD-E4B1": {
+    "char": "銆",
+    "pua": "U+1084B1",
+    "romanized": "cyā"
+  },
+  "SD-E4B2": {
+    "char": "銌",
+    "pua": "U+1084B2"
+  },
+  "SD-E4B3": {
+    "char": "銙",
+    "pua": "U+1084B3",
+    "romanized": "dhū"
+  },
+  "SD-E4B4": {
+    "char": "銧",
+    "pua": "U+1084B4",
+    "romanized": "khto"
+  },
+  "SD-E4B5": {
+    "char": "鉾",
+    "pua": "U+1084B5",
+    "romanized": "ṣpī"
+  },
+  "SD-E4B6": {
+    "char": "銇",
+    "pua": "U+1084B6",
+    "romanized": "ṣpā"
+  },
+  "SD-E4B7": {
+    "char": "銩",
+    "pua": "U+1084B7",
+    "romanized": "nmā"
+  },
+  "SD-E4B8": {
+    "char": "銝",
+    "pua": "U+1084B8",
+    "romanized": "tyā"
+  },
+  "SD-E4B9": {
+    "char": "銋",
+    "pua": "U+1084B9",
+    "romanized": "bhyā"
+  },
+  "SD-E4BA": {
+    "char": "鈭",
+    "pua": "U+1084BA",
+    "romanized": "bda"
+  },
+  "SD-E4BB": {
+    "char": "隞",
+    "pua": "U+1084BB",
+    "romanized": "ddho"
+  },
+  "SD-E4BC": {
+    "char": "隡",
+    "pua": "U+1084BC",
+    "romanized": "ddhai"
+  },
+  "SD-E4BD": {
+    "char": "雿",
+    "pua": "U+1084BD",
+    "romanized": "tdhā"
+  },
+  "SD-E4BE": {
+    "char": "靘",
+    "pua": "U+1084BE",
+    "romanized": "treḥ"
+  },
+  "SD-E4BF": {
+    "char": "靽",
+    "pua": "U+1084BF",
+    "romanized": "nṭyū"
+  },
+  "SD-E4C0": {
+    "char": "靺",
+    "pua": "U+1084C0",
+    "romanized": "ṣchu"
+  },
+  "SD-E4C1": {
+    "char": "靾",
+    "pua": "U+1084C1",
+    "romanized": "ṇci"
+  },
+  "SD-E4C2": {
+    "char": "鞃",
+    "pua": "U+1084C2",
+    "romanized": "ṇca"
+  },
+  "SD-E4C3": {
+    "char": "鞀",
+    "pua": "U+1084C3",
+    "romanized": "thdā"
+  },
+  "SD-E4C4": {
+    "char": "鞂",
+    "pua": "U+1084C4",
+    "romanized": "lāṃ"
+  },
+  "SD-E4C5": {
+    "char": "靻",
+    "pua": "U+1084C5",
+    "romanized": "śaṃ"
+  },
+  "SD-E4C6": {
+    "char": "鞄",
+    "pua": "U+1084C6"
+  },
+  "SD-E4C7": {
+    "char": "鞁",
+    "pua": "U+1084C7",
+    "romanized": "ktaṃ"
+  },
+  "SD-E4C8": {
+    "char": "靿",
+    "pua": "U+1084C8",
+    "romanized": "rnta"
+  },
+  "SD-E4C9": {
+    "char": "韎",
+    "pua": "U+1084C9",
+    "romanized": "jya"
+  },
+  "SD-E4CA": {
+    "char": "韍",
+    "pua": "U+1084CA",
+    "romanized": "ṣtva"
+  },
+  "SD-E4CB": {
+    "char": "頖",
+    "pua": "U+1084CB"
+  },
+  "SD-E4CC": {
+    "char": "颭",
+    "pua": "U+1084CC",
+    "romanized": "āḥ"
+  },
+  "SD-E4CD": {
+    "char": "颮",
+    "pua": "U+1084CD",
+    "romanized": "ṇi"
+  },
+  "SD-E4CE": {
+    "char": "餂",
+    "pua": "U+1084CE"
+  },
+  "SD-E4CF": {
+    "char": "餀",
+    "pua": "U+1084CF",
+    "romanized": "ṣṇḍa"
+  },
+  "SD-E4D0": {
+    "char": "餇",
+    "pua": "U+1084D0"
+  },
+  "SD-E4D1": {
+    "char": "馝",
+    "pua": "U+1084D1",
+    "romanized": "jṇa"
+  },
+  "SD-E4D2": {
+    "char": "馜",
+    "pua": "U+1084D2",
+    "romanized": "ṇai"
+  },
+  "SD-E4D3": {
+    "char": "駃",
+    "pua": "U+1084D3",
+    "romanized": "gaṃ"
+  },
+  "SD-E4D4": {
+    "char": "馹",
+    "pua": "U+1084D4",
+    "romanized": "jaṃ"
+  },
+  "SD-E4D5": {
+    "char": "馻",
+    "pua": "U+1084D5",
+    "romanized": "hrūṃ"
+  },
+  "SD-E4D6": {
+    "char": "馺",
+    "pua": "U+1084D6",
+    "romanized": "ṣpre"
+  },
+  "SD-E4D7": {
+    "char": "駂",
+    "pua": "U+1084D7",
+    "romanized": "śāṃ"
+  },
+  "SD-E4D8": {
+    "char": "馽",
+    "pua": "U+1084D8",
+    "romanized": "rdṛ"
+  },
+  "SD-E4D9": {
+    "char": "駇",
+    "pua": "U+1084D9",
+    "romanized": "ciṃ"
+  },
+  "SD-E4DA": {
+    "char": "骱",
+    "pua": "U+1084DA",
+    "romanized": "lpa"
+  },
+  "SD-E4DB": {
+    "char": "髣",
+    "pua": "U+1084DB",
+    "romanized": "yeḥ"
+  },
+  "SD-E4DC": {
+    "char": "髧",
+    "pua": "U+1084DC",
+    "romanized": "āḥ"
+  },
+  "SD-E4DD": {
+    "char": "鬾",
+    "pua": "U+1084DD",
+    "romanized": "ṇe"
+  },
+  "SD-E4DE": {
+    "char": "鬿",
+    "pua": "U+1084DE"
+  },
+  "SD-E4DF": {
+    "char": "魠",
+    "pua": "U+1084DF",
+    "romanized": "ṇaṃ"
+  },
+  "SD-E4E0": {
+    "char": "魡",
+    "pua": "U+1084E0",
+    "romanized": "ṇaḥ"
+  },
+  "SD-E4E1": {
+    "char": "魟",
+    "pua": "U+1084E1",
+    "romanized": "ṇḍa"
+  },
+  "SD-E4E2": {
+    "char": "鳱",
+    "pua": "U+1084E2",
+    "romanized": "ṅṅi"
+  },
+  "SD-E4E3": {
+    "char": "鳲",
+    "pua": "U+1084E3"
+  },
+  "SD-E4E4": {
+    "char": "鳵",
+    "pua": "U+1084E4",
+    "romanized": "lbha"
+  },
+  "SD-E4E5": {
+    "char": "麧",
+    "pua": "U+1084E5"
+  },
+  "SD-E4E6": {
+    "char": "僿",
+    "pua": "U+1084E6"
+  },
+  "SD-E4E7": {
+    "char": "儃",
+    "pua": "U+1084E7",
+    "romanized": "kṝ"
+  },
+  "SD-E4E8": {
+    "char": "儰",
+    "pua": "U+1084E8",
+    "romanized": "kḷ"
+  },
+  "SD-E4E9": {
+    "char": "僸",
+    "pua": "U+1084E9",
+    "romanized": "kḹ"
+  },
+  "SD-E4EA": {
+    "char": "儆",
+    "pua": "U+1084EA",
+    "romanized": "huṃ"
+  },
+  "SD-E4EB": {
+    "char": "儇",
+    "pua": "U+1084EB"
+  },
+  "SD-E4EC": {
+    "char": "僶",
+    "pua": "U+1084EC",
+    "romanized": "ṭā"
+  },
+  "SD-E4ED": {
+    "char": "僾",
+    "pua": "U+1084ED",
+    "romanized": "ṭaḥ"
+  },
+  "SD-E4EE": {
+    "char": "儋",
+    "pua": "U+1084EE",
+    "romanized": "ṇca"
+  },
+  "SD-E4EF": {
+    "char": "儌",
+    "pua": "U+1084EF"
+  },
+  "SD-E4F0": {
+    "char": "僽",
+    "pua": "U+1084F0"
+  },
+  "SD-E4F1": {
+    "char": "儊",
+    "pua": "U+1084F1",
+    "romanized": "ṇyā"
+  },
+  "SD-E4F2": {
+    "char": "劋",
+    "pua": "U+1084F2",
+    "romanized": "śrīḥ"
+  },
+  "SD-E4F7": {
+    "char": "噂",
+    "pua": "U+1084F7",
+    "romanized": "nu"
+  },
+  "SD-E4F8": {
+    "char": "噌",
+    "pua": "U+1084F8",
+    "romanized": "dmāṃ"
+  },
+  "SD-E4F9": {
+    "char": "嘵",
+    "pua": "U+1084F9",
+    "romanized": "ṭūṃ"
+  },
+  "SD-E4FA": {
+    "char": "噁",
+    "pua": "U+1084FA",
+    "romanized": "trūṃ"
+  },
+  "SD-E4FB": {
+    "char": "噊",
+    "pua": "U+1084FB",
+    "romanized": "ṇco"
+  },
+  "SD-E4FC": {
+    "char": "噉",
+    "pua": "U+1084FC",
+    "romanized": "ḍmu"
+  },
+  "SD-E4FD": {
+    "char": "噆",
+    "pua": "U+1084FD",
+    "romanized": "phaṭ"
+  },
+  "SD-E4FE": {
+    "char": "噘",
+    "pua": "U+1084FE",
+    "romanized": "vāṃ"
+  },
+  "SD-E540": {
+    "char": "噚",
+    "pua": "U+108540",
+    "romanized": "mbhuḥ"
+  },
+  "SD-E541": {
+    "char": "噀",
+    "pua": "U+108541",
+    "romanized": "ṭrūṃ"
+  },
+  "SD-E542": {
+    "char": "嘳",
+    "pua": "U+108542",
+    "romanized": "drūṃ"
+  },
+  "SD-E543": {
+    "char": "嘽",
+    "pua": "U+108543",
+    "romanized": "ttāṃ"
+  },
+  "SD-E544": {
+    "char": "嘬",
+    "pua": "U+108544",
+    "romanized": "ṣpra"
+  },
+  "SD-E545": {
+    "char": "嘾",
+    "pua": "U+108545",
+    "romanized": "kṣṇa"
+  },
+  "SD-E546": {
+    "char": "嘸",
+    "pua": "U+108546",
+    "romanized": "ṣū"
+  },
+  "SD-E547": {
+    "char": "嘪",
+    "pua": "U+108547",
+    "romanized": "ḍga"
+  },
+  "SD-E548": {
+    "char": "嘺",
+    "pua": "U+108548",
+    "romanized": "pāṃ"
+  },
+  "SD-E549": {
+    "char": "圚",
+    "pua": "U+108549",
+    "romanized": "ndhya"
+  },
+  "SD-E54A": {
+    "char": "墫",
+    "pua": "U+10854A",
+    "romanized": "rṇṇa"
+  },
+  "SD-E54B": {
+    "char": "墝",
+    "pua": "U+10854B",
+    "romanized": "tkṣa"
+  },
+  "SD-E54C": {
+    "char": "墱",
+    "pua": "U+10854C",
+    "romanized": "yye"
+  },
+  "SD-E54D": {
+    "char": "墠",
+    "pua": "U+10854D",
+    "romanized": "tkṣi"
+  },
+  "SD-E54E": {
+    "char": "墣",
+    "pua": "U+10854E",
+    "romanized": "ṇcu"
+  },
+  "SD-E54F": {
+    "char": "墯",
+    "pua": "U+10854F",
+    "romanized": "vyāṃ"
+  },
+  "SD-E550": {
+    "char": "墬",
+    "pua": "U+108550",
+    "romanized": "yū"
+  },
+  "SD-E551": {
+    "char": "墥",
+    "pua": "U+108551",
+    "romanized": "ṣpi"
+  },
+  "SD-E552": {
+    "char": "墡",
+    "pua": "U+108552",
+    "romanized": "tku"
+  },
+  "SD-E553": {
+    "char": "壿",
+    "pua": "U+108553",
+    "romanized": "bdhe"
+  },
+  "SD-E554": {
+    "char": "嫿",
+    "pua": "U+108554",
+    "romanized": "ṣtha"
+  },
+  "SD-E555": {
+    "char": "嫴",
+    "pua": "U+108555",
+    "romanized": "jṇi"
+  },
+  "SD-E556": {
+    "char": "嫽",
+    "pua": "U+108556",
+    "romanized": "rbu"
+  },
+  "SD-E557": {
+    "char": "嫷",
+    "pua": "U+108557",
+    "romanized": "khū"
+  },
+  "SD-E558": {
+    "char": "嫶",
+    "pua": "U+108558",
+    "romanized": "ñḍha"
+  },
+  "SD-E559": {
+    "char": "嬃",
+    "pua": "U+108559",
+    "romanized": "bdhi"
+  },
+  "SD-E55A": {
+    "char": "嫸",
+    "pua": "U+10855A",
+    "romanized": "cce"
+  },
+  "SD-E55B": {
+    "char": "嬂",
+    "pua": "U+10855B",
+    "romanized": "cchlhīṃ"
+  },
+  "SD-E55C": {
+    "char": "嫹",
+    "pua": "U+10855C",
+    "romanized": "cchna"
+  },
+  "SD-E55D": {
+    "char": "嬁",
+    "pua": "U+10855D",
+    "romanized": "cchri"
+  },
+  "SD-E55E": {
+    "char": "嬇",
+    "pua": "U+10855E",
+    "romanized": "cchu"
+  },
+  "SD-E55F": {
+    "char": "嬅",
+    "pua": "U+10855F",
+    "romanized": "cchū"
+  },
+  "SD-E560": {
+    "char": "嬏",
+    "pua": "U+108560",
+    "romanized": "cco"
+  },
+  "SD-E561": {
+    "char": "屧",
+    "pua": "U+108561",
+    "romanized": "cū"
+  },
+  "SD-E562": {
+    "char": "嶙",
+    "pua": "U+108562",
+    "romanized": "dca"
+  },
+  "SD-E563": {
+    "char": "嶗",
+    "pua": "U+108563",
+    "romanized": "ddhaḥ"
+  },
+  "SD-E564": {
+    "char": "嶟",
+    "pua": "U+108564",
+    "romanized": "dhūḥ"
+  },
+  "SD-E565": {
+    "char": "嶒",
+    "pua": "U+108565",
+    "romanized": "dhuṃ"
+  },
+  "SD-E566": {
+    "char": "嶢",
+    "pua": "U+108566",
+    "romanized": "dhyū"
+  },
+  "SD-E567": {
+    "char": "嶓",
+    "pua": "U+108567",
+    "romanized": "dkho"
+  },
+  "SD-E568": {
+    "char": "嶕",
+    "pua": "U+108568",
+    "romanized": "drūṃ"
+  },
+  "SD-E569": {
+    "char": "嶠",
+    "pua": "U+108569",
+    "romanized": "gbha"
+  },
+  "SD-E56A": {
+    "char": "嶜",
+    "pua": "U+10856A",
+    "romanized": "ghū"
+  },
+  "SD-E56B": {
+    "char": "嶡",
+    "pua": "U+10856B",
+    "romanized": "ghuṃ"
+  },
+  "SD-E56C": {
+    "char": "嶚",
+    "pua": "U+10856C",
+    "romanized": "gnyu"
+  },
+  "SD-E56D": {
+    "char": "嶞",
+    "pua": "U+10856D",
+    "romanized": "jñī"
+  },
+  "SD-E56E": {
+    "char": "幩",
+    "pua": "U+10856E",
+    "romanized": "jrīḥ"
+  },
+  "SD-E56F": {
+    "char": "幝",
+    "pua": "U+10856F",
+    "romanized": "kruṃ"
+  },
+  "SD-E570": {
+    "char": "幠",
+    "pua": "U+108570",
+    "romanized": "lkā"
+  },
+  "SD-E571": {
+    "char": "幜",
+    "pua": "U+108571",
+    "romanized": "lpā"
+  },
+  "SD-E572": {
+    "char": "緳",
+    "pua": "U+108572",
+    "romanized": "lpe"
+  },
+  "SD-E573": {
+    "char": "廛",
+    "pua": "U+108573",
+    "romanized": "lūṃ"
+  },
+  "SD-E574": {
+    "char": "廞",
+    "pua": "U+108574",
+    "romanized": "mme"
+  },
+  "SD-E575": {
+    "char": "廡",
+    "pua": "U+108575",
+    "romanized": "ṇḍīṃ"
+  },
+  "SD-E576": {
+    "char": "彉",
+    "pua": "U+108576",
+    "romanized": "ndya"
+  },
+  "SD-E577": {
+    "char": "徲",
+    "pua": "U+108577",
+    "romanized": "ndye"
+  },
+  "SD-E578": {
+    "char": "憋",
+    "pua": "U+108578",
+    "romanized": "ndyo"
+  },
+  "SD-E579": {
+    "char": "憃",
+    "pua": "U+108579",
+    "romanized": "nka"
+  },
+  "SD-E57A": {
+    "char": "慹",
+    "pua": "U+10857A",
+    "romanized": "nku"
+  },
+  "SD-E57B": {
+    "char": "憱",
+    "pua": "U+10857B",
+    "romanized": "npi"
+  },
+  "SD-E57C": {
+    "char": "憰",
+    "pua": "U+10857C",
+    "romanized": "npri"
+  },
+  "SD-E57D": {
+    "char": "憢",
+    "pua": "U+10857D",
+    "romanized": "npū"
+  },
+  "SD-E57E": {
+    "char": "憉",
+    "pua": "U+10857E",
+    "romanized": "ntrāṃ"
+  },
+  "SD-E5A1": {
+    "char": "憛",
+    "pua": "U+1085A1",
+    "romanized": "ṇu"
+  },
+  "SD-E5A2": {
+    "char": "憓",
+    "pua": "U+1085A2",
+    "romanized": "phu"
+  },
+  "SD-E5A3": {
+    "char": "憯",
+    "pua": "U+1085A3",
+    "romanized": "phuḥ"
+  },
+  "SD-E5A4": {
+    "char": "憭",
+    "pua": "U+1085A4",
+    "romanized": "pruṃ"
+  },
+  "SD-E5A5": {
+    "char": "憟",
+    "pua": "U+1085A5",
+    "romanized": "ptiṃ"
+  },
+  "SD-E5A6": {
+    "char": "憒",
+    "pua": "U+1085A6",
+    "romanized": "puḥ"
+  },
+  "SD-E5A7": {
+    "char": "憪",
+    "pua": "U+1085A7",
+    "romanized": "rcū"
+  },
+  "SD-E5A8": {
+    "char": "憡",
+    "pua": "U+1085A8",
+    "romanized": "rmme"
+  },
+  "SD-E5A9": {
+    "char": "憍",
+    "pua": "U+1085A9",
+    "romanized": "rmmi"
+  },
+  "SD-E5AA": {
+    "char": "慦",
+    "pua": "U+1085AA",
+    "romanized": "rṇṇī"
+  },
+  "SD-E5AB": {
+    "char": "憳",
+    "pua": "U+1085AB",
+    "romanized": "ṣkṛ"
+  },
+  "SD-E5AC": {
+    "char": "戭",
+    "pua": "U+1085AC",
+    "romanized": "ṣpaṃ"
+  },
+  "SD-E5AD": {
+    "char": "摮",
+    "pua": "U+1085AD",
+    "romanized": "sphuḥ"
+  },
+  "SD-E5AE": {
+    "char": "摰",
+    "pua": "U+1085AE",
+    "romanized": "stāṃ"
+  },
+  "SD-E5AF": {
+    "char": "撖",
+    "pua": "U+1085AF",
+    "romanized": "stṛ"
+  },
+  "SD-E5B0": {
+    "char": "撠",
+    "pua": "U+1085B0",
+    "romanized": "ṣṭraṃ"
+  },
+  "SD-E5B1": {
+    "char": "撅",
+    "pua": "U+1085B1",
+    "romanized": "thiṃ"
+  },
+  "SD-E5B2": {
+    "char": "撗",
+    "pua": "U+1085B2",
+    "romanized": "ṭhū"
+  },
+  "SD-E5B3": {
+    "char": "撜",
+    "pua": "U+1085B3",
+    "romanized": "tkhe"
+  },
+  "SD-E5B4": {
+    "char": "撏",
+    "pua": "U+1085B4",
+    "romanized": "tmu"
+  },
+  "SD-E5B5": {
+    "char": "撋",
+    "pua": "U+1085B5",
+    "romanized": "tpha"
+  },
+  "SD-E5B6": {
+    "char": "撊",
+    "pua": "U+1085B6",
+    "romanized": "tphu"
+  },
+  "SD-E5B7": {
+    "char": "撌",
+    "pua": "U+1085B7",
+    "romanized": "tpra"
+  },
+  "SD-E5B8": {
+    "char": "撣",
+    "pua": "U+1085B8",
+    "romanized": "troṃ"
+  },
+  "SD-E5B9": {
+    "char": "撟",
+    "pua": "U+1085B9",
+    "romanized": "tsaṃ"
+  },
+  "SD-E5BA": {
+    "char": "摨",
+    "pua": "U+1085BA",
+    "romanized": "ttroṃ"
+  },
+  "SD-E5BB": {
+    "char": "撱",
+    "pua": "U+1085BB",
+    "romanized": "ttruṃ"
+  },
+  "SD-E5BC": {
+    "char": "撘",
+    "pua": "U+1085BC",
+    "romanized": "ttrūṃ"
+  },
+  "SD-E5BD": {
+    "char": "敶",
+    "pua": "U+1085BD",
+    "romanized": "ṅgni"
+  },
+  "SD-E5BE": {
+    "char": "敺",
+    "pua": "U+1085BE",
+    "romanized": "ṅgṛ"
+  },
+  "SD-E5BF": {
+    "char": "敹",
+    "pua": "U+1085BF",
+    "romanized": "ṅgra"
+  },
+  "SD-E5C0": {
+    "char": "敻",
+    "pua": "U+1085C0",
+    "romanized": "ṅhiṃ"
+  },
+  "SD-E5C1": {
+    "char": "斲",
+    "pua": "U+1085C1",
+    "romanized": "ṅkṛ"
+  },
+  "SD-E5C2": {
+    "char": "斳",
+    "pua": "U+1085C2",
+    "romanized": "ṅkru"
+  },
+  "SD-E5C3": {
+    "char": "暵",
+    "pua": "U+1085C3",
+    "romanized": "śu"
+  },
+  "SD-E5C4": {
+    "char": "暰",
+    "pua": "U+1085C4",
+    "romanized": "jāṃ"
+  },
+  "SD-E5C5": {
+    "char": "暩",
+    "pua": "U+1085C5",
+    "romanized": "ḍhāṃ"
+  },
+  "SD-E5C6": {
+    "char": "暲",
+    "pua": "U+1085C6",
+    "romanized": "nū"
+  },
+  "SD-E5C7": {
+    "char": "暷",
+    "pua": "U+1085C7",
+    "romanized": "bū"
+  },
+  "SD-E5C8": {
+    "char": "暪",
+    "pua": "U+1085C8",
+    "romanized": "lke"
+  },
+  "SD-E5C9": {
+    "char": "暯",
+    "pua": "U+1085C9",
+    "romanized": "lū"
+  },
+  "SD-E5CA": {
+    "char": "樀",
+    "pua": "U+1085CA",
+    "romanized": "ntye"
+  },
+  "SD-E5CB": {
+    "char": "樆",
+    "pua": "U+1085CB",
+    "romanized": "ndhāṃ"
+  },
+  "SD-E5CC": {
+    "char": "樗",
+    "pua": "U+1085CC",
+    "romanized": "mbū"
+  },
+  "SD-E5CD": {
+    "char": "槥",
+    "pua": "U+1085CD",
+    "romanized": "cchraṃ"
+  },
+  "SD-E5CE": {
+    "char": "槸",
+    "pua": "U+1085CE",
+    "romanized": "ntro"
+  },
+  "SD-E5CF": {
+    "char": "樕",
+    "pua": "U+1085CF",
+    "romanized": "ṅkya"
+  },
+  "SD-E5D0": {
+    "char": "槱",
+    "pua": "U+1085D0",
+    "romanized": "vyū"
+  },
+  "SD-E5D1": {
+    "char": "槤",
+    "pua": "U+1085D1",
+    "romanized": "gnya"
+  },
+  "SD-E5D2": {
+    "char": "樠",
+    "pua": "U+1085D2",
+    "romanized": "nnāṃ"
+  },
+  "SD-E5D3": {
+    "char": "槿",
+    "pua": "U+1085D3",
+    "romanized": "nke"
+  },
+  "SD-E5D4": {
+    "char": "槬",
+    "pua": "U+1085D4",
+    "romanized": "jṇo"
+  },
+  "SD-E5D5": {
+    "char": "槢",
+    "pua": "U+1085D5",
+    "romanized": "jṇe"
+  },
+  "SD-E5D6": {
+    "char": "樛",
+    "pua": "U+1085D6",
+    "romanized": "jṇī"
+  },
+  "SD-E5D7": {
+    "char": "樝",
+    "pua": "U+1085D7",
+    "romanized": "dhvā"
+  },
+  "SD-E5D8": {
+    "char": "槾",
+    "pua": "U+1085D8",
+    "romanized": "ḍgi"
+  },
+  "SD-E5D9": {
+    "char": "樧",
+    "pua": "U+1085D9",
+    "romanized": "rṇṇā"
+  },
+  "SD-E5DA": {
+    "char": "槲",
+    "pua": "U+1085DA",
+    "romanized": "rjje"
+  },
+  "SD-E5DB": {
+    "char": "槮",
+    "pua": "U+1085DB",
+    "romanized": "rthāṃ"
+  },
+  "SD-E5DC": {
+    "char": "樔",
+    "pua": "U+1085DC",
+    "romanized": "dkhū"
+  },
+  "SD-E5DD": {
+    "char": "槷",
+    "pua": "U+1085DD",
+    "romanized": "ndrāṃ"
+  },
+  "SD-E5DE": {
+    "char": "槧",
+    "pua": "U+1085DE",
+    "romanized": "bdha"
+  },
+  "SD-E5DF": {
+    "char": "橀",
+    "pua": "U+1085DF",
+    "romanized": "rṣāṃ"
+  },
+  "SD-E5E0": {
+    "char": "樈",
+    "pua": "U+1085E0",
+    "romanized": "ntrū"
+  },
+  "SD-E5E1": {
+    "char": "槦",
+    "pua": "U+1085E1",
+    "romanized": "ddhyā"
+  },
+  "SD-E5E2": {
+    "char": "槻",
+    "pua": "U+1085E2",
+    "romanized": "grāṃ"
+  },
+  "SD-E5E3": {
+    "char": "樍",
+    "pua": "U+1085E3",
+    "romanized": "ṇḍiṃ"
+  }
+}
