@@ -36,7 +36,7 @@
 
 * char : 直接呈現的字型 (此 char 即 XXXX 在 big5 字集的內碼所呈現的文字)。
 
-* pua : 預計使用 Unicode 私人用區的位置。悉曇字為 0xFA00 + XXXX。蘭扎為 0x100000 + XXXX。
+* pua : 預計使用 Unicode 私人用區的位置。悉曇字為 0xFA000 + XXXX。蘭扎為 0x100000 + XXXX。
 
 * romanized : 此梵字的羅馬拼音，此欄位不一定存在。
 
