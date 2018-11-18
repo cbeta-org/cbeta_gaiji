@@ -20,9 +20,13 @@
 
 * moe_variant_id : [教育部異體字字典網站](http://dict.variants.moe.edu.tw/variants/rbt/home.do "教育部異體字字典")的編號。
 
+* pua : 預計使用 Unicode 私人用區的位置，內容為 0xF0000 + ID代碼。
+
 ### 備註說明：
 
 * unicode 與 uni_char 為一組，norm_unicode 與 norm_uni_char 為一組，這二組不會同時有資料。
+
+* 沒有呈現的欄位表示沒有資料。
 
 ---
 
@@ -41,3 +45,7 @@
 * romanized : 此梵字的羅馬拼音，此欄位不一定存在。
 
 * symbol : 此梵字可以直接使用此 symbol 符號來表示，此欄位不一定存在。
+
+### 備註說明：
+
+* 沒有呈現的欄位表示沒有資料。
