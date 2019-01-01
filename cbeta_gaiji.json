@@ -45333,6 +45333,8 @@
     "pua": "U+F1BA9"
   },
   "CB07082": {
+    "unicode": "200BC",
+    "uni_char": "𠂼",
     "composition": "[?丳]",
     "norm_big5_char": "扂",
     "moe_variant_id": "b01241-001",
@@ -171335,5 +171337,35 @@
     "uni_char": "㈩",
     "composition": "[（十）]",
     "pua": "U+F8723"
+  },
+  "CB34596": {
+    "unicode": "26A32",
+    "uni_char": "𦨲",
+    "composition": "[舟*氾]",
+    "moe_variant_id": "C11280",
+    "pua": "U+F8724"
+  },
+  "CB34597": {
+    "unicode": "26A0C",
+    "uni_char": "𦨌",
+    "composition": "[夗-夕+舟]",
+    "moe_variant_id": "c11274-001",
+    "pua": "U+F8725"
+  },
+  "CB34598": {
+    "unicode": "25743",
+    "uni_char": "𥝃",
+    "composition": "[弗/禺]",
+    "norm_big5_char": "狒",
+    "moe_variant_id": "b02512-002",
+    "pua": "U+F8726"
+  },
+  "CB34599": {
+    "unicode": "25746",
+    "uni_char": "𥝆",
+    "composition": "[禺-曰+(曰/臼)]",
+    "norm_big5_char": "狒",
+    "moe_variant_id": "b02512-009",
+    "pua": "U+F8727"
   }
 }
