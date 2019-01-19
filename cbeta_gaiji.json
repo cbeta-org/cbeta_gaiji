@@ -17510,6 +17510,7 @@
     "unicode": "4630",
     "uni_char": "䘰",
     "composition": "[袖-由+延]",
+    "moe_variant_id": "C12688",
     "pua": "U+F0A60"
   },
   "CB02657": {
@@ -116490,6 +116491,8 @@
     "pua": "U+F5730"
   },
   "CB22321": {
+    "unicode": "253E0",
+    "uni_char": "𥏠",
     "composition": "[矢*卑]",
     "pua": "U+F5731"
   },
@@ -121183,7 +121186,11 @@
     "pua": "U+F5BDB"
   },
   "CB23516": {
+    "unicode": "21486",
+    "uni_char": "𡒆",
     "composition": "[土*寘]",
+    "norm_big5_char": "填",
+    "moe_variant_id": "a00799-005",
     "pua": "U+F5BDC"
   },
   "CB23517": {
@@ -123000,6 +123007,8 @@
     "pua": "U+F5DA2"
   },
   "CB23971": {
+    "norm_unicode": "24B45",
+    "norm_uni_char": "𤭅",
     "composition": "[瓦*并]",
     "pua": "U+F5DA3"
   },
@@ -124348,6 +124357,8 @@
     "pua": "U+F5EF4"
   },
   "CB24309": {
+    "unicode": "2C0F7",
+    "uni_char": "𬃷",
     "composition": "[束/束]",
     "moe_variant_id": "a01956-013",
     "pua": "U+F5EF5"
@@ -125056,6 +125067,8 @@
     "pua": "U+F5FA2"
   },
   "CB24483": {
+    "unicode": "23507",
+    "uni_char": "𣔇",
     "composition": "[知/木]",
     "pua": "U+F5FA3"
   },
@@ -129893,7 +129906,10 @@
     "pua": "U+F646D"
   },
   "CB25710": {
+    "unicode": "245CF",
+    "uni_char": "𤗏",
     "composition": "[培-土+片]",
+    "moe_variant_id": "C06976",
     "pua": "U+F646E"
   },
   "CB25711": {
@@ -142872,6 +142888,8 @@
     "pua": "U+F7180"
   },
   "CB29057": {
+    "unicode": "2499A",
+    "uni_char": "𤦚",
     "composition": "[王*具]",
     "pua": "U+F7181"
   },
