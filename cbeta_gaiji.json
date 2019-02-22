@@ -105722,6 +105722,8 @@
     "pua": "U+F47EC"
   },
   "CB18413": {
+    "unicode": "2B0E0",
+    "uni_char": "𫃠",
     "composition": "[糸*包]",
     "norm_big5_char": "絕",
     "moe_variant_id": "a03117-011",
@@ -171385,5 +171387,13 @@
     "norm_big5_char": "狒",
     "moe_variant_id": "b02512-009",
     "pua": "U+F8727"
+  },
+  "CB34600": {
+    "unicode": "5EC0",
+    "uni_char": "廀",
+    "composition": "[序-予+(宋-木+(火/又))]",
+    "norm_big5_char": "廋",
+    "moe_variant_id": "b00976-001",
+    "pua": "U+F8728"
   }
 }
