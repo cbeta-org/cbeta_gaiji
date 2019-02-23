@@ -24269,7 +24269,7 @@
     "norm_unicode": "28484",
     "norm_uni_char": "𨒄",
     "composition": "[這-言+(鉛-金)]",
-    "norm_big5_char": "沿",
+    "norm_big5_char": "迢",
     "pua": "U+F0E90"
   },
   "CB03729": {
@@ -61059,6 +61059,7 @@
   },
   "CB09731": {
     "composition": "[虢-寸+(百-日+ㄎ)]",
+    "norm_big5_char": "虢",
     "pua": "U+F2603"
   },
   "CB09732": {
@@ -144216,6 +144217,8 @@
     "pua": "U+F72CA"
   },
   "CB29387": {
+    "unicode": "2DBE5",
+    "uni_char": "𭯥",
     "composition": "[(羽/羽)*毛]",
     "pua": "U+F72CB"
   },
@@ -171395,5 +171398,13 @@
     "norm_big5_char": "廋",
     "moe_variant_id": "b00976-001",
     "pua": "U+F8728"
+  },
+  "CB34601": {
+    "composition": "[(口/(十-〡+ㄅ))*(虒-虎+巿)]",
+    "pua": "U+F8729"
+  },
+  "CB34602": {
+    "composition": "[(夕-、)/(鹿-庇+(烈-列+厂))]",
+    "pua": "U+F872A"
   }
 }
