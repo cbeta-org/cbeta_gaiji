@@ -157371,7 +157371,11 @@
     "pua": "U+F7D2F"
   },
   "CB32048": {
+    "unicode": "56D8",
+    "uni_char": "囘",
     "composition": "[同-(一/口)+巳]",
+    "norm_big5_char": "回",
+    "moe_variant_id": "a00727-001",
     "pua": "U+F7D30"
   },
   "CB32049": {
