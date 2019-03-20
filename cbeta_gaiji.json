@@ -273,7 +273,6 @@
     "unicode": "88A0",
     "uni_char": "袠",
     "composition": "[〦/失/(衣-〦)]",
-    "norm_big5_char": "袟",
     "moe_variant_id": "b04486-002",
     "pua": "U+F0027"
   },
@@ -129516,6 +129515,8 @@
     "pua": "U+F6408"
   },
   "CB25609": {
+    "norm_unicode": "2D152",
+    "norm_uni_char": "𭅒",
     "composition": "[差-工+匕]",
     "norm_big5_char": "差",
     "moe_variant_id": "a01153-006",
