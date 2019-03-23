@@ -17249,6 +17249,8 @@
     "pua": "U+F0A38"
   },
   "CB02617": {
+    "unicode": "2C45F",
+    "uni_char": "𬑟",
     "composition": "[目*候]",
     "pua": "U+F0A39"
   },
@@ -125367,6 +125369,8 @@
     "pua": "U+F5FED"
   },
   "CB24558": {
+    "unicode": "2918E",
+    "uni_char": "𩆎",
     "composition": "[雨/溜]",
     "pua": "U+F5FEE"
   },
@@ -136395,7 +136399,11 @@
     "pua": "U+F6B0B"
   },
   "CB27404": {
+    "unicode": "28E9A",
+    "uni_char": "𨺚",
     "composition": "[隆-生+(十/山)]",
+    "norm_big5_char": "隆",
+    "moe_variant_id": "a04434-028",
     "pua": "U+F6B0C"
   },
   "CB27405": {
@@ -147060,7 +147068,10 @@
     "pua": "U+F7539"
   },
   "CB30010": {
+    "norm_unicode": "24A8B",
+    "norm_uni_char": "𤪋",
     "composition": "[鑒-金+王]",
+    "moe_variant_id": "C07550",
     "pua": "U+F753A"
   },
   "CB30011": {
@@ -171411,5 +171422,12 @@
   "CB34602": {
     "composition": "[(夕-、)/(鹿-庇+(烈-列+厂))]",
     "pua": "U+F872A"
+  },
+  "CB34603": {
+    "unicode": "24ABD",
+    "uni_char": "𤪽",
+    "composition": "[琥-儿+(谷-口+目)]",
+    "norm_big5_char": "璿",
+    "pua": "U+F872B"
   }
 }
