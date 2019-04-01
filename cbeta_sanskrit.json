@@ -6395,6 +6395,146 @@
     "pua": "U+106FD4",
     "romanized": "aḥ"
   },
+  "SD-CFD5": {
+    "char": "玸",
+    "pua": "U+106FD5",
+    "romanized": "ka"
+  },
+  "SD-CFD6": {
+    "char": "珋",
+    "pua": "U+106FD6",
+    "romanized": "kha"
+  },
+  "SD-CFD7": {
+    "char": "瓬",
+    "pua": "U+106FD7",
+    "romanized": "ga"
+  },
+  "SD-CFD8": {
+    "char": "瓮",
+    "pua": "U+106FD8",
+    "romanized": "gha"
+  },
+  "SD-CFDA": {
+    "char": "畇",
+    "pua": "U+106FDA",
+    "romanized": "ca"
+  },
+  "SD-CFDB": {
+    "char": "畈",
+    "pua": "U+106FDB",
+    "romanized": "cha"
+  },
+  "SD-CFDC": {
+    "char": "疧",
+    "pua": "U+106FDC",
+    "romanized": "ja"
+  },
+  "SD-CFDE": {
+    "char": "癹",
+    "pua": "U+106FDE",
+    "romanized": "ña"
+  },
+  "SD-CFDF": {
+    "char": "盄",
+    "pua": "U+106FDF",
+    "romanized": "ṭa"
+  },
+  "SD-CFE0": {
+    "char": "眈",
+    "pua": "U+106FE0",
+    "romanized": "ṭha"
+  },
+  "SD-CFE1": {
+    "char": "眃",
+    "pua": "U+106FE1",
+    "romanized": "ḍa"
+  },
+  "SD-CFE3": {
+    "char": "眅",
+    "pua": "U+106FE3",
+    "romanized": "ṇa"
+  },
+  "SD-CFE4": {
+    "char": "眊",
+    "pua": "U+106FE4",
+    "romanized": "ta"
+  },
+  "SD-CFE5": {
+    "char": "盷",
+    "pua": "U+106FE5",
+    "romanized": "tha"
+  },
+  "SD-CFE6": {
+    "char": "盻",
+    "pua": "U+106FE6",
+    "romanized": "da"
+  },
+  "SD-CFE8": {
+    "char": "矧",
+    "pua": "U+106FE8",
+    "romanized": "na"
+  },
+  "SD-CFE9": {
+    "char": "矨",
+    "pua": "U+106FE9",
+    "romanized": "pa"
+  },
+  "SD-CFEA": {
+    "char": "砆",
+    "pua": "U+106FEA",
+    "romanized": "pha"
+  },
+  "SD-CFEB": {
+    "char": "砑",
+    "pua": "U+106FEB",
+    "romanized": "ba"
+  },
+  "SD-CFEC": {
+    "char": "砒",
+    "pua": "U+106FEC",
+    "romanized": "bha"
+  },
+  "SD-CFED": {
+    "char": "砅",
+    "pua": "U+106FED",
+    "romanized": "ma"
+  },
+  "SD-CFEE": {
+    "char": "砐",
+    "pua": "U+106FEE",
+    "romanized": "ya"
+  },
+  "SD-CFEF": {
+    "char": "砏",
+    "pua": "U+106FEF",
+    "romanized": "ra"
+  },
+  "SD-CFF0": {
+    "char": "砎",
+    "pua": "U+106FF0",
+    "romanized": "la"
+  },
+  "SD-CFF1": {
+    "char": "砉",
+    "pua": "U+106FF1",
+    "romanized": "va"
+  },
+  "SD-CFF2": {
+    "char": "砃",
+    "pua": "U+106FF2",
+    "romanized": "śa"
+  },
+  "SD-CFF4": {
+    "char": "祊",
+    "pua": "U+106FF4",
+    "romanized": "sa"
+  },
+  "SD-CFF7": {
+    "char": "祅",
+    "pua": "U+106FF7",
+    "romanized": "kṣa"
+  },
   "SD-D0DF": {
     "char": "冔",
     "pua": "U+1070DF",
