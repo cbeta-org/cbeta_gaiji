@@ -121064,10 +121064,6 @@
     "composition": "[口/句]",
     "pua": "U+F5BBC"
   },
-  "CB23485": {
-    "composition": "[土*凡]",
-    "pua": "U+F5BBD"
-  },
   "CB23486": {
     "composition": "[土*井]",
     "pua": "U+F5BBE"
@@ -171429,5 +171425,75 @@
     "composition": "[琥-儿+(谷-口+目)]",
     "norm_big5_char": "璿",
     "pua": "U+F872B"
+  },
+  "CB34604": {
+    "unicode": "2D335",
+    "uni_char": "𭌵",
+    "composition": "[囈-坴+幸]",
+    "norm_big5_char": "囈",
+    "moe_variant_id": "a00719-009",
+    "pua": "U+F872C"
+  },
+  "CB34605": {
+    "unicode": "2D33C",
+    "uni_char": "𭌼",
+    "composition": "[口*(欼/酉)]",
+    "pua": "U+F872D"
+  },
+  "CB34606": {
+    "unicode": "2D3F2",
+    "uni_char": "𭏲",
+    "composition": "[衣-〦+執]",
+    "pua": "U+F872E"
+  },
+  "CB34607": {
+    "unicode": "2D7EC",
+    "uni_char": "𭟬",
+    "composition": "[怡-台+籠]",
+    "pua": "U+F872F"
+  },
+  "CB34608": {
+    "composition": "[施-也+(工/止)]",
+    "pua": "U+F8730"
+  },
+  "CB34609": {
+    "unicode": "2D98F",
+    "uni_char": "𭦏",
+    "composition": "[日*利]",
+    "pua": "U+F8731"
+  },
+  "CB34610": {
+    "unicode": "2D9C6",
+    "uni_char": "𭧆",
+    "composition": "[栗-木+(文/日)]",
+    "pua": "U+F8732"
+  },
+  "CB34611": {
+    "composition": "[工*(几@二)]",
+    "moe_variant_id": "c03036-003",
+    "pua": "U+F8733"
+  },
+  "CB34612": {
+    "composition": "[工*(凡@、)]",
+    "pua": "U+F8734"
+  },
+  "CB34613": {
+    "unicode": "2DAAD",
+    "uni_char": "𭪭",
+    "composition": "[葉-卄+亡]",
+    "norm_big5_char": "棄",
+    "pua": "U+F8735"
+  },
+  "CB34614": {
+    "unicode": "2DAC9",
+    "uni_char": "𭫉",
+    "composition": "[樆-禸+ㄆ]",
+    "pua": "U+F8736"
+  },
+  "CB34615": {
+    "unicode": "2DAD0",
+    "uni_char": "𭫐",
+    "composition": "[木*((世-廿+卄)/(冉-土+(┴/十)))]",
+    "pua": "U+F8737"
   }
 }
