@@ -146064,6 +146064,8 @@
   },
   "CB29502": {
     "composition": "[止/(脊-月+目)]",
+    "norm_big5_char": "睿",
+    "moe_variant_id": "a02791",
     "pua": "U+F733E"
   },
   "CB29503": {
@@ -166784,7 +166786,7 @@
     "pua": "U+F8354"
   },
   "CB33621": {
-    "norm_unicode": "98B0​",
+    "norm_unicode": "98B0",
     "norm_uni_char": "颰",
     "composition": "[颱-台+(乏-之+友)]",
     "pua": "U+F8355"
