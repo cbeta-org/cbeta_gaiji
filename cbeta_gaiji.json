@@ -172919,5 +172919,12 @@
     "uni_char": "𭫐",
     "composition": "[木*((世-廿+卄)/(冉-土+(┴/十)))]",
     "pua": "U+F8737"
+  },
+  "CB34616": {
+    "unicode": "24424",
+    "uni_char": "𤐤",
+    "composition": "[火*熙]",
+    "norm_big5_char": "熙",
+    "pua": "U+F8738"
   }
 }
