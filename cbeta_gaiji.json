@@ -172926,5 +172926,13 @@
     "composition": "[火*熙]",
     "norm_big5_char": "熙",
     "pua": "U+F8738"
+  },
+  "CB34617": {
+    "unicode": "51C0",
+    "uni_char": "净",
+    "composition": "[凈-(采-木)+(色-巴)]",
+    "norm_big5_char": "凈",
+    "moe_variant_id": "C00467-001",
+    "pua": "U+F8739"
   }
 }
