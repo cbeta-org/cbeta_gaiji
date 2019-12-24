@@ -172934,5 +172934,17 @@
     "norm_big5_char": "凈",
     "moe_variant_id": "C00467-001",
     "pua": "U+F8739"
+  },
+  "CB34618": {
+    "unicode": "5739",
+    "uni_char": "圹",
+    "composition": "[壙-黃]",
+    "norm_big5_char": "壙",
+    "moe_variant_id": "A00824-002",
+    "pua": "U+F873A"
+  },
+  "CB34619": {
+    "composition": "[田*毘]",
+    "pua": "U+F873B"
   }
 }
