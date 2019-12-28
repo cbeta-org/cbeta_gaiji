@@ -172946,5 +172946,21 @@
   "CB34619": {
     "composition": "[田*毘]",
     "pua": "U+F873B"
+  },
+  "CB34620": {
+    "unicode": "22F35",
+    "uni_char": "𢼵",
+    "composition": "[改-己+亥]",
+    "pua": "U+F873C"
+  },
+  "CB34621": {
+    "unicode": "203A7",
+    "uni_char": "𠎧",
+    "composition": "[仁-二+絜]",
+    "pua": "U+F873D"
+  },
+  "CB34622": {
+    "composition": "[老/者]",
+    "pua": "U+F873E"
   }
 }
