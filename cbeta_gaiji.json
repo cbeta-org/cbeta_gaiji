@@ -340,7 +340,6 @@
     "unicode": "53F6",
     "uni_char": "叶",
     "composition": "[口*十]",
-    "norm_big5_char": "協",
     "moe_variant_id": "a03525-008 ,a00438-003",
     "pua": "U+F0030"
   },
@@ -118793,6 +118792,8 @@
     "pua": "U+F581A"
   },
   "CB22555": {
+    "unicode": "22E5D",
+    "uni_char": "𢹝",
     "composition": "[打-丁+霝]",
     "pua": "U+F581B"
   },
@@ -172962,5 +172963,16 @@
   "CB34622": {
     "composition": "[老/者]",
     "pua": "U+F873E"
+  },
+  "CB34623": {
+    "unicode": "484D",
+    "uni_char": "䡍",
+    "composition": "[車*夫]",
+    "moe_variant_id": "C14182",
+    "pua": "U+F873F"
+  },
+  "CB34624": {
+    "composition": "[辛-〦+吉]",
+    "pua": "U+F8740"
   }
 }
