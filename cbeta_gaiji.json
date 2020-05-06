@@ -47326,6 +47326,8 @@
     "pua": "U+F1C94"
   },
   "CB07317": {
+    "unicode": "2B606",
+    "uni_char": "𫘆",
     "composition": "[馬*夫]",
     "pua": "U+F1C95"
   },
@@ -93823,7 +93825,6 @@
   },
   "CB15903": {
     "composition": "[葉-世+廿]",
-    "norm_big5_char": "業",
     "pua": "U+F3E1F"
   },
   "CB15904": {
@@ -118340,6 +118341,8 @@
     "pua": "U+F57A7"
   },
   "CB22440": {
+    "unicode": "298B2",
+    "uni_char": "𩢲",
     "composition": "[馬*吏]",
     "pua": "U+F57A8"
   },
@@ -127044,14 +127047,20 @@
     "pua": "U+F6039"
   },
   "CB24634": {
+    "unicode": "4B80",
+    "uni_char": "䮀",
     "composition": "[馬*包]",
     "pua": "U+F603A"
   },
   "CB24635": {
+    "unicode": "298AA",
+    "uni_char": "𩢪",
     "composition": "[馬*古]",
     "pua": "U+F603B"
   },
   "CB24636": {
+    "unicode": "29895",
+    "uni_char": "𩢕",
     "composition": "[馬*本]",
     "pua": "U+F603C"
   },
@@ -127072,10 +127081,14 @@
     "pua": "U+F6042"
   },
   "CB24643": {
+    "unicode": "9A4B",
+    "uni_char": "驋",
     "composition": "[馬*發]",
     "pua": "U+F6043"
   },
   "CB24644": {
+    "unicode": "29983",
+    "uni_char": "𩦃",
     "composition": "[馬*閑]",
     "pua": "U+F6044"
   },
@@ -127084,6 +127097,8 @@
     "pua": "U+F6045"
   },
   "CB24646": {
+    "unicode": "4BB7",
+    "uni_char": "䮷",
     "composition": "[馬*蜀]",
     "pua": "U+F6046"
   },
@@ -127092,10 +127107,14 @@
     "pua": "U+F6047"
   },
   "CB24648": {
+    "norm_unicode": "4B82",
+    "norm_uni_char": "䮂",
     "composition": "[馬*犮]",
     "pua": "U+F6048"
   },
   "CB24649": {
+    "unicode": "298FD",
+    "uni_char": "𩣽",
     "composition": "[馬*匊]",
     "pua": "U+F6049"
   },
@@ -144615,10 +144634,14 @@
     "pua": "U+F71D3"
   },
   "CB29140": {
+    "unicode": "298B4",
+    "uni_char": "𩢴",
     "composition": "[馬*吉]",
     "pua": "U+F71D4"
   },
   "CB29141": {
+    "unicode": "298D1",
+    "uni_char": "𩣑",
     "composition": "[馬*安]",
     "pua": "U+F71D5"
   },
@@ -160808,6 +160831,8 @@
     "pua": "U+F7EDE"
   },
   "CB32479": {
+    "unicode": "99C5",
+    "uni_char": "駅",
     "composition": "[馬*尺]",
     "pua": "U+F7EDF"
   },
@@ -162912,10 +162937,6 @@
   "CB32915": {
     "composition": "[韋*力]",
     "pua": "U+F8093"
-  },
-  "CB32916": {
-    "composition": "[馬*占]",
-    "pua": "U+F8094"
   },
   "CB32918": {
     "unicode": "4C4A",
