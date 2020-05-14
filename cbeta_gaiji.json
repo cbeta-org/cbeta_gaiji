@@ -38466,6 +38466,8 @@
     "pua": "U+F171D"
   },
   "CB05918": {
+    "unicode": "24A01",
+    "uni_char": "𤨁",
     "composition": "[王*(普-(美-王-大))]",
     "pua": "U+F171E"
   },
@@ -55486,6 +55488,8 @@
     "pua": "U+F21B2"
   },
   "CB08627": {
+    "unicode": "2F878",
+    "uni_char": "屮",
     "composition": "[艸-屮]",
     "moe_variant_id": "c02684",
     "pua": "U+F21B3"
@@ -144148,6 +144152,8 @@
     "pua": "U+F715B"
   },
   "CB29020": {
+    "unicode": "21F66",
+    "uni_char": "𡽦",
     "composition": "[山/廖]",
     "pua": "U+F715C"
   },
@@ -172995,5 +173001,32 @@
   "CB34624": {
     "composition": "[辛-〦+吉]",
     "pua": "U+F8740"
+  },
+  "CB34625": {
+    "unicode": "2B49D",
+    "uni_char": "𫒝",
+    "composition": "[金*更]",
+    "pua": "U+F8741"
+  },
+  "CB34626": {
+    "composition": "[角+(烈-列+(口*了*又))]",
+    "pua": "U+F8742"
+  },
+  "CB34627": {
+    "composition": "[金*陰]",
+    "pua": "U+F8743"
+  },
+  "CB34628": {
+    "unicode": "2B4A9",
+    "uni_char": "𫒩",
+    "composition": "[金*奉]",
+    "pua": "U+F8744"
+  },
+  "CB34630": {
+    "unicode": "20087",
+    "uni_char": "𠂇",
+    "composition": "[有-月]",
+    "moe_variant_id": "C00024",
+    "pua": "U+F8746"
   }
 }
