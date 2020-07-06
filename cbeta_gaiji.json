@@ -173029,5 +173029,46 @@
     "composition": "[有-月]",
     "moe_variant_id": "C00024",
     "pua": "U+F8746"
+  },
+  "CB34631": {
+    "composition": "[袖-由+幸]",
+    "pua": "U+F8747"
+  },
+  "CB34632": {
+    "composition": "[宋-木+((社-土+口)/又)]",
+    "pua": "U+F8748"
+  },
+  "CB34633": {
+    "composition": "[打-丁+阿]",
+    "pua": "U+F8749"
+  },
+  "CB34634": {
+    "composition": "[打-丁+教]",
+    "pua": "U+F874A"
+  },
+  "CB34635": {
+    "unicode": "3807",
+    "uni_char": "㠇",
+    "composition": "[山/就]",
+    "moe_variant_id": "C02936",
+    "pua": "U+F874B"
+  },
+  "CB34636": {
+    "unicode": "226A2",
+    "uni_char": "𢚢",
+    "composition": "[改/心]",
+    "pua": "U+F874C"
+  },
+  "CB34637": {
+    "composition": "[火*艮]",
+    "pua": "U+F874D"
+  },
+  "CB34638": {
+    "unicode": "205F1",
+    "uni_char": "𠗱",
+    "composition": "[冰-水+(戌-一+?)]",
+    "norm_big5_char": "臧",
+    "moe_variant_id": "A03384-004",
+    "pua": "U+F874E"
   }
 }
