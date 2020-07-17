@@ -94961,6 +94961,8 @@
     "pua": "U+F3EE8"
   },
   "CB16105": {
+    "unicode": "30272",
+    "uni_char": "𰉲",
     "composition": "[土*免]",
     "pua": "U+F3EE9"
   },
@@ -124206,10 +124208,12 @@
   },
   "CB23927": {
     "composition": "[加/力]",
+    "moe_variant_id": "A00385-002",
     "pua": "U+F5D77"
   },
   "CB23928": {
     "composition": "[加/糸]",
+    "moe_variant_id": "C10209",
     "pua": "U+F5D78"
   },
   "CB23929": {
@@ -124242,10 +124246,12 @@
   },
   "CB23936": {
     "composition": "[去/手]",
+    "moe_variant_id": "A02498-001",
     "pua": "U+F5D80"
   },
   "CB23937": {
     "composition": "[去/牛]",
+    "moe_variant_id": "C07040",
     "pua": "U+F5D81"
   },
   "CB23938": {
@@ -124261,7 +124267,10 @@
     "pua": "U+F5D84"
   },
   "CB23941": {
+    "unicode": "4381",
+    "uni_char": "䎁",
     "composition": "[古*羽]",
+    "moe_variant_id": "C10600",
     "pua": "U+F5D85"
   },
   "CB23942": {
