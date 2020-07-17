@@ -11816,9 +11816,10 @@
     "pua": "U+F06D7"
   },
   "CB01752": {
+    "norm_unicode": "212AC",
+    "norm_uni_char": "𡊬",
     "composition": "[土*(冗/几)]",
     "norm_big5_char": "坑",
-    "moe_variant_id": "a00748-001",
     "pua": "U+F06D8"
   },
   "CB01753": {
