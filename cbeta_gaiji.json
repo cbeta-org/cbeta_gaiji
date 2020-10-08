@@ -173080,5 +173080,50 @@
     "norm_big5_char": "臧",
     "moe_variant_id": "A03384-004",
     "pua": "U+F874E"
+  },
+  "CB34639": {
+    "unicode": "20011",
+    "uni_char": "𠀑",
+    "composition": "[丙-、+(乳-孚)]",
+    "norm_big5_char": "天",
+    "pua": "U+F874F"
+  },
+  "CB34640": {
+    "unicode": "20048",
+    "uni_char": "𠁈",
+    "composition": "[ㄒ/(夙-歹+(釆-(木-十)/口))]",
+    "norm_big5_char": "君",
+    "pua": "U+F8750"
+  },
+  "CB34641": {
+    "unicode": "21540",
+    "uni_char": "𡕀",
+    "composition": "[士/(夙-歹+(烈-列+車))]",
+    "norm_big5_char": "載",
+    "pua": "U+F8751"
+  },
+  "CB34642": {
+    "unicode": "20866",
+    "uni_char": "𠡦",
+    "composition": "[(乖-北+(力*力))/(一/十)]",
+    "norm_big5_char": "年",
+    "moe_variant_id": "A01194-004",
+    "pua": "U+F8752"
+  },
+  "CB34643": {
+    "unicode": "21508",
+    "uni_char": "𡔈",
+    "composition": "[一/八/(夙-歹+(賏/土))]",
+    "norm_big5_char": "初",
+    "moe_variant_id": "A03709-003",
+    "pua": "U+F8753"
+  },
+  "CB34644": {
+    "unicode": "2067A",
+    "uni_char": "𠙺",
+    "composition": "[凵@千]",
+    "norm_big5_char": "正",
+    "moe_variant_id": "C00515",
+    "pua": "U+F8754"
   }
 }
