@@ -173125,5 +173125,9 @@
     "norm_big5_char": "正",
     "moe_variant_id": "C00515",
     "pua": "U+F8754"
+  },
+  "CB34645": {
+    "composition": "[袖-由+辛]",
+    "pua": "U+F8755"
   }
 }
