@@ -173127,7 +173127,63 @@
     "pua": "U+F8754"
   },
   "CB34645": {
-    "composition": "[袖-由+辛]",
+    "unicode": "6255",
+    "uni_char": "払",
+    "composition": "[打-丁+ㄙ]",
+    "norm_big5_char": "拂",
+    "moe_variant_id": "A01528-007",
     "pua": "U+F8755"
+  },
+  "CB34646": {
+    "unicode": "9D91",
+    "uni_char": "鶑",
+    "composition": "[鶯-(冗-几)]",
+    "norm_big5_char": "鶯",
+    "moe_variant_id": "A04739-001",
+    "pua": "U+F8756"
+  },
+  "CB34647": {
+    "composition": "[狂-王+(白/巳)]",
+    "pua": "U+F8757"
+  },
+  "CB34648": {
+    "unicode": "20193",
+    "uni_char": "𠆓",
+    "composition": "[享*夜]",
+    "pua": "U+F8758"
+  },
+  "CB34649": {
+    "composition": "[言*桑]",
+    "pua": "U+F8759"
+  },
+  "CB34650": {
+    "composition": "[谷*養]",
+    "pua": "U+F875A"
+  },
+  "CB34651": {
+    "composition": "[口*娑]",
+    "pua": "U+F875B"
+  },
+  "CB34653": {
+    "composition": "[木*嘉]",
+    "pua": "U+F875D"
+  },
+  "CB34654": {
+    "unicode": "2C05C",
+    "uni_char": "𬁜",
+    "composition": "[日*夢]",
+    "pua": "U+F875E"
+  },
+  "CB34655": {
+    "composition": "[名*卷]",
+    "pua": "U+F875F"
+  },
+  "CB34656": {
+    "composition": "[因*頁]",
+    "pua": "U+F8760"
+  },
+  "CB34657": {
+    "composition": "[革*篾]",
+    "pua": "U+F8761"
   }
 }
