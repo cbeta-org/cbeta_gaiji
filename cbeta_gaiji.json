@@ -173188,5 +173188,16 @@
   "CB34657": {
     "composition": "[革*篾]",
     "pua": "U+F8761"
+  },
+  "CB34658": {
+    "unicode": "233B4",
+    "uni_char": "𣎴",
+    "composition": "[木-〦+一]",
+    "moe_variant_id": "C05000",
+    "pua": "U+F8762"
+  },
+  "CB34659": {
+    "composition": "[○@引]",
+    "pua": "U+F8763"
   }
 }
