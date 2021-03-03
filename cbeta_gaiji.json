@@ -81279,7 +81279,8 @@
     "unicode": "2CEEB",
     "uni_char": "𬻫",
     "composition": "[橐-(石/木)+(韭-(三*三)+口)]",
-    "norm_big5_char": "壼",
+    "norm_big5_char": "壺",
+    "moe_variant_id": "A00835-010",
     "pua": "U+F3464"
   },
   "CB13413": {
@@ -125892,6 +125893,7 @@
     "unicode": "8AA2",
     "uni_char": "誢",
     "composition": "[言*見]",
+    "moe_variant_id": "C13126",
     "pua": "U+F5F17"
   },
   "CB24344": {
@@ -173212,5 +173214,25 @@
     "uni_char": "𧧒",
     "composition": "[言*朿]",
     "pua": "U+F8764"
+  },
+  "CB34661": {
+    "composition": "[右/(冗-几+(中-〡+(皿-ㄇ)))]",
+    "pua": "U+F8765"
+  },
+  "CB34662": {
+    "composition": "[臺-至+(中-〡+(皿-ㄇ))]",
+    "norm_big5_char": "壺",
+    "moe_variant_id": "A00835-019",
+    "pua": "U+F8766"
+  },
+  "CB34663": {
+    "composition": "[土/(中-〡+(皿-ㄇ))]",
+    "norm_big5_char": "壺",
+    "moe_variant_id": "A00835-023",
+    "pua": "U+F8767"
+  },
+  "CB34664": {
+    "composition": "[土/中/(冗-几+(中-〡+(皿-ㄇ))]",
+    "pua": "U+F8768"
   }
 }
