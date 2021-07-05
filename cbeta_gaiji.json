@@ -118241,7 +118241,11 @@
     "pua": "U+F578C"
   },
   "CB22413": {
+    "unicode": "4995",
+    "uni_char": "䦕",
     "composition": "[門@并]",
+    "norm_big5_char": "閛",
+    "moe_variant_id": "C15270-002",
     "pua": "U+F578D"
   },
   "CB22414": {
