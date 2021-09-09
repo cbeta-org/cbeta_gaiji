@@ -173245,5 +173245,13 @@
     "composition": "[冰-水+熙]",
     "norm_big5_char": "熙",
     "pua": "U+F8769"
+  },
+  "CB34666": {
+    "composition": "[石*度]",
+    "pua": "U+F876A"
+  },
+  "CB34667": {
+    "composition": "[泳-永+煎]",
+    "pua": "U+F876B"
   }
 }
