@@ -154914,8 +154914,6 @@
     "pua": "U+F79F4"
   },
   "CB31221": {
-    "unicode": "20ADA",
-    "uni_char": "𠫚",
     "composition": "[ㄙ/干]",
     "norm_big5_char": "牟",
     "moe_variant_id": "a02487-003",
@@ -173316,5 +173314,13 @@
     "norm_big5_char": "哉",
     "moe_variant_id": "A00567-002",
     "pua": "U+F8771"
+  },
+  "CB34674": {
+    "unicode": "20ADA",
+    "uni_char": "𠫚",
+    "composition": "[舉-與+ㄙ]",
+    "norm_big5_char": "牟",
+    "moe_variant_id": "A02487-001",
+    "pua": "U+F8772"
   }
 }
