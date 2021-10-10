@@ -118590,7 +118590,11 @@
     "pua": "U+F57E2"
   },
   "CB22499": {
+    "unicode": "21B3A",
+    "uni_char": "𡬺",
     "composition": "[罡*寸]",
+    "norm_big5_char": "剛",
+    "moe_variant_id": "A00362-008",
     "pua": "U+F57E3"
   },
   "CB22500": {
@@ -127893,7 +127897,11 @@
     "pua": "U+F6100"
   },
   "CB24833": {
+    "unicode": "224FE",
+    "uni_char": "𢓾",
     "composition": "[彳*谷]",
+    "norm_big5_char": "俗",
+    "moe_variant_id": "A00161-001",
     "pua": "U+F6101"
   },
   "CB24834": {
@@ -149925,6 +149933,8 @@
     "pua": "U+F7641"
   },
   "CB30274": {
+    "unicode": "34D5",
+    "uni_char": "㓕",
     "composition": "[冰-水+(威-女+火)]",
     "norm_big5_char": "滅",
     "moe_variant_id": "a02285-001",
@@ -154904,6 +154914,8 @@
     "pua": "U+F79F4"
   },
   "CB31221": {
+    "unicode": "20ADA",
+    "uni_char": "𠫚",
     "composition": "[ㄙ/干]",
     "norm_big5_char": "牟",
     "moe_variant_id": "a02487-003",
@@ -156002,6 +156014,8 @@
     "pua": "U+F7AA9"
   },
   "CB31402": {
+    "unicode": "2B779",
+    "uni_char": "𫝹",
     "composition": "[企-止+(二/心)]",
     "norm_big5_char": "念",
     "moe_variant_id": "a01318-002",
@@ -173257,5 +173271,50 @@
   "CB34667": {
     "composition": "[泳-永+煎]",
     "pua": "U+F876B"
+  },
+  "CB34668": {
+    "unicode": "284DC",
+    "uni_char": "𨓜",
+    "composition": "[這-言+免]",
+    "norm_big5_char": "逸",
+    "moe_variant_id": "A04155-008",
+    "pua": "U+F876C"
+  },
+  "CB34669": {
+    "unicode": "20A44",
+    "uni_char": "𠩄",
+    "composition": "[厂@(、*(厂-一)*(乞-乙+(丁-一)))]",
+    "norm_big5_char": "所",
+    "moe_variant_id": "A01490-001",
+    "pua": "U+F876D"
+  },
+  "CB34670": {
+    "unicode": "2A2C0",
+    "uni_char": "𪋀",
+    "composition": "[塵-土+車]",
+    "moe_variant_id": "A02538-002",
+    "pua": "U+F876E"
+  },
+  "CB34671": {
+    "unicode": "27807",
+    "uni_char": "𧠇",
+    "composition": "[(└*目)/儿]",
+    "norm_big5_char": "兒",
+    "moe_variant_id": "A00277-003",
+    "pua": "U+F876F"
+  },
+  "CB34672": {
+    "unicode": "2560D",
+    "uni_char": "𥘍",
+    "composition": "[社-土+((乳-孚)@(白-日+、))]",
+    "pua": "U+F8770"
+  },
+  "CB34673": {
+    "unicode": "39B2",
+    "uni_char": "㦲",
+    "composition": "[(十/万)*戈]",
+    "norm_big5_char": "哉",
+    "moe_variant_id": "A00567-002",
+    "pua": "U+F8771"
   }
 }
