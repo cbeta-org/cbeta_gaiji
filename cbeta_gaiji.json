@@ -79373,7 +79373,7 @@
     "pua": "U+F32D7"
   },
   "CB13016": {
-    "composition": "[(厂-一)*(賾-口+(巨-匚))]",
+    "composition": "[〡*(賾-口+(巨-匚))]",
     "norm_big5_char": "賾",
     "moe_variant_id": "b04831-008",
     "pua": "U+F32D8"
@@ -126857,10 +126857,6 @@
   "CB24577": {
     "composition": "[政/立]",
     "pua": "U+F6001"
-  },
-  "CB24578": {
-    "composition": "[春/鳥]",
-    "pua": "U+F6002"
   },
   "CB24579": {
     "composition": "[昭/大]",
