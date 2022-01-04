@@ -173318,5 +173318,9 @@
     "norm_big5_char": "牟",
     "moe_variant_id": "A02487-001",
     "pua": "U+F8772"
+  },
+  "CB34675": {
+    "composition": "[算-廾+(冗-几+方)]",
+    "pua": "U+F8773"
   }
 }
