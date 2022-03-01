@@ -173322,5 +173322,12 @@
   "CB34675": {
     "composition": "[算-廾+(冗-几+方)]",
     "pua": "U+F8773"
+  },
+  "CB34676": {
+    "unicode": "25158",
+    "uni_char": "𥅘",
+    "composition": "[目*(欠-人+小)]",
+    "moe_variant_id": "C08292",
+    "pua": "U+F8774"
   }
 }
