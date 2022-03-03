@@ -121036,10 +121036,6 @@
     "composition": "[打-丁+(巿@(必-心))]",
     "pua": "U+F5A5C"
   },
-  "CB23133": {
-    "composition": "[皮-(〡/又)+(王/巾)]",
-    "pua": "U+F5A5D"
-  },
   "CB23134": {
     "composition": "[矛*(爂-火+(林/一))]",
     "pua": "U+F5A5E"
@@ -147319,7 +147315,7 @@
     "pua": "U+F745A"
   },
   "CB29787": {
-    "composition": "[皮-(〡*又)+(王/巾)]",
+    "composition": "[皮-(〡/又)+(王/巾)]",
     "norm_big5_char": "虎",
     "moe_variant_id": "a03604-035",
     "pua": "U+F745B"
@@ -173331,5 +173327,9 @@
     "composition": "[目*(欠-人+小)]",
     "moe_variant_id": "C08292",
     "pua": "U+F8774"
+  },
+  "CB34677": {
+    "composition": "[皮-(〡/又)+(王/((巨-匚)@十)/口)]",
+    "pua": "U+F8775"
   }
 }
