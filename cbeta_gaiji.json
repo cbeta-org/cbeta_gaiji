@@ -173335,5 +173335,132 @@
   "CB34678": {
     "composition": "[(草-日+口)*(栗-木+((厂-一)*凡))]",
     "pua": "U+F8776"
+  },
+  "CB34679": {
+    "unicode": "926E",
+    "uni_char": "鉮",
+    "composition": "[金*申]",
+    "moe_variant_id": "N00475",
+    "pua": "U+F8777"
+  },
+  "CB34680": {
+    "unicode": "2488",
+    "uni_char": "⒈",
+    "composition": "[１．]",
+    "pua": "U+F8778"
+  },
+  "CB34681": {
+    "unicode": "2489",
+    "uni_char": "⒉",
+    "composition": "[２．]",
+    "pua": "U+F8779"
+  },
+  "CB34682": {
+    "unicode": "248A",
+    "uni_char": "⒊",
+    "composition": "[３．]",
+    "pua": "U+F877A"
+  },
+  "CB34683": {
+    "unicode": "248B",
+    "uni_char": "⒋",
+    "composition": "[４．]",
+    "pua": "U+F877B"
+  },
+  "CB34684": {
+    "unicode": "248C",
+    "uni_char": "⒌",
+    "composition": "[５．]",
+    "pua": "U+F877C"
+  },
+  "CB34685": {
+    "unicode": "248D",
+    "uni_char": "⒍",
+    "composition": "[６．]",
+    "pua": "U+F877D"
+  },
+  "CB34686": {
+    "unicode": "248E",
+    "uni_char": "⒎",
+    "composition": "[７．]",
+    "pua": "U+F877E"
+  },
+  "CB34687": {
+    "unicode": "248F",
+    "uni_char": "⒏",
+    "composition": "[８．]",
+    "pua": "U+F877F"
+  },
+  "CB34688": {
+    "unicode": "2490",
+    "uni_char": "⒐",
+    "composition": "[９．]",
+    "pua": "U+F8780"
+  },
+  "CB34689": {
+    "unicode": "2491",
+    "uni_char": "⒑",
+    "composition": "[１０．]",
+    "pua": "U+F8781"
+  },
+  "CB34690": {
+    "unicode": "2492",
+    "uni_char": "⒒",
+    "composition": "[１１．]",
+    "pua": "U+F8782"
+  },
+  "CB34691": {
+    "unicode": "2493",
+    "uni_char": "⒓",
+    "composition": "[１２．]",
+    "pua": "U+F8783"
+  },
+  "CB34692": {
+    "unicode": "2494",
+    "uni_char": "⒔",
+    "composition": "[１３．]",
+    "pua": "U+F8784"
+  },
+  "CB34693": {
+    "unicode": "2495",
+    "uni_char": "⒕",
+    "composition": "[１４．]",
+    "pua": "U+F8785"
+  },
+  "CB34694": {
+    "unicode": "2496",
+    "uni_char": "⒖",
+    "composition": "[１５．]",
+    "pua": "U+F8786"
+  },
+  "CB34695": {
+    "unicode": "2497",
+    "uni_char": "⒗",
+    "composition": "[１６．]",
+    "pua": "U+F8787"
+  },
+  "CB34696": {
+    "unicode": "2498",
+    "uni_char": "⒘",
+    "composition": "[１７．]",
+    "pua": "U+F8788"
+  },
+  "CB34697": {
+    "unicode": "2499",
+    "uni_char": "⒙",
+    "composition": "[１８．]",
+    "pua": "U+F8789"
+  },
+  "CB34698": {
+    "unicode": "249A",
+    "uni_char": "⒚",
+    "composition": "[１９．]",
+    "pua": "U+F878A"
+  },
+  "CB34699": {
+    "unicode": "249B",
+    "uni_char": "⒛",
+    "composition": "[２０．]",
+    "pua": "U+F878B"
   }
 }
