@@ -174280,5 +174280,15 @@
   "CB34718": {
     "composition": "[搏-甫+(甫-、)]",
     "pua": "U+F879E"
+  },
+  "CB34719": {
+    "unicode": "30A5B",
+    "uni_char": "𰩛",
+    "composition": "[穴/舄]",
+    "pua": "U+F879F"
+  },
+  "CB34720": {
+    "composition": "[病-丙+堯]",
+    "pua": "U+F87A0"
   }
 }
