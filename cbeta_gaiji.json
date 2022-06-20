@@ -174290,5 +174290,16 @@
   "CB34720": {
     "composition": "[病-丙+堯]",
     "pua": "U+F87A0"
+  },
+  "CB34721": {
+    "composition": "[門@弟]",
+    "pua": "U+F87A1"
+  },
+  "CB34722": {
+    "unicode": "5464",
+    "uni_char": "呤",
+    "composition": "[口*令]",
+    "moe_variant_id": "C01086",
+    "pua": "U+F87A2"
   }
 }
