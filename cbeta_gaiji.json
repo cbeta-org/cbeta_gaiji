@@ -174301,5 +174301,13 @@
     "composition": "[口*令]",
     "moe_variant_id": "C01086",
     "pua": "U+F87A2"
+  },
+  "CB34723": {
+    "unicode": "23D65",
+    "uni_char": "𣵥",
+    "composition": "[泳-永+(色-巴+(〡*日))]",
+    "norm_big5_char": "滔",
+    "moe_variant_id": "A02295-009",
+    "pua": "U+F87A3"
   }
 }
