@@ -174309,5 +174309,9 @@
     "norm_big5_char": "滔",
     "moe_variant_id": "A02295-009",
     "pua": "U+F87A3"
+  },
+  "CB34724": {
+    "composition": "[達-羊+(儿/干)]",
+    "pua": "U+F87A4"
   }
 }
