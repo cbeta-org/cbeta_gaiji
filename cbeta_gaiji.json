@@ -133518,7 +133518,11 @@
     "pua": "U+F6618"
   },
   "CB26137": {
+    "unicode": "250C1",
+    "uni_char": "𥃁",
     "composition": "[盩-ㄆ+糸]",
+    "norm_big5_char": "盭",
+    "moe_variant_id": "B02844-002",
     "pua": "U+F6619"
   },
   "CB26138": {
