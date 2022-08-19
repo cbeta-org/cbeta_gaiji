@@ -98118,6 +98118,8 @@
     "pua": "U+F40EA"
   },
   "CB16619": {
+    "unicode": "2AE9B",
+    "uni_char": "𪺛",
     "composition": "[父/缶]",
     "pua": "U+F40EB"
   },
@@ -123558,7 +123560,11 @@
     "pua": "U+F5C50"
   },
   "CB23633": {
+    "unicode": "5F4D",
+    "uni_char": "彍",
     "composition": "[弓*廣]",
+    "norm_big5_char": "彉",
+    "moe_variant_id": "B01016-001",
     "pua": "U+F5C51"
   },
   "CB23634": {
@@ -174321,5 +174327,124 @@
   "CB34725": {
     "composition": "[泅-人+├]",
     "pua": "U+F87A5"
+  },
+  "CB34726": {
+    "unicode": "618F",
+    "uni_char": "憏",
+    "composition": "[怡-台+祭]",
+    "moe_variant_id": "C03926",
+    "pua": "U+F87A6"
+  },
+  "CB34727": {
+    "unicode": "249F4",
+    "uni_char": "𤧴",
+    "composition": "[王*恭]",
+    "pua": "U+F87A7"
+  },
+  "CB34728": {
+    "unicode": "29611",
+    "uni_char": "𩘑",
+    "composition": "[颱-台+英]",
+    "moe_variant_id": "C16333",
+    "pua": "U+F87A8"
+  },
+  "CB34729": {
+    "unicode": "37C8",
+    "uni_char": "㟈",
+    "composition": "[山*求]",
+    "moe_variant_id": "C02776",
+    "pua": "U+F87A9"
+  },
+  "CB34730": {
+    "unicode": "262F",
+    "uni_char": "☯",
+    "composition": "[●○]",
+    "pua": "U+F87AA"
+  },
+  "CB34731": {
+    "unicode": "2E1E2",
+    "uni_char": "𮇢",
+    "composition": "[米*角]",
+    "pua": "U+F87AB"
+  },
+  "CB34732": {
+    "unicode": "5C99",
+    "uni_char": "岙",
+    "composition": "[夭/山]",
+    "pua": "U+F87AC"
+  },
+  "CB34733": {
+    "unicode": "29412",
+    "uni_char": "𩐒",
+    "composition": "[(束*次)/韭]",
+    "moe_variant_id": "B06304-016",
+    "pua": "U+F87AD"
+  },
+  "CB34734": {
+    "composition": "[一/ㄠ/〡]",
+    "pua": "U+F87AE"
+  },
+  "CB34735": {
+    "unicode": "4059",
+    "uni_char": "䁙",
+    "composition": "[目*晏]",
+    "moe_variant_id": "C08444",
+    "pua": "U+F87AF"
+  },
+  "CB34736": {
+    "unicode": "5ACF",
+    "uni_char": "嫏",
+    "composition": "[女*郎]",
+    "moe_variant_id": "C02250",
+    "pua": "U+F87B0"
+  },
+  "CB34737": {
+    "composition": "[病-丙+深]",
+    "pua": "U+F87B1"
+  },
+  "CB34738": {
+    "unicode": "20E5F",
+    "uni_char": "𠹟",
+    "composition": "[謇-言+口]",
+    "moe_variant_id": "B04714-001",
+    "pua": "U+F87B2"
+  },
+  "CB34739": {
+    "unicode": "7AEC",
+    "uni_char": "竬",
+    "composition": "[立*禹]",
+    "moe_variant_id": "C09449",
+    "pua": "U+F87B3"
+  },
+  "CB34740": {
+    "unicode": "7209",
+    "uni_char": "爉",
+    "composition": "[臘-月+火]",
+    "moe_variant_id": "C06893",
+    "pua": "U+F87B4"
+  },
+  "CB34741": {
+    "composition": "[改-己+洼]",
+    "pua": "U+F87B5"
+  },
+  "CB34742": {
+    "composition": "[車*玄]",
+    "pua": "U+F87B6"
+  },
+  "CB34743": {
+    "composition": "[音*(山/夆)]",
+    "pua": "U+F87B7"
+  },
+  "CB34744": {
+    "composition": "[硈-士+令]",
+    "pua": "U+F87B8"
+  },
+  "CB34745": {
+    "composition": "[(令/口)*牙]",
+    "pua": "U+F87B9"
+  },
+  "CB34746": {
+    "composition": "[這-言+(翲-示+(大/巳))]",
+    "pua": "U+F87BA"
   }
 }
