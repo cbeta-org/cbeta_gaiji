@@ -122321,10 +122321,6 @@
     "composition": "[卄/季]",
     "pua": "U+F5B1C"
   },
-  "CB23325": {
-    "composition": "[卄/忽]",
-    "pua": "U+F5B1D"
-  },
   "CB23326": {
     "composition": "[卄/拘]",
     "pua": "U+F5B1E"
@@ -174452,5 +174448,9 @@
   "CB34747": {
     "composition": "[泳-永+(〡*專)]",
     "pua": "U+F87BB"
+  },
+  "CB34748": {
+    "composition": "[浮*(盾-目+(一/巾))]",
+    "pua": "U+F87BC"
   }
 }
