@@ -174452,5 +174452,10 @@
   "CB34748": {
     "composition": "[浮*(盾-目+(一/巾))]",
     "pua": "U+F87BC"
+  },
+  "CB34749": {
+    "composition": "[挨-矢+夫]",
+    "moe_variant_id": "A01764-023",
+    "pua": "U+F87BD"
   }
 }
