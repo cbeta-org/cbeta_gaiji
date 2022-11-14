@@ -174457,5 +174457,23 @@
     "composition": "[挨-矢+夫]",
     "moe_variant_id": "A01764-023",
     "pua": "U+F87BD"
+  },
+  "CB34750": {
+    "composition": "[又/(月-二+(人/人))]",
+    "pua": "U+F87BE"
+  },
+  "CB34751": {
+    "composition": "[穴/(匚*臣)]",
+    "norm_big5_char": "宧",
+    "moe_variant_id": "B00743-006",
+    "pua": "U+F87BF"
+  },
+  "CB34752": {
+    "composition": "[芍-(白-日)]",
+    "pua": "U+F87C0"
+  },
+  "CB34753": {
+    "composition": "[鍪-矛+出]",
+    "pua": "U+F87C1"
   }
 }
