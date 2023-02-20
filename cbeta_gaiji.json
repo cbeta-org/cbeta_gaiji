@@ -22315,6 +22315,8 @@
     "pua": "U+F0D1E"
   },
   "CB03359": {
+    "unicode": "2BEA4",
+    "uni_char": "𫺤",
     "composition": "[怡-台+貞]",
     "pua": "U+F0D1F"
   },
@@ -49471,6 +49473,8 @@
     "pua": "U+F1DC3"
   },
   "CB07620": {
+    "unicode": "31DB7",
+    "uni_char": "𱶷",
     "composition": "[穴/(井*又)]",
     "pua": "U+F1DC4"
   },
@@ -125379,6 +125383,8 @@
     "pua": "U+F5E14"
   },
   "CB24085": {
+    "unicode": "25924",
+    "uni_char": "𥤤",
     "composition": "[穴/几]",
     "pua": "U+F5E15"
   },
@@ -125387,10 +125393,14 @@
     "pua": "U+F5E16"
   },
   "CB24087": {
+    "unicode": "25929",
+    "uni_char": "𥤩",
     "composition": "[穴/亡]",
     "pua": "U+F5E17"
   },
   "CB24088": {
+    "unicode": "2594B",
+    "uni_char": "𥥋",
     "composition": "[穴/令]",
     "pua": "U+F5E18"
   },
@@ -125399,6 +125409,8 @@
     "pua": "U+F5E19"
   },
   "CB24090": {
+    "unicode": "7AA7",
+    "uni_char": "窧",
     "composition": "[穴/卓]",
     "pua": "U+F5E1A"
   },
@@ -125411,14 +125423,20 @@
     "pua": "U+F5E1C"
   },
   "CB24093": {
+    "unicode": "2599D",
+    "uni_char": "𥦝",
     "composition": "[穴/林]",
     "pua": "U+F5E1D"
   },
   "CB24094": {
+    "unicode": "2B055",
+    "uni_char": "𫁕",
     "composition": "[穴/勉]",
     "pua": "U+F5E1E"
   },
   "CB24095": {
+    "unicode": "259CA",
+    "uni_char": "𥧊",
     "composition": "[穴/屋]",
     "pua": "U+F5E1F"
   },
@@ -125427,6 +125445,8 @@
     "pua": "U+F5E20"
   },
   "CB24097": {
+    "unicode": "259D5",
+    "uni_char": "𥧕",
     "composition": "[穴/流]",
     "pua": "U+F5E21"
   },
@@ -125439,6 +125459,8 @@
     "pua": "U+F5E23"
   },
   "CB24100": {
+    "unicode": "2B057",
+    "uni_char": "𫁗",
     "composition": "[穴/掘]",
     "pua": "U+F5E24"
   },
@@ -125447,6 +125469,8 @@
     "pua": "U+F5E25"
   },
   "CB24102": {
+    "unicode": "25A0D",
+    "uni_char": "𥨍",
     "composition": "[穴/復]",
     "pua": "U+F5E26"
   },
@@ -125477,10 +125501,14 @@
     "pua": "U+F5E2D"
   },
   "CB24110": {
+    "unicode": "25A63",
+    "uni_char": "𥩣",
     "composition": "[立*主]",
     "pua": "U+F5E2E"
   },
   "CB24111": {
+    "unicode": "25A7D",
+    "uni_char": "𥩽",
     "composition": "[立*守]",
     "pua": "U+F5E2F"
   },
@@ -125489,10 +125517,14 @@
     "pua": "U+F5E30"
   },
   "CB24113": {
+    "unicode": "41CE",
+    "uni_char": "䇎",
     "composition": "[立*昔]",
     "pua": "U+F5E31"
   },
   "CB24114": {
+    "unicode": "25AA6",
+    "uni_char": "𥪦",
     "composition": "[立*奚]",
     "pua": "U+F5E32"
   },
