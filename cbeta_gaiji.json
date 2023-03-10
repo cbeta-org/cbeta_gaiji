@@ -174508,5 +174508,12 @@
   "CB34753": {
     "composition": "[鍪-矛+出]",
     "pua": "U+F87C1"
+  },
+  "CB34754": {
+    "unicode": "4A47",
+    "uni_char": "䩇",
+    "composition": "[面*占]",
+    "moe_variant_id": "C15732",
+    "pua": "U+F87C2"
   }
 }
