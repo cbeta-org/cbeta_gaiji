@@ -174517,5 +174517,9 @@
     "composition": "[面*占]",
     "moe_variant_id": "C15732",
     "pua": "U+F87C2"
+  },
+  "CB34755": {
+    "composition": "[癸-天+目]",
+    "pua": "U+F87C3"
   }
 }
