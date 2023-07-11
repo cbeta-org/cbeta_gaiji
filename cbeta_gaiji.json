@@ -124210,6 +124210,8 @@
     "pua": "U+F5CEE"
   },
   "CB23791": {
+    "unicode": "3B59",
+    "uni_char": "㭙",
     "composition": "[木*寺]",
     "pua": "U+F5CEF"
   },
@@ -174521,5 +174523,13 @@
   "CB34755": {
     "composition": "[癸-天+目]",
     "pua": "U+F87C3"
+  },
+  "CB34756": {
+    "unicode": "2304E",
+    "uni_char": "𣁎",
+    "composition": "[文/言]",
+    "norm_big5_char": "譽",
+    "moe_variant_id": "A03895-001",
+    "pua": "U+F87C4"
   }
 }
