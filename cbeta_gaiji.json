@@ -16823,6 +16823,8 @@
     "pua": "U+F09CA"
   },
   "CB02507": {
+    "norm_unicode": "2B46E",
+    "norm_uni_char": "𫑮",
     "composition": "[厂@(邱-丘+墨)]",
     "pua": "U+F09CB"
   },
