@@ -174532,5 +174532,11 @@
     "norm_big5_char": "譽",
     "moe_variant_id": "A03895-001",
     "pua": "U+F87C4"
+  },
+  "CB34757": {
+    "composition": "[憚-(口*口)+(ㄙ*ㄙ)]",
+    "norm_big5_char": "憚",
+    "moe_variant_id": "A01439-007",
+    "pua": "U+F87C5"
   }
 }
