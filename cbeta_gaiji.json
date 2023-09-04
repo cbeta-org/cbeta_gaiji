@@ -15114,6 +15114,8 @@
     "pua": "U+F08C8"
   },
   "CB02249": {
+    "norm_unicode": "3F24",
+    "norm_uni_char": "㼤",
     "composition": "[((十/工)*刀)/瓦]",
     "pua": "U+F08C9"
   },
@@ -15326,6 +15328,8 @@
     "pua": "U+F08EA"
   },
   "CB02283": {
+    "norm_unicode": "2D50B",
+    "norm_uni_char": "𭔋",
     "composition": "[宋-木+悎]",
     "pua": "U+F08EB"
   },
@@ -15469,6 +15473,8 @@
     "pua": "U+F08FF"
   },
   "CB02304": {
+    "norm_unicode": "29273",
+    "norm_uni_char": "𩉳",
     "composition": "[革*亢]",
     "pua": "U+F0900"
   },
@@ -16413,6 +16419,8 @@
     "pua": "U+F098F"
   },
   "CB02448": {
+    "norm_unicode": "2C8C1",
+    "norm_uni_char": "𬣁",
     "composition": "[言*害]",
     "pua": "U+F0990"
   },
@@ -16888,6 +16896,8 @@
     "pua": "U+F09D4"
   },
   "CB02517": {
+    "norm_unicode": "3CB2",
+    "norm_uni_char": "㲲",
     "composition": "[(畾/且)*毛]",
     "pua": "U+F09D5"
   },
@@ -17776,6 +17786,8 @@
     "pua": "U+F0A59"
   },
   "CB02651": {
+    "norm_unicode": "24EEF",
+    "norm_uni_char": "𤻯",
     "composition": "[病-丙+(白/(ㄎ*戈))]",
     "pua": "U+F0A5B"
   },
@@ -17827,6 +17839,8 @@
     "pua": "U+F0A62"
   },
   "CB02659": {
+    "norm_unicode": "83B5",
+    "norm_uni_char": "莵",
     "composition": "[菟-(色-巴)+(〦-一)]",
     "pua": "U+F0A63"
   },
@@ -17932,6 +17946,8 @@
     "pua": "U+F0A72"
   },
   "CB02675": {
+    "norm_unicode": "23624",
+    "norm_uni_char": "𣘤",
     "composition": "[楑-天+示]",
     "pua": "U+F0A73"
   },
@@ -18306,6 +18322,7 @@
   },
   "CB02735": {
     "composition": "[口*束*頁]",
+    "norm_big5_char": "𡃤",
     "moe_variant_id": "c18412-002",
     "pua": "U+F0AAF"
   },
@@ -18316,6 +18333,8 @@
     "pua": "U+F0AB0"
   },
   "CB02737": {
+    "unicode": "2BA9B",
+    "uni_char": "𫪛",
     "composition": "[口*長]",
     "pua": "U+F0AB1"
   },
@@ -27378,6 +27397,8 @@
     "pua": "U+F103D"
   },
   "CB04158": {
+    "norm_unicode": "210F0",
+    "norm_uni_char": "𡃰",
     "composition": "[噓*戈]",
     "pua": "U+F103E"
   },
@@ -27453,10 +27474,6 @@
     "uni_char": "𭬧",
     "composition": "[欚-虫]",
     "pua": "U+F104A"
-  },
-  "CB04172": {
-    "composition": "[莫/二/?]",
-    "pua": "U+F104C"
   },
   "CB04173": {
     "unicode": "4F72",
@@ -28135,6 +28152,8 @@
     "pua": "U+F10B7"
   },
   "CB04280": {
+    "unicode": "30F3A",
+    "uni_char": "𰼺",
     "composition": "[鏍-糸+廾]",
     "pua": "U+F10B8"
   },
@@ -28468,7 +28487,9 @@
     "pua": "U+F10EF"
   },
   "CB04336": {
-    "composition": "[金*(竄-臼+囚)]",
+    "unicode": "2E8E8",
+    "uni_char": "𮣨",
+    "composition": "[金*(竄-臼+(ㄇ@人))]",
     "pua": "U+F10F0"
   },
   "CB04337": {
@@ -33514,12 +33535,6 @@
     "uni_char": "𮑤",
     "composition": "[草*(日/巾)]",
     "pua": "U+F1407"
-  },
-  "CB05128": {
-    "unicode": "2E8E8",
-    "uni_char": "𮣨",
-    "composition": "[金*(穴/囚/?)]",
-    "pua": "U+F1408"
   },
   "CB05129": {
     "composition": "[(巢-果+百)*旨]",
@@ -40550,6 +40565,8 @@
     "pua": "U+F1849"
   },
   "CB06218": {
+    "unicode": "32080",
+    "uni_char": "𲂀",
     "composition": "[言*(卄/執/云)]",
     "norm_big5_char": "囈",
     "moe_variant_id": "a00719-002",
@@ -81509,6 +81526,8 @@
     "pua": "U+F3446"
   },
   "CB13383": {
+    "norm_unicode": "2D2B5",
+    "norm_uni_char": "𭊵",
     "composition": "[黍-禾+唎]",
     "pua": "U+F3447"
   },
