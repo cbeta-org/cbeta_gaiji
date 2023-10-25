@@ -174557,5 +174557,12 @@
     "norm_big5_char": "憚",
     "moe_variant_id": "A01439-007",
     "pua": "U+F87C5"
+  },
+  "CB34758": {
+    "unicode": "223F3",
+    "uni_char": "𢏳",
+    "composition": "[弓*并]",
+    "moe_variant_id": "C03427",
+    "pua": "U+F87C6"
   }
 }
