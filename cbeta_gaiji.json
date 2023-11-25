@@ -118415,6 +118415,8 @@
     "pua": "U+F573A"
   },
   "CB22331": {
+    "unicode": "4181",
+    "uni_char": "䆁",
     "composition": "[禾*睪]",
     "pua": "U+F573B"
   },
@@ -131045,6 +131047,8 @@
     "pua": "U+F6387"
   },
   "CB25480": {
+    "unicode": "2562F",
+    "uni_char": "𥘯",
     "composition": "[社-土+末]",
     "pua": "U+F6388"
   },
