@@ -174572,5 +174572,13 @@
   "CB34759": {
     "composition": "[△@▲]",
     "pua": "U+F87C7"
+  },
+  "CB34760": {
+    "unicode": "20B4F",
+    "uni_char": "𠭏",
+    "composition": "[山/〦/中/又]",
+    "norm_big5_char": "事",
+    "moe_variant_id": "A00048-003",
+    "pua": "U+F87C8"
   }
 }
