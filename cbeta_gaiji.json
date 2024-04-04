@@ -174582,5 +174582,9 @@
     "norm_big5_char": "事",
     "moe_variant_id": "A00048-003",
     "pua": "U+F87C8"
+  },
+  "CB34761": {
+    "composition": "[門@(人/人)]",
+    "pua": "U+F87C9"
   }
 }
