@@ -4803,8 +4803,6 @@
     "pua": "U+F029A"
   },
   "CB00667": {
-    "norm_unicode": "7F65",
-    "norm_uni_char": "罥",
     "composition": "[罥-口+ㄙ]",
     "norm_big5_char": "罥",
     "moe_variant_id": "b03514-005",
@@ -5975,8 +5973,6 @@
     "pua": "U+F034B"
   },
   "CB00844": {
-    "norm_unicode": "8FE2",
-    "norm_uni_char": "迢",
     "composition": "[這-言+((美-王-大)/口)]",
     "norm_big5_char": "迢",
     "moe_variant_id": "a04122-002",
@@ -6097,8 +6093,6 @@
     "pua": "U+F035D"
   },
   "CB00862": {
-    "norm_unicode": "747F",
-    "norm_uni_char": "瑿",
     "composition": "[醫-酉+王]",
     "norm_big5_char": "瑿",
     "moe_variant_id": "b02661-006",
@@ -13529,8 +13523,6 @@
     "pua": "U+F07CD"
   },
   "CB01998": {
-    "norm_unicode": "977A",
-    "norm_uni_char": "靺",
     "composition": "[革*未]",
     "norm_big5_char": "靺",
     "pua": "U+F07CE"
@@ -16508,8 +16500,6 @@
     "pua": "U+F0997"
   },
   "CB02456": {
-    "norm_unicode": "7F3E",
-    "norm_uni_char": "缾",
     "composition": "[卸-ㄗ+并]",
     "norm_big5_char": "缾",
     "moe_variant_id": "b03496-004",
@@ -19851,8 +19841,6 @@
     "pua": "U+F0B93"
   },
   "CB02964": {
-    "norm_unicode": "8A39",
-    "norm_uni_char": "訹",
     "composition": "[訧-尢+木]",
     "norm_big5_char": "訹",
     "pua": "U+F0B94"
@@ -20798,8 +20786,8 @@
     "pua": "U+F0C26"
   },
   "CB03111": {
-    "norm_unicode": "2D2F9",
-    "norm_uni_char": "𭋹",
+    "unicode": "2D2F9",
+    "uni_char": "𭋹",
     "composition": "[口*(匕/示)*(入/米)]",
     "pua": "U+F0C27"
   },
@@ -22838,8 +22826,6 @@
     "pua": "U+F0D65"
   },
   "CB03430": {
-    "norm_unicode": "7F39",
-    "norm_uni_char": "缹",
     "composition": "[缹-山+止]",
     "norm_big5_char": "缹",
     "moe_variant_id": "b02386-004",
@@ -26867,8 +26853,6 @@
     "pua": "U+F0FE2"
   },
   "CB04067": {
-    "norm_unicode": "6541",
-    "norm_uni_char": "敁",
     "composition": "[占*ㄆ]",
     "norm_big5_char": "敁",
     "moe_variant_id": "b01467-001",
@@ -31535,8 +31519,6 @@
     "pua": "U+F12BE"
   },
   "CB04799": {
-    "norm_unicode": "548E",
-    "norm_uni_char": "咎",
     "composition": "[咎-人+卜]",
     "norm_big5_char": "咎",
     "moe_variant_id": "a00562-002",
@@ -31950,8 +31932,6 @@
     "pua": "U+F1300"
   },
   "CB04865": {
-    "norm_unicode": "7704",
-    "norm_uni_char": "眄",
     "composition": "[目*丐]",
     "norm_big5_char": "眄",
     "moe_variant_id": "b02849-002",
@@ -34555,8 +34535,6 @@
     "pua": "U+F1492"
   },
   "CB05267": {
-    "norm_unicode": "6C94",
-    "norm_uni_char": "沔",
     "composition": "[沔-丏+丐]",
     "norm_big5_char": "沔",
     "moe_variant_id": "b02031-002",
@@ -40421,8 +40399,6 @@
     "pua": "U+F1813"
   },
   "CB06164": {
-    "norm_unicode": "76DD",
-    "norm_uni_char": "盝",
     "composition": "[盝-(彖-豕)+?]",
     "norm_big5_char": "盝",
     "moe_variant_id": "b02840-003",
@@ -43747,8 +43723,6 @@
     "pua": "U+F1A26"
   },
   "CB06695": {
-    "norm_unicode": "55E4",
-    "norm_uni_char": "嗤",
     "composition": "[口*(山/一/虫)]",
     "norm_big5_char": "嗤",
     "moe_variant_id": "a00654-007",
@@ -47206,8 +47180,6 @@
     "pua": "U+F1C3B"
   },
   "CB07228": {
-    "norm_unicode": "96CC",
-    "norm_uni_char": "雌",
     "composition": "[此/隹]",
     "norm_big5_char": "雌",
     "moe_variant_id": "a04459-003",
@@ -48471,8 +48443,6 @@
     "pua": "U+F1CF7"
   },
   "CB07416": {
-    "norm_unicode": "86A9",
-    "norm_uni_char": "蚩",
     "composition": "[山/一/虫]",
     "norm_big5_char": "蚩",
     "moe_variant_id": "a03621-007",
@@ -50318,8 +50288,6 @@
     "pua": "U+F1E20"
   },
   "CB07713": {
-    "norm_unicode": "73CA",
-    "norm_uni_char": "珊",
     "composition": "[狦-(狂-王)+王]",
     "norm_big5_char": "珊",
     "moe_variant_id": "a02560-004",
@@ -52579,8 +52547,6 @@
     "pua": "U+F1F86"
   },
   "CB08071": {
-    "norm_unicode": "4E0E",
-    "norm_uni_char": "与",
     "composition": "[├/刁]",
     "norm_big5_char": "与",
     "pua": "U+F1F87"
@@ -53874,8 +53840,6 @@
     "pua": "U+F2046"
   },
   "CB08263": {
-    "norm_unicode": "74DE",
-    "norm_uni_char": "瓞",
     "composition": "[瓜*失]",
     "norm_big5_char": "瓞",
     "pua": "U+F2047"
@@ -57293,8 +57257,6 @@
     "pua": "U+F225D"
   },
   "CB08798": {
-    "norm_unicode": "7F3A",
-    "norm_uni_char": "缺",
     "composition": "[卸-ㄗ+夬]",
     "norm_big5_char": "缺",
     "moe_variant_id": "a03197-004",
@@ -57726,8 +57688,6 @@
     "pua": "U+F229E"
   },
   "CB08863": {
-    "norm_unicode": "57CC",
-    "norm_uni_char": "埌",
     "composition": "[垣-旦+艮]",
     "norm_big5_char": "埌",
     "pua": "U+F229F"
@@ -58782,8 +58742,6 @@
     "pua": "U+F2340"
   },
   "CB09025": {
-    "norm_unicode": "754B",
-    "norm_uni_char": "畋",
     "composition": "[敲-高+田]",
     "norm_big5_char": "畋",
     "moe_variant_id": "b02724-004",
@@ -58797,8 +58755,6 @@
     "pua": "U+F2342"
   },
   "CB09027": {
-    "norm_unicode": "6553",
-    "norm_uni_char": "敓",
     "composition": "[敲-高+兌]",
     "norm_big5_char": "敓",
     "moe_variant_id": "b01473-009",
@@ -59348,8 +59304,6 @@
     "pua": "U+F2399"
   },
   "CB09114": {
-    "norm_unicode": "530B",
-    "norm_uni_char": "匋",
     "composition": "[匋-山+止]",
     "norm_big5_char": "匋",
     "moe_variant_id": "c00807-001",
@@ -59901,8 +59855,6 @@
     "pua": "U+F23F9"
   },
   "CB09210": {
-    "norm_unicode": "81BA",
-    "norm_uni_char": "膺",
     "composition": "[(應-心)/肉]",
     "norm_big5_char": "膺",
     "pua": "U+F23FA"
@@ -60781,8 +60733,6 @@
     "pua": "U+F249A"
   },
   "CB09371": {
-    "norm_unicode": "65C4",
-    "norm_uni_char": "旄",
     "composition": "[方*(企-止+毛)]",
     "norm_big5_char": "旄",
     "pua": "U+F249B"
@@ -61355,8 +61305,6 @@
     "pua": "U+F2504"
   },
   "CB09477": {
-    "norm_unicode": "7F43",
-    "norm_uni_char": "罃",
     "composition": "[勞-力+(卸-ㄗ)]",
     "norm_big5_char": "罃",
     "moe_variant_id": "b03498-001",
@@ -61438,8 +61386,6 @@
     "pua": "U+F2513"
   },
   "CB09492": {
-    "norm_unicode": "5FB9",
-    "norm_uni_char": "徹",
     "composition": "[彳*育*(敲-高)]",
     "norm_big5_char": "徹",
     "moe_variant_id": "a01301-009",
@@ -65048,8 +64994,6 @@
     "pua": "U+F27CD"
   },
   "CB10191": {
-    "norm_unicode": "4E0E",
-    "norm_uni_char": "与",
     "composition": "[焉-正]",
     "norm_big5_char": "与",
     "moe_variant_id": "b00005-001",
@@ -65510,8 +65454,6 @@
     "pua": "U+F2825"
   },
   "CB10278": {
-    "norm_unicode": "992E",
-    "norm_uni_char": "餮",
     "composition": "[餐-又+(珍-王)]",
     "norm_big5_char": "餮",
     "moe_variant_id": "b05746-009",
@@ -65994,8 +65936,6 @@
     "pua": "U+F287C"
   },
   "CB10365": {
-    "norm_unicode": "8C70",
-    "norm_uni_char": "豰",
     "composition": "[愨-心+豕]",
     "norm_big5_char": "豰",
     "pua": "U+F287D"
@@ -70732,8 +70672,6 @@
     "pua": "U+F2B72"
   },
   "CB11123": {
-    "norm_unicode": "818B",
-    "norm_uni_char": "膋",
     "composition": "[勞-力+肉]",
     "norm_big5_char": "膋",
     "moe_variant_id": "b03697-001",
@@ -71438,8 +71376,6 @@
     "pua": "U+F2BEA"
   },
   "CB11243": {
-    "norm_unicode": "9EB0",
-    "norm_uni_char": "麰",
     "composition": "[麰-牛+干]",
     "norm_big5_char": "麰",
     "moe_variant_id": "b06233-004",
@@ -71895,8 +71831,6 @@
     "pua": "U+F2C3D"
   },
   "CB11327": {
-    "norm_unicode": "6B82",
-    "norm_uni_char": "殂",
     "composition": "[(餐-食)-又+且]",
     "norm_big5_char": "殂",
     "moe_variant_id": "b01940-009",
@@ -71917,8 +71851,6 @@
     "pua": "U+F2C41"
   },
   "CB11330": {
-    "norm_unicode": "6B9E",
-    "norm_uni_char": "殞",
     "composition": "[(餐-食)-又+員]",
     "norm_big5_char": "殞",
     "moe_variant_id": "b01951-004_1",
@@ -73356,8 +73288,6 @@
     "pua": "U+F2D63"
   },
   "CB11620": {
-    "norm_unicode": "6553",
-    "norm_uni_char": "敓",
     "composition": "[(寇-(宋-木))-元+兌]",
     "norm_big5_char": "敓",
     "pua": "U+F2D64"
@@ -74296,8 +74226,6 @@
     "pua": "U+F2E0D"
   },
   "CB11790": {
-    "norm_unicode": "5F02",
-    "norm_uni_char": "异",
     "composition": "[巳/廾]",
     "norm_big5_char": "异",
     "moe_variant_id": "b00999-002",
@@ -76645,8 +76573,6 @@
     "pua": "U+F2F8E"
   },
   "CB12175": {
-    "norm_unicode": "6519",
-    "norm_uni_char": "攙",
     "composition": "[攙-、]",
     "norm_big5_char": "攙",
     "moe_variant_id": "a01707-002",
@@ -77019,8 +76945,6 @@
     "pua": "U+F2FCE"
   },
   "CB12239": {
-    "norm_unicode": "53F2",
-    "norm_uni_char": "史",
     "composition": "[中-〡+人]",
     "norm_big5_char": "史",
     "moe_variant_id": "a00494-003",
@@ -78976,8 +78900,6 @@
     "pua": "U+F3121"
   },
   "CB12578": {
-    "norm_unicode": "9DC7",
-    "norm_uni_char": "鷇",
     "composition": "[愨-心+鳥]",
     "norm_big5_char": "鷇",
     "moe_variant_id": "b06142-012",
@@ -79427,8 +79349,6 @@
     "pua": "U+F3172"
   },
   "CB12659": {
-    "norm_unicode": "8564",
-    "norm_uni_char": "蕤",
     "composition": "[卄/(豕*生)]",
     "norm_big5_char": "蕤",
     "pua": "U+F3173"
@@ -80369,8 +80289,6 @@
     "pua": "U+F3223"
   },
   "CB12836": {
-    "norm_unicode": "6575",
-    "norm_uni_char": "敵",
     "composition": "[敲-高+(嫡-女)]",
     "norm_big5_char": "敵",
     "moe_variant_id": "a01737-022",
@@ -80385,8 +80303,6 @@
     "pua": "U+F3226"
   },
   "CB12840": {
-    "norm_unicode": "9B3E",
-    "norm_uni_char": "鬾",
     "composition": "[魅-未+(敲-高)]",
     "norm_big5_char": "鬾",
     "pua": "U+F3228"
@@ -81273,8 +81189,6 @@
     "pua": "U+F32D8"
   },
   "CB13017": {
-    "norm_unicode": "8648",
-    "norm_uni_char": "虈",
     "composition": "[卄/(耜-耒+((耜-耒)*頁))]",
     "norm_big5_char": "虈",
     "pua": "U+F32D9"
@@ -81306,8 +81220,6 @@
     "pua": "U+F32E1"
   },
   "CB13026": {
-    "norm_unicode": "9DDE",
-    "norm_uni_char": "鷞",
     "composition": "[鷞-(爻*爻)+(俎-且+(俎-且))]",
     "norm_big5_char": "鷞",
     "pua": "U+F32E2"
@@ -83936,8 +83848,6 @@
     "pua": "U+F34D4"
   },
   "CB13525": {
-    "norm_unicode": "83DF",
-    "norm_uni_char": "菟",
     "composition": "[菟-、+ㄙ]",
     "norm_big5_char": "菟",
     "moe_variant_id": "b03918-016",
@@ -90167,8 +90077,8 @@
     "pua": "U+F38DE"
   },
   "CB14559": {
-    "unicode": "2D2F9",
-    "uni_char": "𭋹",
+    "norm_unicode": "2D2F9",
+    "norm_uni_char": "𭋹",
     "composition": "[口*(匕/示)*(企-止+米)]",
     "pua": "U+F38DF"
   },
@@ -91561,8 +91471,6 @@
     "pua": "U+F3AF3"
   },
   "CB15092": {
-    "norm_unicode": "6677",
-    "norm_uni_char": "晷",
     "composition": "[晷-人+卜]",
     "norm_big5_char": "晷",
     "moe_variant_id": "b01562-001",
@@ -91651,8 +91559,6 @@
     "pua": "U+F3B01"
   },
   "CB15106": {
-    "norm_unicode": "9B31",
-    "norm_uni_char": "鬱",
     "composition": "[鬱-山+止]",
     "norm_big5_char": "鬱",
     "moe_variant_id": "a04681-029",
@@ -91688,8 +91594,6 @@
     "pua": "U+F3B06"
   },
   "CB15111": {
-    "norm_unicode": "89B7",
-    "norm_uni_char": "覷",
     "composition": "[覤-儿+丘]",
     "norm_big5_char": "覷",
     "moe_variant_id": "b04600-008",
@@ -91944,8 +91848,6 @@
     "pua": "U+F3B33"
   },
   "CB15156": {
-    "norm_unicode": "7891",
-    "norm_uni_char": "碑",
     "composition": "[石*((白-日+田)/廾)]",
     "norm_big5_char": "碑",
     "pua": "U+F3B34"
@@ -92699,8 +92601,6 @@
     "pua": "U+F3BBC"
   },
   "CB15293": {
-    "norm_unicode": "5D4B",
-    "norm_uni_char": "嵋",
     "composition": "[山/眉]",
     "norm_big5_char": "嵋",
     "moe_variant_id": "b00844-003",
@@ -92826,8 +92726,6 @@
     "pua": "U+F3BCF"
   },
   "CB15312": {
-    "norm_unicode": "702B",
-    "norm_uni_char": "瀫",
     "composition": "[瀫-一]",
     "norm_big5_char": "瀫",
     "pua": "U+F3BD0"
@@ -95389,8 +95287,6 @@
     "pua": "U+F3D90"
   },
   "CB15761": {
-    "norm_unicode": "8653",
-    "norm_uni_char": "虓",
     "composition": "[旭-日+(虎-儿+几)]",
     "norm_big5_char": "虓",
     "pua": "U+F3D91"
@@ -96855,8 +96751,6 @@
     "pua": "U+F3E8D"
   },
   "CB16014": {
-    "norm_unicode": "979E",
-    "norm_uni_char": "鞞",
     "composition": "[鞥-合+(白-日+田)]",
     "norm_big5_char": "鞞",
     "pua": "U+F3E8E"
@@ -99585,8 +99479,6 @@
     "pua": "U+F4074"
   },
   "CB16501": {
-    "norm_unicode": "7214",
-    "norm_uni_char": "爔",
     "composition": "[爔-ㄎ+乃]",
     "norm_big5_char": "爔",
     "moe_variant_id": "c06896-001",
@@ -100012,8 +99904,6 @@
     "pua": "U+F40CA"
   },
   "CB16587": {
-    "norm_unicode": "88D2",
-    "norm_uni_char": "裒",
     "composition": "[褒-保+臼]",
     "norm_big5_char": "裒",
     "moe_variant_id": "b04512-001",
@@ -101052,8 +100942,6 @@
     "pua": "U+F418B"
   },
   "CB16780": {
-    "norm_unicode": "77A0",
-    "norm_uni_char": "瞠",
     "composition": "[日*堂]",
     "norm_big5_char": "瞠",
     "moe_variant_id": "a02797-005",
@@ -101166,8 +101054,6 @@
     "pua": "U+F41A1"
   },
   "CB16802": {
-    "norm_unicode": "8653",
-    "norm_uni_char": "虓",
     "composition": "[旭-日+虎]",
     "norm_big5_char": "虓",
     "pua": "U+F41A2"
@@ -101310,8 +101196,6 @@
     "pua": "U+F41BB"
   },
   "CB16828": {
-    "norm_unicode": "8765",
-    "norm_uni_char": "蝥",
     "composition": "[蝥-ㄆ+(敲-高)]",
     "norm_big5_char": "蝥",
     "moe_variant_id": "b04342-001",
@@ -108592,8 +108476,6 @@
     "pua": "U+F46FF"
   },
   "CB18176": {
-    "norm_unicode": "8731",
-    "norm_uni_char": "蜱",
     "composition": "[虫*((白-日+田)/廾)]",
     "norm_big5_char": "蜱",
     "pua": "U+F4700"
@@ -108851,8 +108733,6 @@
     "pua": "U+F472D"
   },
   "CB18222": {
-    "norm_unicode": "5147",
-    "norm_uni_char": "兇",
     "composition": "[凶/几]",
     "norm_big5_char": "兇",
     "moe_variant_id": "a00269-009",
@@ -110835,8 +110715,6 @@
     "pua": "U+F48A7"
   },
   "CB18600": {
-    "norm_unicode": "59EC",
-    "norm_uni_char": "姬",
     "composition": "[女*(匚@(〡*(臣-巨+(巨-匚))))]",
     "norm_big5_char": "姬",
     "moe_variant_id": "a00932-011",
@@ -111866,8 +111744,6 @@
     "pua": "U+F4974"
   },
   "CB18805": {
-    "norm_unicode": "4E0E",
-    "norm_uni_char": "与",
     "composition": "[十-〡+(与-一)]",
     "norm_big5_char": "与",
     "moe_variant_id": "b00005-005",
@@ -114249,8 +114125,6 @@
     "pua": "U+F523D"
   },
   "CB21054": {
-    "norm_unicode": "66AB",
-    "norm_uni_char": "暫",
     "composition": "[車*(斤/日)]",
     "norm_big5_char": "暫",
     "moe_variant_id": "a01820-004",
@@ -118611,8 +118485,6 @@
     "pua": "U+F557B"
   },
   "CB21884": {
-    "norm_unicode": "9AFB",
-    "norm_uni_char": "髻",
     "composition": "[肆-聿+((彰-章)/(土/口))]",
     "norm_big5_char": "髻",
     "pua": "U+F557C"
@@ -118919,8 +118791,6 @@
     "pua": "U+F55AB"
   },
   "CB21932": {
-    "norm_unicode": "669D",
-    "norm_uni_char": "暝",
     "composition": "[日*(宴-女+六)]",
     "norm_big5_char": "暝",
     "pua": "U+F55AC"
@@ -118973,8 +118843,6 @@
     "pua": "U+F55B3"
   },
   "CB21940": {
-    "norm_unicode": "8B92",
-    "norm_uni_char": "讒",
     "composition": "[讒-、]",
     "norm_big5_char": "讒",
     "moe_variant_id": "a03899-005",
@@ -119231,8 +119099,6 @@
     "pua": "U+F55DE"
   },
   "CB21983": {
-    "norm_unicode": "86AA",
-    "norm_uni_char": "蚪",
     "composition": "[(乏-之+虫)*斗]",
     "norm_big5_char": "蚪",
     "pua": "U+F55DF"
@@ -136390,6 +136256,8 @@
     "unicode": "3445",
     "uni_char": "㑅",
     "composition": "[侮-母+上]",
+    "norm_big5_char": "作",
+    "moe_variant_id": "A00123-001",
     "pua": "U+F63E9"
   },
   "CB25578": {
@@ -159162,8 +159030,6 @@
     "pua": "U+F7820"
   },
   "CB30753": {
-    "norm_unicode": "8307",
-    "norm_uni_char": "茇",
     "composition": "[茇-乂+又]",
     "norm_big5_char": "茇",
     "moe_variant_id": "b03816-002",
@@ -174354,8 +174220,6 @@
     "pua": "U+F8382"
   },
   "CB33667": {
-    "norm_unicode": "5DC6",
-    "norm_uni_char": "巆",
     "composition": "[山/營]",
     "norm_big5_char": "巆",
     "pua": "U+F8383"
@@ -174669,8 +174533,6 @@
     "pua": "U+F83B7"
   },
   "CB33720": {
-    "norm_unicode": "8C65",
-    "norm_uni_char": "豥",
     "composition": "[亥*豕]",
     "norm_big5_char": "豥",
     "pua": "U+F83B8"
