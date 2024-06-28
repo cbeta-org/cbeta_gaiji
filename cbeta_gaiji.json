@@ -180936,5 +180936,17 @@
     "norm_big5_char": "筣",
     "moe_variant_id": "C09592-001",
     "pua": "U+F87CB"
+  },
+  "CB34764": {
+    "unicode": "20575",
+    "uni_char": "𠕵",
+    "composition": "[冗-几+凡]",
+    "norm_big5_char": "亢",
+    "moe_variant_id": "B00013-006",
+    "pua": "U+F87CC"
+  },
+  "CB34765": {
+    "composition": "[巾*扈]",
+    "pua": "U+F87CD"
   }
 }
