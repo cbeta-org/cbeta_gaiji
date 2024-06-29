@@ -66281,6 +66281,7 @@
     "unicode": "221B0",
     "uni_char": "𢆰",
     "composition": "[一/ㄠ]",
+    "moe_variant_id": "A00053-005-1",
     "pua": "U+F28BB"
   },
   "CB10428": {
@@ -121190,6 +121191,7 @@
   },
   "CB22344": {
     "composition": "[米/里]",
+    "moe_variant_id": "A03073-008",
     "pua": "U+F5748"
   },
   "CB22345": {
@@ -122119,6 +122121,7 @@
     "unicode": "203E1",
     "uni_char": "𠏡",
     "composition": "[仁-二+零]",
+    "moe_variant_id": "A00086-003",
     "pua": "U+F5805"
   },
   "CB22534": {
@@ -125429,6 +125432,7 @@
     "unicode": "44C3",
     "uni_char": "䓃",
     "composition": "[卄/邑]",
+    "moe_variant_id": "C11542",
     "pua": "U+F5B1A"
   },
   "CB23323": {
@@ -129321,6 +129325,7 @@
     "unicode": "212CD",
     "uni_char": "𡋍",
     "composition": "[共/土]",
+    "moe_variant_id": "B03202-010",
     "pua": "U+F5E3F"
   },
   "CB24128": {
@@ -129335,6 +129340,7 @@
     "unicode": "2DA76",
     "uni_char": "𭩶",
     "composition": "[列/木]",
+    "moe_variant_id": "A01926-003",
     "pua": "U+F5E42"
   },
   "CB24131": {
@@ -130321,16 +130327,15 @@
     "pua": "U+F5F08"
   },
   "CB24329": {
+    "unicode": "27971",
+    "uni_char": "𧥱",
     "composition": "[言*夫]",
+    "moe_variant_id": "C13030",
     "pua": "U+F5F09"
   },
   "CB24330": {
     "composition": "[言*廿]",
     "pua": "U+F5F0A"
-  },
-  "CB24331": {
-    "composition": "[言*心]",
-    "pua": "U+F5F0B"
   },
   "CB24332": {
     "unicode": "2797E",
@@ -140571,6 +140576,7 @@
     "unicode": "27992",
     "uni_char": "𧦒",
     "composition": "[言*(弓/一)]",
+    "moe_variant_id": "A03811-004",
     "pua": "U+F67ED"
   },
   "CB26606": {
@@ -144385,6 +144391,7 @@
     "unicode": "30F1B",
     "uni_char": "𰼛",
     "composition": "[((〦/米)*力)/里]",
+    "moe_variant_id": "A04260-011",
     "pua": "U+F6BAA"
   },
   "CB27563": {
@@ -145359,6 +145366,7 @@
   },
   "CB27816": {
     "composition": "[泳-永+(常-吊+子)]",
+    "moe_variant_id": "B02100-001",
     "pua": "U+F6CA8"
   },
   "CB27818": {
@@ -146028,6 +146036,7 @@
   },
   "CB27988": {
     "composition": "[(修-(仁-二)+彳)/心]",
+    "moe_variant_id": "A01364-014",
     "pua": "U+F6D54"
   },
   "CB27989": {
@@ -146833,6 +146842,7 @@
   },
   "CB28195": {
     "composition": "[拐-刀+(之-、)]",
+    "moe_variant_id": "A01579-001",
     "pua": "U+F6E23"
   },
   "CB28196": {
