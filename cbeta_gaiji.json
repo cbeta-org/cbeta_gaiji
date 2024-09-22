@@ -129406,7 +129406,11 @@
     "pua": "U+F5E4F"
   },
   "CB24145": {
+    "unicode": "2667C",
+    "uni_char": "𦙼",
     "composition": "[此/月]",
+    "norm_big5_char": "胔",
+    "moe_variant_id": "B03652-002",
     "pua": "U+F5E51"
   },
   "CB24146": {
@@ -163709,8 +163713,11 @@
     "pua": "U+F7B6D"
   },
   "CB31598": {
+    "norm_unicode": "260AF",
+    "norm_uni_char": "𦂯",
     "composition": "[終-ㄆ+免]",
-    "norm_big5_char": "終",
+    "norm_big5_char": "讒",
+    "moe_variant_id": "B03491-005",
     "pua": "U+F7B6E"
   },
   "CB31599": {
