@@ -181604,5 +181604,24 @@
     "uni_char": "𥿀",
     "composition": "[糸*日]",
     "pua": "U+F882C"
+  },
+  "CB34861": {
+    "composition": "[├/見]",
+    "pua": "U+F882D"
+  },
+  "CB34862": {
+    "unicode": "26A17",
+    "uni_char": "𦨗",
+    "composition": "[敲-高+舟]",
+    "norm_big5_char": "般",
+    "moe_variant_id": "A03415-001",
+    "pua": "U+F882E"
+  },
+  "CB34863": {
+    "unicode": "242B2",
+    "uni_char": "𤊲",
+    "composition": "[瑙-王+火]",
+    "moe_variant_id": "C06788",
+    "pua": "U+F882F"
   }
 }
