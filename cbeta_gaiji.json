@@ -181623,5 +181623,31 @@
     "composition": "[瑙-王+火]",
     "moe_variant_id": "C06788",
     "pua": "U+F882F"
+  },
+  "CB34864": {
+    "unicode": "2E7E3",
+    "uni_char": "𮟣",
+    "composition": "[邊-(穴/方)+容]",
+    "norm_big5_char": "邊",
+    "moe_variant_id": "A04196-052",
+    "pua": "U+F8830"
+  },
+  "CB34865": {
+    "unicode": "2065A",
+    "uni_char": "𠙚",
+    "composition": "[皮-(〡/又)+(處-虍+王)]",
+    "norm_big5_char": "處",
+    "moe_variant_id": "A03607-001",
+    "pua": "U+F8831"
+  },
+  "CB34866": {
+    "composition": "[小/果]",
+    "norm_big5_char": "巢",
+    "moe_variant_id": "C02571-003",
+    "pua": "U+F8832"
+  },
+  "CB34867": {
+    "composition": "[恢-火+么]",
+    "pua": "U+F8833"
   }
 }
