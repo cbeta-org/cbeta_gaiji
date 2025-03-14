@@ -122910,6 +122910,7 @@
   },
   "CB22704": {
     "composition": "[諒-口+日]",
+    "moe_variant_id": "A03845-001",
     "pua": "U+F58B0"
   },
   "CB22705": {
@@ -123668,6 +123669,7 @@
     "unicode": "2087D",
     "uni_char": "𠡽",
     "composition": "[(京-口+日)*力]",
+    "moe_variant_id": "B00255-001",
     "pua": "U+F596A"
   },
   "CB22891": {
@@ -136899,6 +136901,7 @@
     "unicode": "22C4A",
     "uni_char": "𢱊",
     "composition": "[掠-口+日]",
+    "moe_variant_id": "A01586-001",
     "pua": "U+F6476"
   },
   "CB25719": {
@@ -140257,6 +140260,7 @@
     "unicode": "7174",
     "uni_char": "煴",
     "composition": "[火*(日/皿)]",
+    "moe_variant_id": "B02420-003",
     "pua": "U+F6796"
   },
   "CB26519": {
@@ -140701,7 +140705,10 @@
     "pua": "U+F680A"
   },
   "CB26635": {
+    "unicode": "2907F",
+    "uni_char": "𩁿",
     "composition": "[雨/(匚@一)]",
+    "moe_variant_id": "A03605-029-1",
     "pua": "U+F680B"
   },
   "CB26636": {
@@ -145071,6 +145078,7 @@
   },
   "CB27738": {
     "composition": "[打-丁+(孝-子+丁)]",
+    "moe_variant_id": "A01563-001",
     "pua": "U+F6C5A"
   },
   "CB27739": {
@@ -155500,6 +155508,7 @@
     "unicode": "29D4B",
     "uni_char": "𩵋",
     "composition": "[魚-(烈-列)+大]",
+    "moe_variant_id": "A04691-004",
     "pua": "U+F75A0"
   },
   "CB30113": {
@@ -164191,6 +164200,7 @@
     "unicode": "5BAB",
     "uni_char": "宫",
     "composition": "[宋-木+(口/口)]",
+    "moe_variant_id": "A01028-001",
     "pua": "U+F7BCF"
   },
   "CB31696": {
@@ -168131,6 +168141,7 @@
   },
   "CB32550": {
     "composition": "[((嘹-口)-小)-日+(隹/寸)]",
+    "moe_variant_id": "A00874-017",
     "pua": "U+F7F26"
   },
   "CB32551": {
@@ -178076,7 +178087,7 @@
     "uni_char": "禄",
     "composition": "[祿-(彖-豕)+(┐@一)]",
     "norm_big5_char": "祿",
-    "moe_variant_id": "a02898-008",
+    "moe_variant_id": "A02898-024",
     "pua": "U+F85F2"
   },
   "CB34291": {
@@ -178837,6 +178848,7 @@
     "unicode": "8F3C",
     "uni_char": "輼",
     "composition": "[輥-比+皿]",
+    "moe_variant_id": "B05038-001",
     "pua": "U+F866F"
   },
   "CB34416": {
@@ -181649,5 +181661,100 @@
   "CB34867": {
     "composition": "[恢-火+么]",
     "pua": "U+F8833"
+  },
+  "CB34868": {
+    "unicode": "25B41",
+    "uni_char": "𥭁",
+    "composition": "[竺-二+米]",
+    "pua": "U+F8834"
+  },
+  "CB34869": {
+    "unicode": "20114",
+    "uni_char": "𠄔",
+    "composition": "[?予]",
+    "norm_big5_char": "幻",
+    "moe_variant_id": "A01197-001",
+    "pua": "U+F8835"
+  },
+  "CB34870": {
+    "composition": "[八/ㄅ/羽]",
+    "pua": "U+F8836"
+  },
+  "CB34871": {
+    "unicode": "6E0C",
+    "uni_char": "渌",
+    "composition": "[淥-(彖-豕)+(┐@一)]",
+    "norm_big5_char": "淥",
+    "moe_variant_id": "B02145-001",
+    "pua": "U+F8837"
+  },
+  "CB34872": {
+    "unicode": "21356",
+    "uni_char": "𡍖",
+    "composition": "[土*(彔-(彖-豕)+(┐@一))]",
+    "norm_big5_char": "埭",
+    "moe_variant_id": "B00542-006",
+    "pua": "U+F8838"
+  },
+  "CB34874": {
+    "unicode": "226D5",
+    "uni_char": "𢛕",
+    "composition": "[怡-台+囷]",
+    "moe_variant_id": "C03737",
+    "pua": "U+F883A"
+  },
+  "CB34875": {
+    "unicode": "260A0",
+    "uni_char": "𦂠",
+    "composition": "[綡-口+日]",
+    "moe_variant_id": "C10288",
+    "pua": "U+F883B"
+  },
+  "CB34876": {
+    "unicode": "2F825",
+    "uni_char": "勇",
+    "composition": "[勇-用+田]",
+    "norm_big5_char": "勇",
+    "moe_variant_id": "A00388-002",
+    "pua": "U+F883C"
+  },
+  "CB34877": {
+    "unicode": "6E07",
+    "uni_char": "渇",
+    "composition": "[渴-人+(乏-之)]",
+    "norm_big5_char": "渴",
+    "moe_variant_id": "A02267-001",
+    "pua": "U+F883D"
+  },
+  "CB34878": {
+    "unicode": "9AD9",
+    "uni_char": "髙",
+    "composition": "[扃-戶+(〦/(〡*(一/一)*〡))]",
+    "norm_big5_char": "高",
+    "moe_variant_id": "A04667-003",
+    "pua": "U+F883E"
+  },
+  "CB34879": {
+    "unicode": "4E89",
+    "uni_char": "争",
+    "composition": "[爭-(采-木)+(色-巴)]",
+    "norm_big5_char": "爭",
+    "moe_variant_id": "A02468-001",
+    "pua": "U+F883F"
+  },
+  "CB34880": {
+    "unicode": "9759",
+    "uni_char": "静",
+    "composition": "[靜-(采-木)+(色-巴)]",
+    "norm_big5_char": "靜",
+    "moe_variant_id": "A04502-001",
+    "pua": "U+F8840"
+  },
+  "CB34881": {
+    "norm_unicode": "29C7F",
+    "norm_uni_char": "𩱿",
+    "composition": "[鬼-(白-日)+亡]",
+    "norm_big5_char": "魅",
+    "pua": "U+F8841"
   }
 }
