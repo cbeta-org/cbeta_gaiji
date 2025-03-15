@@ -142373,10 +142373,10 @@
     "pua": "U+F69AF"
   },
   "CB27057": {
-    "unicode": "233FD",
-    "uni_char": "𣏽",
+    "unicode": "22A8A",
+    "uni_char": "𢪊",
     "composition": "[打-丁+(敲-高)]",
-    "moe_variant_id": "a01880-002",
+    "moe_variant_id": "C04127",
     "pua": "U+F69B1"
   },
   "CB27058": {
@@ -181756,5 +181756,27 @@
     "composition": "[鬼-(白-日)+亡]",
     "norm_big5_char": "魅",
     "pua": "U+F8841"
+  },
+  "CB34882": {
+    "unicode": "226D4",
+    "uni_char": "𢛔",
+    "composition": "[怡-台+東]",
+    "moe_variant_id": "C03728",
+    "pua": "U+F8842"
+  },
+  "CB34883": {
+    "unicode": "25783",
+    "uni_char": "𥞃",
+    "composition": "[禾*出]",
+    "moe_variant_id": "C09055",
+    "pua": "U+F8843"
+  },
+  "CB34884": {
+    "unicode": "3943",
+    "uni_char": "㥃",
+    "composition": "[怡-台+門]",
+    "norm_big5_char": "悶",
+    "moe_variant_id": "A01384-001",
+    "pua": "U+F8844"
   }
 }
