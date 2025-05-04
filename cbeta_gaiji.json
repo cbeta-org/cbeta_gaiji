@@ -138192,6 +138192,8 @@
     "norm_unicode": "28AB8",
     "norm_uni_char": "𨪸",
     "composition": "[錘-┴+山]",
+    "norm_big5_char": "錘",
+    "moe_variant_id": "A04325-005",
     "pua": "U+F6598"
   },
   "CB26009": {
@@ -181778,5 +181780,107 @@
     "norm_big5_char": "悶",
     "moe_variant_id": "A01384-001",
     "pua": "U+F8844"
+  },
+  "CB34885": {
+    "unicode": "72ED",
+    "uni_char": "狭",
+    "composition": "[狹-(人*人)+(前-刖)]",
+    "norm_big5_char": "狹",
+    "moe_variant_id": "A02520-001",
+    "pua": "U+F8845"
+  },
+  "CB34886": {
+    "unicode": "2D0C4",
+    "uni_char": "𭃄",
+    "composition": "[十*刀]",
+    "moe_variant_id": "A00332-0031",
+    "pua": "U+F8846"
+  },
+  "CB34887": {
+    "norm_unicode": "2B006",
+    "norm_uni_char": "𫀆",
+    "composition": "[社-土+包]",
+    "pua": "U+F8847"
+  },
+  "CB34888": {
+    "unicode": "6FFD",
+    "uni_char": "濽",
+    "composition": "[灒-兟+(替-日)]",
+    "norm_big5_char": "灒",
+    "moe_variant_id": "C06615-001",
+    "pua": "U+F8848"
+  },
+  "CB34889": {
+    "composition": "[車*(十/田/寸)]",
+    "norm_big5_char": "轉",
+    "moe_variant_id": "A04095-001",
+    "pua": "U+F8849"
+  },
+  "CB34890": {
+    "unicode": "29428",
+    "uni_char": "𩐨",
+    "composition": "[韸-丰+(舛-夕)]",
+    "moe_variant_id": "C16024",
+    "pua": "U+F884A"
+  },
+  "CB34891": {
+    "composition": "[蓬-丰+(舛-夕)]",
+    "pua": "U+F884B"
+  },
+  "CB34892": {
+    "composition": "[(卄/口/十)*(逢-丰+(舛-夕))]",
+    "pua": "U+F884C"
+  },
+  "CB34893": {
+    "composition": "[廱-邕+多]",
+    "pua": "U+F884D"
+  },
+  "CB34894": {
+    "composition": "[罷-(匕/匕)+糸]",
+    "pua": "U+F884E"
+  },
+  "CB34895": {
+    "composition": "[敲-高+(文/木)]",
+    "pua": "U+F884F"
+  },
+  "CB34896": {
+    "composition": "[目*((顯-頁)-日)]",
+    "pua": "U+F8850"
+  },
+  "CB34897": {
+    "composition": "[(條-木+(虫-、))/心]",
+    "pua": "U+F8851"
+  },
+  "CB34898": {
+    "composition": "[宴-女+(┐/一/八)]",
+    "pua": "U+F8852"
+  },
+  "CB34899": {
+    "composition": "[(口*口)/甲/一]",
+    "pua": "U+F8853"
+  },
+  "CB34900": {
+    "composition": "[廿/ㄠ/木]",
+    "pua": "U+F8854"
+  },
+  "CB34901": {
+    "composition": "[悠-(仁-二)+彳]",
+    "pua": "U+F8855"
+  },
+  "CB34902": {
+    "unicode": "7A42",
+    "uni_char": "穂",
+    "composition": "[禾*(十/思)]",
+    "norm_big5_char": "穗",
+    "moe_variant_id": "A02948-001",
+    "pua": "U+F8856"
+  },
+  "CB34903": {
+    "composition": "[穴/射]",
+    "pua": "U+F8857"
+  },
+  "CB34904": {
+    "composition": "[茵-大+乇]",
+    "pua": "U+F8858"
   }
 }
