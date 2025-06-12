@@ -123116,6 +123116,7 @@
     "unicode": "2E9D3",
     "uni_char": "𮧓",
     "composition": "[卄/口/十]",
+    "norm_big5_char": "革",
     "moe_variant_id": "A04509-006",
     "pua": "U+F58E2"
   },
@@ -125714,6 +125715,7 @@
     "unicode": "4E05",
     "uni_char": "丅",
     "composition": "[一/〡]",
+    "norm_big5_char": "下",
     "moe_variant_id": "A00005-001",
     "pua": "U+F5B54"
   },
@@ -127047,6 +127049,7 @@
   },
   "CB23660": {
     "composition": "[切/木]",
+    "norm_big5_char": "垛",
     "moe_variant_id": "B00524-008",
     "pua": "U+F5C6C"
   },
@@ -143004,6 +143007,7 @@
   },
   "CB27215": {
     "composition": "[怡-台+(匚@一)]",
+    "norm_big5_char": "忙",
     "moe_variant_id": "A01307-002",
     "pua": "U+F6A4F"
   },
@@ -144572,6 +144576,7 @@
     "norm_unicode": "27003",
     "norm_uni_char": "𧀃",
     "composition": "[(土/米)*(土/米)]",
+    "norm_big5_char": "棘",
     "moe_variant_id": "A01955-008",
     "pua": "U+F6BD3"
   },
@@ -144822,6 +144827,7 @@
     "unicode": "25F91",
     "uni_char": "𥾑",
     "composition": "[糸*(扥-(打-丁))]",
+    "norm_big5_char": "純",
     "moe_variant_id": "A03094-004",
     "pua": "U+F6C12"
   },
@@ -148976,6 +148982,7 @@
     "norm_unicode": "29B48",
     "norm_uni_char": "𩭈",
     "composition": "[肆-聿+((彰-章)/(百-日+目))]",
+    "norm_big5_char": "鬘",
     "moe_variant_id": "B05909-011",
     "pua": "U+F7046"
   },
@@ -164205,6 +164212,7 @@
     "unicode": "5BAB",
     "uni_char": "宫",
     "composition": "[宋-木+(口/口)]",
+    "norm_big5_char": "宮",
     "moe_variant_id": "A01028-001",
     "pua": "U+F7BCF"
   },
@@ -181941,6 +181949,7 @@
     "unicode": "2D531",
     "uni_char": "𭔱",
     "composition": "[辱-二+口]",
+    "norm_big5_char": "辱",
     "moe_variant_id": "A04110-004",
     "pua": "U+F8863"
   },
@@ -182359,8 +182368,8 @@
     "pua": "U+F88AE"
   },
   "CB34991": {
-    "unicode": "1D041",
-    "uni_char": "𝁁",
+    "unicode": "31C0",
+    "uni_char": "㇀",
     "composition": "[(冰-水)-、]",
     "pua": "U+F88AF"
   },
