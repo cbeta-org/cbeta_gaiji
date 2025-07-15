@@ -141556,7 +141556,7 @@
     "pua": "U+F68E2"
   },
   "CB26852": {
-    "composition": "[卄/(甬-用+丑)]",
+    "composition": "[卄/(甬-用+((巨-匚)@十))]",
     "pua": "U+F68E4"
   },
   "CB26853": {
@@ -148288,7 +148288,7 @@
     "pua": "U+F6F8A"
   },
   "CB28555": {
-    "composition": "[卄/(甬-用+((巨-匚)@十))]",
+    "composition": "[卄/(甬-用+丑)]",
     "pua": "U+F6F8B"
   },
   "CB28556": {
@@ -182020,7 +182020,7 @@
     "pua": "U+F886F"
   },
   "CB34928": {
-    "composition": "[葛-人+一]　",
+    "composition": "[葛-人+一]",
     "norm_big5_char": "葛",
     "moe_variant_id": "A03527-001",
     "pua": "U+F8870"
