@@ -182393,5 +182393,34 @@
     "norm_big5_char": "舟",
     "moe_variant_id": "A03410-001",
     "pua": "U+F88B2"
+  },
+  "CB34995": {
+    "unicode": "4072",
+    "uni_char": "䁲",
+    "composition": "[目*買]",
+    "moe_variant_id": "C08518",
+    "pua": "U+F88B3"
+  },
+  "CB34996": {
+    "unicode": "4A7C",
+    "uni_char": "䩼",
+    "composition": "[革*逢]",
+    "moe_variant_id": "C15901",
+    "pua": "U+F88B4"
+  },
+  "CB34997": {
+    "unicode": "28AB8",
+    "uni_char": "𨪸",
+    "composition": "[(錘-┴+山)-(十*十)+卄]",
+    "moe_variant_id": "A04325-005",
+    "pua": "U+F88B5"
+  },
+  "CB34998": {
+    "unicode": "22451",
+    "uni_char": "𢑑",
+    "composition": "[((巨-匚)@一)/((巨-匚)@一)]",
+    "norm_big5_char": "多",
+    "moe_variant_id": "A00842-007",
+    "pua": "U+F88B6"
   }
 }
