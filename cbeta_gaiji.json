@@ -93043,6 +93043,8 @@
     "pua": "U+F3C0A"
   },
   "CB15371": {
+    "unicode": "1F78B",
+    "uni_char": "🞋",
     "composition": "[○@⊙]",
     "pua": "U+F3C0B"
   },
@@ -182422,5 +182424,22 @@
     "norm_big5_char": "多",
     "moe_variant_id": "A00842-007",
     "pua": "U+F88B6"
+  },
+  "CB34999": {
+    "unicode": "9815",
+    "uni_char": "頕",
+    "composition": "[占*頁]",
+    "moe_variant_id": "C16105",
+    "pua": "U+F88B7"
+  },
+  "CB35000": {
+    "unicode": "2ED75",
+    "uni_char": "𮵵",
+    "composition": "[竺-二+(大/田)]",
+    "pua": "U+F88B8"
+  },
+  "CB35001": {
+    "composition": "[口*(宓/用)]",
+    "pua": "U+F88B9"
   }
 }
