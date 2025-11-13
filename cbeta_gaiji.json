@@ -182441,5 +182441,13 @@
   "CB35001": {
     "composition": "[口*(宓/用)]",
     "pua": "U+F88B9"
+  },
+  "CB35002": {
+    "unicode": "21248",
+    "uni_char": "𡉈",
+    "composition": "[在-(仁-二)+((打-丁)-一)]",
+    "norm_big5_char": "在",
+    "moe_variant_id": "A00743-005",
+    "pua": "U+F88BA"
   }
 }
