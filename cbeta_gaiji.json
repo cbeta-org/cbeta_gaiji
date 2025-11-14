@@ -18350,8 +18350,9 @@
     "pua": "U+F0AAE"
   },
   "CB02735": {
+    "norm_unicode": "210E4",
+    "norm_uni_char": "𡃤",
     "composition": "[口*束*頁]",
-    "norm_big5_char": "𡃤",
     "moe_variant_id": "c18412-002",
     "pua": "U+F0AAF"
   },
