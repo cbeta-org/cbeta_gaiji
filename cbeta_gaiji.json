@@ -182449,5 +182449,19 @@
     "norm_big5_char": "在",
     "moe_variant_id": "A00743-005",
     "pua": "U+F88BA"
+  },
+  "CB35003": {
+    "unicode": "29643",
+    "uni_char": "𩙃",
+    "composition": "[彳*韋*風]",
+    "moe_variant_id": "C16330-003",
+    "pua": "U+F88BB"
+  },
+  "CB35004": {
+    "unicode": "237FC",
+    "uni_char": "𣟼",
+    "composition": "[枲*焦]",
+    "moe_variant_id": "C05589",
+    "pua": "U+F88BC"
   }
 }
