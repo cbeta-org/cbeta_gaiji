@@ -182464,5 +182464,26 @@
     "composition": "[枲*焦]",
     "moe_variant_id": "C05589",
     "pua": "U+F88BC"
+  },
+  "CB35005": {
+    "unicode": "9FFE",
+    "uni_char": "鿾",
+    "composition": "[土*郎]",
+    "pua": "U+F88BD"
+  },
+  "CB35006": {
+    "composition": "[拶-夕+歹]",
+    "norm_big5_char": "拶",
+    "moe_variant_id": "B01283-005",
+    "pua": "U+F88BE"
+  },
+  "CB35007": {
+    "composition": "[木*(厂@敞)]",
+    "pua": "U+F88BF"
+  },
+  "CB35008": {
+    "composition": "[鬥@((留-田+亞)*斤)]",
+    "norm_big5_char": "鬥",
+    "pua": "U+F88C0"
   }
 }
