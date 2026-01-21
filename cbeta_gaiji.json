@@ -182485,5 +182485,9 @@
     "composition": "[鬥@((留-田+亞)*斤)]",
     "norm_big5_char": "鬥",
     "pua": "U+F88C0"
+  },
+  "CB35009": {
+    "composition": "[（十一）]",
+    "pua": "U+F88C1"
   }
 }
