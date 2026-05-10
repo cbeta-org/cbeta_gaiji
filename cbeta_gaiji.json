@@ -182489,5 +182489,98 @@
   "CB35009": {
     "composition": "[（十一）]",
     "pua": "U+F88C1"
+  },
+  "CB35010": {
+    "unicode": "3251",
+    "uni_char": "㉑",
+    "composition": "[○@２１]",
+    "pua": "U+F88C2"
+  },
+  "CB35011": {
+    "unicode": "3252",
+    "uni_char": "㉒",
+    "composition": "[○@２２]",
+    "pua": "U+F88C3"
+  },
+  "CB35012": {
+    "unicode": "3253",
+    "uni_char": "㉓",
+    "composition": "[○@２３]",
+    "pua": "U+F88C4"
+  },
+  "CB35013": {
+    "unicode": "3254",
+    "uni_char": "㉔",
+    "composition": "[○@２４]",
+    "pua": "U+F88C5"
+  },
+  "CB35014": {
+    "unicode": "3255",
+    "uni_char": "㉕",
+    "composition": "[○@２５]",
+    "pua": "U+F88C6"
+  },
+  "CB35015": {
+    "unicode": "3256",
+    "uni_char": "㉖",
+    "composition": "[○@２６]",
+    "pua": "U+F88C7"
+  },
+  "CB35016": {
+    "unicode": "3257",
+    "uni_char": "㉗",
+    "composition": "[○@２７]",
+    "pua": "U+F88C8"
+  },
+  "CB35017": {
+    "unicode": "3258",
+    "uni_char": "㉘",
+    "composition": "[○@２８]",
+    "pua": "U+F88C9"
+  },
+  "CB35018": {
+    "unicode": "3259",
+    "uni_char": "㉙",
+    "composition": "[○@２９]",
+    "pua": "U+F88CA"
+  },
+  "CB35019": {
+    "unicode": "325A",
+    "uni_char": "㉚",
+    "composition": "[○@３０]",
+    "pua": "U+F88CB"
+  },
+  "CB35020": {
+    "unicode": "325B",
+    "uni_char": "㉛",
+    "composition": "[○@３１]",
+    "pua": "U+F88CC"
+  },
+  "CB35021": {
+    "unicode": "325C",
+    "uni_char": "㉜",
+    "composition": "[○@３２]",
+    "pua": "U+F88CD"
+  },
+  "CB35022": {
+    "unicode": "20D02",
+    "uni_char": "𠴂",
+    "composition": "[口*努]",
+    "pua": "U+F88CE"
+  },
+  "CB35023": {
+    "composition": "[口*護]",
+    "pua": "U+F88CF"
+  },
+  "CB35024": {
+    "composition": "[渧/口]",
+    "pua": "U+F88D0"
+  },
+  "CB35025": {
+    "unicode": "7B0C",
+    "uni_char": "笌",
+    "composition": "[竺-二+牙]",
+    "moe_variant_id": "C09485",
+    "pua": "U+F88D1"
   }
 }
