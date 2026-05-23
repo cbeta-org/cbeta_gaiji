@@ -182582,5 +182582,11 @@
     "composition": "[竺-二+牙]",
     "moe_variant_id": "C09485",
     "pua": "U+F88D1"
+  },
+  "CB35026": {
+    "unicode": "255B2",
+    "uni_char": "𥖲",
+    "composition": "[石*壽]",
+    "pua": "U+F88D2"
   }
 }
