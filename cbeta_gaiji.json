@@ -182588,5 +182588,34 @@
     "uni_char": "𥖲",
     "composition": "[石*壽]",
     "pua": "U+F88D2"
+  },
+  "CB35027": {
+    "composition": "[蠢-春+昆]",
+    "pua": "U+F88D3"
+  },
+  "CB35028": {
+    "composition": "[虫*美]",
+    "pua": "U+F88D4"
+  },
+  "CB35029": {
+    "unicode": "24E32",
+    "uni_char": "𤸲",
+    "composition": "[病-丙+烝]",
+    "moe_variant_id": "C07973",
+    "pua": "U+F88D5"
+  },
+  "CB35030": {
+    "composition": "[墜-(邱-丘)+(仁-二)]",
+    "pua": "U+F88D6"
+  },
+  "CB35031": {
+    "unicode": "6E8B",
+    "uni_char": "溋",
+    "composition": "[泳-永+盈]",
+    "pua": "U+F88D7"
+  },
+  "CB35032": {
+    "composition": "[穀-禾+ㄎ]",
+    "pua": "U+F88D8"
   }
 }
