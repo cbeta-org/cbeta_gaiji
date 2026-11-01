@@ -182621,5 +182621,34 @@
   "CB35033": {
     "composition": "[田*疊]",
     "pua": "U+F88D9"
+  },
+  "CB35034": {
+    "unicode": "2683C",
+    "uni_char": "𦠼",
+    "composition": "[腦-囟+((ㄇ@人)/(夙-歹+(舉-與)))]",
+    "norm_big5_char": "臘",
+    "pua": "U+F88DA"
+  },
+  "CB35035": {
+    "unicode": "20CC1",
+    "uni_char": "𠳁",
+    "composition": "[口*困]",
+    "moe_variant_id": "N00381",
+    "pua": "U+F88DB"
+  },
+  "CB35036": {
+    "unicode": "259D4",
+    "uni_char": "𥧔",
+    "composition": "[穴/氣]",
+    "norm_big5_char": "屁",
+    "moe_variant_id": "C09355",
+    "pua": "U+F88DC"
+  },
+  "CB35037": {
+    "unicode": "29CCD",
+    "uni_char": "𩳍",
+    "composition": "[魅-未+巠]",
+    "moe_variant_id": "C17093",
+    "pua": "U+F88DD"
   }
 }

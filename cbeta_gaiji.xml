@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2026-09-22T07:44:27">
+<dataroot xmlns:od="urn:schemas-microsoft-com:officedata" generated="2026-11-02T04:49:58">
 <cbeta_gaiji>
 <ID>CB00001</ID>
 <unicode>6B35</unicode>
@@ -214282,5 +214282,38 @@
 <ID>CB35033</ID>
 <composition>[田*疊]</composition>
 <pua>U+F88D9</pua>
+</cbeta_gaiji>
+<cbeta_gaiji>
+<ID>CB35034</ID>
+<unicode>2683C</unicode>
+<uni_char>𦠼</uni_char>
+<composition>[腦-囟+((ㄇ@人)/(夙-歹+(舉-與)))]</composition>
+<norm_big5_char>臘</norm_big5_char>
+<pua>U+F88DA</pua>
+</cbeta_gaiji>
+<cbeta_gaiji>
+<ID>CB35035</ID>
+<unicode>20CC1</unicode>
+<uni_char>𠳁</uni_char>
+<composition>[口*困]</composition>
+<moe_variant_id>N00381</moe_variant_id>
+<pua>U+F88DB</pua>
+</cbeta_gaiji>
+<cbeta_gaiji>
+<ID>CB35036</ID>
+<unicode>259D4</unicode>
+<uni_char>𥧔</uni_char>
+<composition>[穴/氣]</composition>
+<norm_big5_char>屁</norm_big5_char>
+<moe_variant_id>C09355</moe_variant_id>
+<pua>U+F88DC</pua>
+</cbeta_gaiji>
+<cbeta_gaiji>
+<ID>CB35037</ID>
+<unicode>29CCD</unicode>
+<uni_char>𩳍</uni_char>
+<composition>[魅-未+巠]</composition>
+<moe_variant_id>C17093</moe_variant_id>
+<pua>U+F88DD</pua>
 </cbeta_gaiji>
 </dataroot>
